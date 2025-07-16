@@ -1681,10 +1681,10 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1038 | Multimedios Televisión Canal 6 || MÉXICO
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="MX | a más+" tvg-name="MX | a más+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/200px-A%2B_2021.svg.png" group-title="MEXICO", 1039 | a más+ || MÉXICO
-http://167.114.156.136:25461/INFINITV/ZX89NM22/113
-#EXTINF:-1 tvg-id="MX | Nu9ve" tvg-name="MX | Nu9ve" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="MEXICO", 1040 | Nu9ve || MÉXICO
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | GALAVISION" tvg-name="MX | GALAVISION" tvg-logo="" group-title="MEXICO", 1039 | GALAVISION || MÉXICO
+http://104.238.205.28:8989/278722_.m3u8
+#EXTINF:-1 tvg-id="MX | GALAVISION" tvg-name="MX | GALAVISION" tvg-logo="" group-title="MEXICO", 1040 | GALAVISION || MÉXICO
+http://104.238.205.28:8989/278719_.m3u8
 #EXTINF:-1 tvg-id="MX | Justicia TV" tvg-name="MX | Justicia TV" tvg-logo="https://yt3.googleusercontent.com/IQ9OT-8XLVsNLMl5nCkh_uU7uJ0iaUpa2gQ6o8U66dp4JCG6f9mYtVIFivm-TMla_Sg7ekdUyYg=s160-c-k-c0x00ffffff-no-rj" group-title="MEXICO", 1041 | Justicia TV || MÉXICO
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 1042 | Unicable || MÉXICO
