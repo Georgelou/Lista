@@ -255,7 +255,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6181404ef48321000797bc41/master.m3u
 #EXTINF:-1 tvg-id="6511a5d8d1f20c000864b951" tvg-name="Victorious" tvg-logo="https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png" group-title="CANALES 24/7" tvg-chno="502", Victorious
 https://stitcher.pluto.tv/stitch/hls/channel/6511a5d8d1f20c000864b951/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
 
-#EXTINF:-1 tvg-id="6511a53f473a54000854e2ee" tvg-name="Zoey 101" tvg-logo="https://images.pluto.tv/channels/6511a53f473a54000854e2ee/colorLogoPNG.png" group-title="CAANALES 24/7" tvg-chno="503", Zoey 101
+#EXTINF:-1 tvg-id="6511a53f473a54000854e2ee" tvg-name="Zoey 101" tvg-logo="https://images.pluto.tv/channels/6511a53f473a54000854e2ee/colorLogoPNG.png" group-title="CANALES 24/7" tvg-chno="503", Zoey 101
 https://stitcher.pluto.tv/stitch/hls/channel/6511a53f473a54000854e2ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
 #EXTINF:-1 tvg-id="6322099c822bbc00074857db" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="CANALES 24/7" tvg-chno="1465", Los Padrinos Mágicos
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
@@ -265,7 +265,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u
 https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | DIGIMON" tvg-name="PE | DIGIMON" tvg-logo="" group-title="CANALES 24/7", 55 | DIGIMON || 
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | DRAGON BALL SUPER" tvg-name="PE | DRAGON BALL SUPER" tvg-logo="" group-title="CANALES 24/7", 56 | Ucayali TV || Pucallpa
+#EXTINF:-1 tvg-id="PE | DRAGON BALL SUPER" tvg-name="PE | DRAGON BALL SUPER" tvg-logo="" group-title="CANALES 24/7", 56 | DRAGÓN BALL SUPER|| 
 https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | DRAGÓN BALL " tvg-name="PE | DRAGON BALL" tvg-logo="" group-title="CANALES 24/7", 57 | DRAGON BALL || 
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
