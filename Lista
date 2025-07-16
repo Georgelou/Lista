@@ -125,8 +125,9 @@ https://eu1.servers10.com:8081/8180/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/playlist.m3u8?uid=4711663
 #EXTINF:-1 tvg-id="PE | BNB Digital TV" tvg-name="PE | BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="REGIONALES", 58 | BNB Digital TV || Atalaya
 https://play.agenciastreaming.com:8081/bnblimalive/index.m3u8
-#EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 59 | Top TV || Aguaytía
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1 tvg-id="USA | UNIVISION NOVELAS" tvg-name="USA | UNIVISION NOVELAS" tvg-logo="" group-title="USA", 59 | UNIVISION NOVELAS|| USA
+http://104.238.205.28:8989/278690_.m3u8
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w240-h480-rw" group-title="NOVELAS", 60 | Novelísima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 61 | Kanal D Drama
