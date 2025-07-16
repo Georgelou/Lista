@@ -677,6 +677,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/multicanal/playlist.m3u8
 http://38.41.8.1:8000/play/a0vz
 #EXTINF:-1 tvg-id="CO | Huila TV" tvg-name="CO | Huila TV" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="COLOMBIA", 321 | Huila TV || COLOMBIA
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+
 #EXTINF:-1 tvg-id="VE | TVES" tvg-name="VE | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png/290px-Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png" group-title="VENEZUELA", 322 | TVES || VENEZUELA
 http://38.41.8.1:8000/play/a03k
 #EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", 323 | Venevisión || VENEZUELA
@@ -721,6 +722,7 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Telearagua" tvg-name="VE | Telearagua" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a9d8a5767456b0a2e0382f9087d63914.webp" group-title="VENEZUELA", 343 | Telearagua || VENEZUELA
 http://45.173.198.59:8080/hls/nginx3.m3u8
+
 #EXTINF:-1 tvg-id="BR | TV Brasil" tvg-name="BR | TV Brasil" tvg-logo="https://s2.glbimg.com/e0Pj7r09Z16FXeEmDfffESxLtUk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/P/I/kWROf8ROqpWkcIt24TbQ/tv-brasil.jpg" group-title="BRASIL", 344 | TV Brasil || BRASIL
 https://cdn.jmvstream.com/w/AVJ-12962/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", 345 | Rede TV || BRASIL
@@ -943,6 +945,7 @@ https://avancabrasilcod.akamaized.net/avancabrasil/avancabrasil/playlist.m3u8
 https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | The Market Guide TV" tvg-name="BR | The Market Guide TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2413/brand.gif?itok=kY7S_V8T" group-title="BRASIL", 664 | The Market Guide TV || BRASIL
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 665 | Unitel || BOLIVIA
 http://38.41.8.1:8000/play/a0d7
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", 666 | RTP || BOLIVIA
@@ -1003,6 +1006,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="BO | Cinerama Televisión" tvg-name="BO | Cinerama Televisión" tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="PELICULAS Y SERIES", 702 | Cinerama Televisión || BOLIVIA
 https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
+
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 703 | La Red || CHILE
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | TVN" tvg-name="CL | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/150px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png" group-title="CHILE", 704 | TVN || CHILE
@@ -1087,8 +1091,8 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Plaza TV" tvg-name="CL | Plaza TV" tvg-logo="https://pbs.twimg.com/profile_images/1463313754712465410/BSW2UVAs_400x400.jpg" group-title="CHILE", 744 | Plaza TV || CHILE
 https://marine2.miplay.cl/girovisual/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | TV Pop" tvg-name="CL | TV Pop" tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="CHILE", En prueba | TV Pop
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="" group-title="ARGENTINA", C5N | ARGENTINA 
+http://104.238.205.28:8989/278752_.m3u8
 #EXTINF:-1 tvg-id="AR | Television Publica" tvg-name="AR | Television Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/250px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", En prueba | Television Publica || ARGENTINA
 http://38.41.8.1:8000/play/a040
 #EXTINF:-1 tvg-id="AR | Ciudad Mágica TV" tvg-name="AR | Ciudad Mágica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="ARGENTINA", 747 | Ciudad Mágica TV || ARGENTINA
@@ -1099,8 +1103,8 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Aire de Santa Fé" tvg-name="AR | Aire de Santa Fé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Aire-de-Santa-Fe-en-vivo-Online.png" group-title="ARGENTINA", 750 | Aire de Santa Fé || ARGENTINA
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Canal 10 de Córdoba" tvg-name="AR | Canal 10 de Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="ARGENTINA", 751 | Canal 10 de Córdoba || ARGENTINA
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Canal nueve" tvg-name="AR | Canal 9" tvg-logo=".png" group-title="ARGENTINA", 751 | Canal 9 || ARGENTINA
+http://104.238.205.28:8989/278759_.m3u8
 #EXTINF:-1 tvg-id="AR | Canal NET" tvg-name="AR | Canal NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="ARGENTINA", 752 | Canal NET || ARGENTINA
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Canal 7 de Salta" tvg-name="AR | Canal 7 de Salta" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png" group-title="ARGENTINA", 753 | Canal 7 de Salta || ARGENTINA
