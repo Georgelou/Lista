@@ -115,14 +115,7 @@ https://play.agenciastreaming.com:8081/cnctviquitos/video.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Arpegio TV" tvg-name="PE | Arpegio TV" tvg-logo="https://play-lh.googleusercontent.com/rd6GbPSIP8KEAiZgNRc_DhPpJIERbXRFGiNdIlzy85AvNN7A0FAlSsh66skoKopLHoI=w240-h480-rw" group-title="REGIONALES", 53 | Arpegio TV || Iquitos
 https://tv.oyotunserver.com:3954/live/demolive.m3u8
-#EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 54 | Oriental TV || Pucallpa
-https://ott1.hdlatam.tv/live/orientaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Ya TV" tvg-name="PE | Ya TV" tvg-logo="https://play-lh.googleusercontent.com/_X3laoxSMiqEcP6gR4MNX-7FWqAM8YIOv0Ho6juGEA6elk6b4X_sFliEXUn7_LyUiQ=w240-h480-rw" group-title="REGIONALES", 55 | Ya TV || Pucallpa
-https://play.agenciastreaming.com:8081/yatvpucallpa/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="REGIONALES", 56 | Ucayali TV || Pucallpa
-https://eu1.servers10.com:8081/8180/index.m3u8
-#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://4.bp.blogspot.com/-5M-VuRAdvTU/T4yTbNOp-7I/AAAAAAAAABI/-yQ7qdHRyFU/s400/Ribere%25C3%25B1a%2BTV%2BLogo%2Bpag.png" group-title="REGIONALES", 57 | Ribereña TV || Pucallpa
-https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/playlist.m3u8?uid=4711663
+
 
 #EXTINF:-1 group-title="NOVELAS", 602 Novelas Colombianas 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -262,7 +255,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
 #EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="CANALES 24/7" tvg-chno="1470", Las Tortugas Ninja
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
-
+#EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 54 | Oriental TV || Pucallpa
+https://ott1.hdlatam.tv/live/orientaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Ya TV" tvg-name="PE | Ya TV" tvg-logo="https://play-lh.googleusercontent.com/_X3laoxSMiqEcP6gR4MNX-7FWqAM8YIOv0Ho6juGEA6elk6b4X_sFliEXUn7_LyUiQ=w240-h480-rw" group-title="REGIONALES", 55 | Ya TV || Pucallpa
+https://play.agenciastreaming.com:8081/yatvpucallpa/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="REGIONALES", 56 | Ucayali TV || Pucallpa
+https://eu1.servers10.com:8081/8180/index.m3u8
+#EXTINF:-1 tvg-id="PE | DRAGÓN BALL " tvg-name="PE | DRAGON BALL" tvg-logo="" group-title="CANALES 24/7", 57 | DRAGON BALL || 
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/250px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS E INFORMACION", 111 | CNN en Español
