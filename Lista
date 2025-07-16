@@ -602,7 +602,7 @@ https://ott1.hdlatam.tv/live_abr/TvmundoArequipa/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | ECUAVISA" tvg-name="EC | ECUAVISA" tvg-logo="" group-title="ECUADOR", 285 | ECUAVISA || ECUADOR
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b241080876268770116de318
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="" group-title="ECUADOR", 286 | RTS || ECUADOR
-https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
+https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="" group-title="ECUADOR", 287 | TVC || ECUADOR
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-name="EC | TELEAMAZONAS" tvg-logo="" group-title="ECUADOR", 288 | TELEAMAZONAS || ECUADOR 
