@@ -191,8 +191,8 @@ http://160.20.165.246:8000/play/a02a/index.m3u8
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="PELICULAS Y SERIES", 88 | FMH Movies
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | DINEY CHANNEL " tvg-name="PE | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES", 89 | NICK JR
-http://200.60.124.20:29000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-id="PE | DINEY CHANNEL " tvg-name="PE | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES", 89 | DISNEY CHANNEL
+http://200.60.124.20:29000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 90 | Cartoon Network
 http://38.41.8.1:8000/play/a0tb
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 91 | Cartoonito
@@ -223,8 +223,8 @@ https://ott1.hdlatam.tv/live/k1ds_TVNXDRMBXMLSK/playlist.m3u8
 http://160.20.165.246:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTILES", 104 | FMH Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Peque TV" tvg-name="CL | Peque TV" tvg-logo="https://pbs.twimg.com/media/Gu_Z8XFWQAAEaDB?format=png&name=small" group-title="INFANTILES", 105 | Peque TV
-https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8?uid=74530
+#EXTINF:-1 tvg-id="CL | DISNEY JR" tvg-name="CL | DISNEY JR" tvg-logo="" group-title="INFANTILES", 105 | DISNEY JR
+http://200.60.124.20:29000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/330px-123TV_logo_2022.jpg" group-title="INFANTILES", 106 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/200px-Discovery_Kids_Logo_%282021%29.webp.png" group-title="INFANTILES", 107 | Discovery Kids
