@@ -255,12 +255,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
 #EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="CANALES 24/7" tvg-chno="1470", Las Tortugas Ninja
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
-#EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 54 | Oriental TV || Pucallpa
-https://ott1.hdlatam.tv/live/orientaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Ya TV" tvg-name="PE | Ya TV" tvg-logo="https://play-lh.googleusercontent.com/_X3laoxSMiqEcP6gR4MNX-7FWqAM8YIOv0Ho6juGEA6elk6b4X_sFliEXUn7_LyUiQ=w240-h480-rw" group-title="REGIONALES", 55 | Ya TV || Pucallpa
-https://play.agenciastreaming.com:8081/yatvpucallpa/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="REGIONALES", 56 | Ucayali TV || Pucallpa
-https://eu1.servers10.com:8081/8180/index.m3u8
+#EXTINF:-1 tvg-id="PE | SIMPSON" tvg-name="PE | SIMPSON" tvg-logo="" group-title="CANALES 24/7", 54 | SIMPSON || 
+https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | DIGIMON" tvg-name="PE | DIGIMON" tvg-logo="" group-title="CANALES 24/7", 55 | DIGIMON || 
+https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | DRAGON BALL SUPER" tvg-name="PE | DRAGON BALL SUPER" tvg-logo="" group-title="CANALES 24/7", 56 | Ucayali TV || Pucallpa
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | DRAGÓN BALL " tvg-name="PE | DRAGON BALL" tvg-logo="" group-title="CANALES 24/7", 57 | DRAGON BALL || 
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
