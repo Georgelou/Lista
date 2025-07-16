@@ -123,8 +123,8 @@ https://play.agenciastreaming.com:8081/yatvpucallpa/index.fmp4.m3u8
 https://eu1.servers10.com:8081/8180/index.m3u8
 #EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://4.bp.blogspot.com/-5M-VuRAdvTU/T4yTbNOp-7I/AAAAAAAAABI/-yQ7qdHRyFU/s400/Ribere%25C3%25B1a%2BTV%2BLogo%2Bpag.png" group-title="REGIONALES", 57 | Ribereña TV || Pucallpa
 https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/playlist.m3u8?uid=4711663
-#EXTINF:-1 tvg-id="PE | BNB Digital TV" tvg-name="PE | BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="REGIONALES", 58 | BNB Digital TV || Atalaya
-https://play.agenciastreaming.com:8081/bnblimalive/index.m3u8
+#EXTINF:-1 tvg-id="USA | NOVELAS TURCAS" tvg-name="USA | NOVELAS TURCAS" tvg-logo="" group-title="NOVELAS", 58 | NOVELAS TURCAS || 
+https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | UNIVISION NOVELAS" tvg-name="USA | UNIVISION NOVELAS" tvg-logo="" group-title="NOVELAS", 59 | UNIVISION NOVELAS|| 
 http://104.238.205.28:8989/278690_.m3u8
