@@ -1333,8 +1333,8 @@ https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 https://astra.teleceiba.com:8443/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="HN | 45 TV El canal de los Ceibeños" tvg-name="HN | 45 TV El canal de los Ceibeños" tvg-logo="https://45tvhn.com/wp-content/uploads/2019/10/Logo-Header-X2-1.png" group-title="HONDURAS", 866 | 45 TV El canal de los Ceibeños || HONDURAS
 http://go.iptvhn.net:25461/7680/7680/227
-#EXTINF:-1 tvg-id="HN | Une TV" tvg-name="HN | Une TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVTLb4P-M3bk02XzZw6njPNKtrF5GEeE5CWGfu1=s900-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 867 | Une TV || HONDURAS
-https://amixtv.live:3395/live/unetvlive.m3u8
+#EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_11_Honduras_2011_2.png/revision/latest?cb=20210428031231&path-prefix=es" group-title="HONDURAS", 838.1 | Canal 11 || HONDURAS
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GT | A +" tvg-name="GT | A +" tvg-logo="Ikg" group-title="GUATEMALA", 868 | A + || GUATEMALA 
 https://ch2-tva.duin.dev/hls/stream.m3u8
