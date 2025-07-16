@@ -1115,6 +1115,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-id="AR | CINE AR" tvg-name="AR | CINE AR" tvg-logo="" group-title="ARGENTINA", 755 | CINE AR || ARGENTINA
 http://104.238.205.28:8989/278753_.m3u8
+
 #EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 756 | Un Canal Latinoamericano TV || URUGUAY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="UY | TVF Canal 4 Florida" tvg-name="UY | TVF Canal 4 Florida" tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/w700-h400-p-k-no-nu/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", 757 | TVF Canal 4 Florida || URUGUAY
@@ -1123,10 +1124,12 @@ https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
 https://clientestv.bachistreaming.com:3721/multi_web/play_src.m3u8
 #EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", 759 | Charrua TV || URUGUAY
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 761 | C9N || PARAGUAY
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 762 | SNT || PARAGUAY
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
+
 #EXTINF:-1 tvg-id="PA | Televisora Nacional de Panamá" tvg-name="PA | Televisora Nacional de Panamá" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", 768 | Televisora Nacional || PANAMÁ
 http://45.5.117.182:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="PA | Radio Programas Continentales TV" tvg-name="PA | Radio Programas Continentales TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="PANAMÁ", 769 | RPC TV || PANAMÁ
@@ -1143,6 +1146,7 @@ http://45.5.117.182:8000/play/a0g6/index.m3u8
 http://45.5.117.182:8000/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-id="PA | Plus TV" tvg-name="PA | Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/84d1f1e27f3b9544f23ee9b01949f2224f8f52dbda505a2ceaea968f2d7933f6.png" group-title="PANAMÁ", 775 | Plus TV || PANAMÁ
 https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 777 | Canal 2 CDR || COSTA RICA
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", 778 | Canal 4 || COSTA RICA
@@ -1183,6 +1187,7 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="CR | Colosal TV" tvg-name="CR | Colosal TV" tvg-logo="https://pbs.twimg.com/media/FcB6HSyXwAAsFGg?format=png&name=360x360" group-title="MUSICA Y REALITIES", 798 | Colosal TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NI | Canal 2" tvg-name="NI | Canal 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCAAsfEEW97LI5peV0NGAtlIL5VfhnX-schTiTTLig0Oemf0HpCUT4kF6KA1tAKx2ev8&usqp=CAU" group-title="NICARAGUA", 799 | Canal 2 Televicentro || NICARAGUA
 http://179.61.31.142:8000/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 4" tvg-name="NI | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/150px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="NICARAGUA", 800 | Canal 4 Multinoticias || NICARAGUA
@@ -1215,6 +1220,7 @@ https://hdbox.chunklistv.com/live?stream=tvone
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicarao TV" tvg-name="NI | Nicarao TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/250px-Nicarao_TV_Logo.jpg" group-title="NICARAGUA", 814 | Nicarao TV || NICARAGUA
 http://179.61.31.142:8000/play/a0aq/index.m3u8
+
 #EXTINF:-1 tvg-id="SV | TV-2" tvg-name="SV | TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/150px-TCS_2_2016.png" group-title="EL SALVADOR", 815 | TV-2 || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 3" tvg-name="SV | Canal 3" tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1536x1301.png" group-title="EL SALVADOR", 816 | Canal 3 || EL SALVADOR
@@ -1247,6 +1253,7 @@ https://stream.giostreaming.net:19360/canal57/canal57.m3u8
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="SV | TVU" tvg-name="SV | TVU" tvg-logo="https://tvuelsalvadordigital.com/wp-content/uploads/2024/09/cropped-IMG_3017-removebg-preview-1-175x89.png" group-title="EL SALVADOR", En prueba | TVU || EL SALVADOR
 https://rtmp.info/tvusuluteca/envivo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HN | Telesistema Informativo" tvg-name="HN | Telesistema Informativo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvqdLQlc8QobZms93gGFRZRpG0bdvso1Vkw73Z25dNd70l0qQW5ir2t6YIDBAe03x_gu8&usqp=CAU" group-title="HONDURAS", 830 | TSi Canal 3 || HONDURAS
 http://179.61.31.142:8000/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 831 | Canal 5 El Lider || HONDURAS
@@ -1325,6 +1332,7 @@ http://go.iptvhn.net:25461/7680/7680/227
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="HN | STVE Telebásica" tvg-name="HN | STVE Telebásica" tvg-logo="https://i.ytimg.com/vi/lJFQNVlET2M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSuzmEhm_Od47ommjgMFhAdQkIkg" group-title="HONDURAS", 868 | STVE Telebásica || HONDURAS
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/800px-Canal3GT2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/1024px-Canal7GT2022.png" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
@@ -1449,6 +1457,7 @@ https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 http://svtv.xyz:8080/live/sandra30abril/CQNFV/278550.m3u8
 #EXTINF:-1 tvg-id="GT | GT Live" tvg-name="GT | GT Live" tvg-logo="https://www.hispanatv.com/img/tv/Gt-Live.png" group-title="GUATEMALA", 930 | GT Live || GUATEMALA
 https://emisoras.hn:8081/gtlive/index.m3u8
+
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWDgF8YWCRF1XvDjqnhAGPt2G8E0Z4dC8kRqEyz3SLQ=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 931 | Teleantillas || REPUBLICA DOMINICANA
 http://38.41.8.1:8000/play/a0y3
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 932 | Si TV || REPUBLICA DOMINICANA
@@ -1655,12 +1664,13 @@ https://soportedvb.click:3504/live/dajabontvlive.m3u8
 https://livemediacp.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Tele Siglo" tvg-name="DO | Tele Siglo" tvg-logo="https://pbs.twimg.com/media/GBgiu3IWwAA3itZ?format=png&name=small" group-title="REPUBLICA DOMINICANA", 1032 | Tele Siglo || REPUBLICA DOMINICANA
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-#EXTINF:-1 tvg-id="DO | CTN" tvg-name="DO | CTN" tvg-logo="https://ctn.com.do/wp-content/uploads/2023/06/Logo-CTN-New.png" group-title="REPUBLICA DOMINICANA", En prueba | CTN || REPUBLICA DOMINICANA
-https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="REPUBLICA DOMINICANA", En prueba | Fuego 40 TV
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | UNIMAS" tvg-name="MX | UNIMAS" tvg-logo="" group-title="MEXICO", UNIMAS | MEXICO 
+http://104.238.205.28:8989/278735_.m3u8
+#EXTINF:-1 tvg-id="MX | UNIMAS" tvg-name="MX | UNIMAS" tvg-logo="" group-title="MEXICO", UNIMAS | MEXICO 
+http://104.238.205.28:8989/278733_.m3u8
 #EXTINF:-1 tvg-id="CU | Canal Clave" tvg-name="CU | Canal Clave" tvg-logo="https://pbs.twimg.com/profile_images/1589839999205359617/fAfsI8AI_400x400.jpg" group-title="CUBA", 1033 | Canal Clave || CUBA
 http://181.78.78.105:8000/play/a029/index.m3u8
+
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1034 | Azteca Uno || MÉXICO
 http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
@@ -1693,6 +1703,7 @@ https://dbdfj5y8nz2u4.cloudfront.net/c13guadalajara/d0dbe915091d400bd8ee7f27f079
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1049 | Telemundo || PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 1050 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1051 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
@@ -1707,6 +1718,7 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056 | Telemundo Florida || ESTADOS UNIDOS DE AMÉRICA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1057 | Star TVE HD || ESPAÑA
 http://45.5.117.182:8000/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 1058 | La 1 || ESPAÑA
