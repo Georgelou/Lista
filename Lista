@@ -600,8 +600,7 @@ https://play.agenciastreaming.com:8081/antena1/index.fmp4.m3u8
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-1 tvg-id="PE | Visión Sur" tvg-name="PE | Visión Sur" tvg-logo="https://yt3.ggpht.com/7gYYwN5Vcc60oExLwR3qVffR8Hln2KwuwkGB4v95cfk4TsvazLINUrXt9MWagrzjbuWee8Vc=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 283 | Visión Sur || Arequipa
 https://live-evg25.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="http://core1.hdlatam.tv/media/images/channel/tvmundoarequipa.png" group-title="REGIONALES", 284 | TV Mundo || Arequipa
-https://ott1.hdlatam.tv/live_abr/TvmundoArequipa/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="EC | ECUAVISA" tvg-name="EC | ECUAVISA" tvg-logo="" group-title="ECUADOR", 285 | ECUAVISA || ECUADOR
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b241080876268770116de318
@@ -647,6 +646,11 @@ https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | RTV" tvg-name="EC | RTV" tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2022/08/SELLO-RTV-2022-1536x1536.png" group-title="ECUADOR", 306 | RTV || ECUADOR
 https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | WANN +" tvg-name="EC | WANN +" tvg-logo="" group-title="ECUADOR", 284 | WANN+ || ECUADOR 
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+#EXTINF:-1 tvg-id="EC | MANAVISION" tvg-name="EC | MANAVISION" tvg-logo="" group-title="ECUADOR", 284.1 | MANAVISION || ECUADOR 
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
 
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", En prueba | RCN
 http://38.41.8.1:8000/play/a0t4
