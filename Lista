@@ -1088,10 +1088,10 @@ https://redirector.dps.live/hls/itv/playlist.m3u8
 https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Huasco TV" tvg-name="CL | Huasco TV" tvg-logo="https://pbs.twimg.com/media/FYvp91HWQAERqTD?format=png&name=small" group-title="CHILE", 740 | Huasco TV || CHILE
 https://paneltv.online:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Alternativa TV de Huasco" tvg-name="CL | Alternativa TV de Huasco" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2021/06/BANNER-ALTERNATIVA-TV-ONLINE.jpg?w=720&ssl=1" group-title="CHILE", 741 | Alternativa TV de Huasco || CHILE
-https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Ñublevisión" tvg-name="CL | Ñublevisión" tvg-logo="https://pbs.twimg.com/media/FZ6GE0NXkAE6E87?format=png&name=small" group-title="CHILE", 742 | Ñublevisión || CHILE
-https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741 | TELEFE || ARGENTINA 
+http://104.238.205.28:8989/278773_.m3u8
+#EXTINF:-1 tvg-id="AR | ENCUENTRO" tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA", 742 | ENCUENTRO || ARGENTINA 
+http://104.238.205.28:8989/278761_.m3u8
 #EXTINF:-1 tvg-id="AR | A 24" tvg-name="AR | A 24" tvg-logo="" group-title="ARGENTINA", 743 | A 24 || ARGENTINA 
 http://104.238.205.28:8989/278750_.m3u8
 #EXTINF:-1 tvg-id="AR | AMÉRICA" tvg-name="AR | AMERICA" tvg-logo="" group-title="ARGENTINA", 744 | AMÉRICA || ARGENTINA 
