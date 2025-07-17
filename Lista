@@ -1158,7 +1158,7 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", 716 | TV+ || CHILE
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Más 2" tvg-name="CL | TV Más 2" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvmas2-1920-1080-300x169.jpg" group-title="CHILE", 717 | TV Más 2 || CHILE
-https://marine2.miplay.cl/tateti/playlist.m3u8
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Spectrum Channel" tvg-name="CL | Spectrum Channel" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/spectrum-1920X1080-300x169.png" group-title="ESTILOS DE VIDA", 718 | Spectrum Channel
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="CL | + CINE" tvg-name="CL | + CINE" tvg-logo="" group-title="CHILE", 719 | + CINE || CHILE
