@@ -1161,8 +1161,8 @@ https://marine2.miplay.cl/tvmas/playlist.m3u8
 https://marine2.miplay.cl/tateti/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Spectrum Channel" tvg-name="CL | Spectrum Channel" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/spectrum-1920X1080-300x169.png" group-title="ESTILOS DE VIDA", 718 | Spectrum Channel
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-#EXTINF:-1 tvg-id="CL | Tevex" tvg-name="CL | Tevex" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="CHILE", 719 | Tevex || CHILE
-https://marine2.miplay.cl/tevex/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | + CINE" tvg-name="CL | + CINE" tvg-logo="" group-title="CHILE", 719 | + CINE || CHILE
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Senado" tvg-name="CL | TV Senado" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="CHILE", 720 | TV Senado || CHILE
 https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8?s=tvsenado-sd&t=1702227476&uuid=e94c7a52-88cd-4108-a43e-59f0de5c8a45&rand=0.23841004374556252
 #EXTINF:-1 tvg-id="CL | Santiago Televisión" tvg-name="CL | Santiago Televisión" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbfj0-NOVosXhxcUpjLxO4-5skU0jaqNtHlaxDU=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE", 721 | Santiago Televisión || CHILE
