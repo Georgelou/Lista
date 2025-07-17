@@ -671,20 +671,6 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", 276 | Solar TV || Cuzco
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Uriol TV" tvg-name="PE | Uriol TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/URIOL.jpeg" group-title="REGIONALES", 277 | Uriol TV || Puerto Maldonado
-https://ott1.hdlatam.tv/live_abr/UriolTV_PM/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Mar" tvg-name="PE | TV Mar" tvg-logo="https://pbs.twimg.com/media/GnL0wKdWwAACQZQ?format=png&name=small" group-title="REGIONALES", 278 | TV Mar || Puerto Maldonado
-https://live-evg25.tv360.bitel.com.pe/bitel/tvmar/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | RTP" tvg-name="PE | RTP" tvg-logo="https://pbs.twimg.com/media/GiLJFRWWIAEXsxK?format=png&name=360x360" group-title="REGIONALES", 279 | RTP || Puno
-https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Cositel TV" tvg-name="PE | Cositel TV" tvg-logo="https://i.imgur.com/qYwHNr9.png" group-title="REGIONALES", 280 | Cositel TV || Juliaca
-https://live-evg25.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Antena Uno" tvg-name="PE | Antena Uno" tvg-logo="https://cablego.com.pe/cache/logos256/ANTENA1.png" group-title="REGIONALES", 281 | Antena Uno || Yunguyo
-https://play.agenciastreaming.com:8081/antena1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online-100x70.png" group-title="REGIONALES", 282 | Mega TV || Arequipa
-https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-id="PE | Visión Sur" tvg-name="PE | Visión Sur" tvg-logo="https://yt3.ggpht.com/7gYYwN5Vcc60oExLwR3qVffR8Hln2KwuwkGB4v95cfk4TsvazLINUrXt9MWagrzjbuWee8Vc=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 283 | Visión Sur || Arequipa
-https://live-evg25.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="EC | ECUAVISA" tvg-name="EC | ECUAVISA" tvg-logo="" group-title="ECUADOR", 285 | ECUAVISA || ECUADOR
@@ -1215,6 +1201,20 @@ https://clientestv.bachistreaming.com:3721/multi_web/play_src.m3u8
 #EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", 759 | Charrua TV || URUGUAY
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PY | LA TELE" tvg-name="PY | LA TELE" tvg-logo="" group-title="PARAGUAY", 277 | LA TELE || PARAGUAY 
+http://170.83.240.134:8000/play/a00j
+#EXTINF:-1 tvg-id="PY | TELEFUTURO" tvg-name="PY | TELEFUTURO" tvg-logo="" group-title="PARAGUAY", 278 | TELEFUTURO || PARAGUAY 
+http://170.83.240.134:8000/play/a03e
+#EXTINF:-1 tvg-id="PY | NPY" tvg-name="PY | NPY" tvg-logo="" group-title="PARAGUAY", 279 | NPY || PARAGUAY 
+http://170.83.240.134:8000/play/a024
+#EXTINF:-1 tvg-id="PY | PARAVISION" tvg-name="PY | PARAVISION" tvg-logo="" group-title="PARAGUAY", 280 | PARAVISION || PARAGUAY 
+http://170.83.240.134:8000/play/a021
+#EXTINF:-1 tvg-id="PY | PARAGUAY TV" tvg-name="PY | PARAGUAY TV" tvg-logo="" group-title="PARAGUAY", 281 | PARAGUAY  TV || PARAGUAY 
+http://170.83.240.134:8000/play/a01o
+#EXTINF:-1 tvg-id="PY | SUR TV" tvg-name="PY | SUR TV" tvg-logo="" group-title="PARAGUAY", 282 | SUR TV || PARAGUAY 
+http://170.83.240.134:8000/play/a025
+#EXTINF:-1 tvg-id="PY | TV CAMARA" tvg-name="PY | TV CAMARA" tvg-logo="" group-title="PARAGUAY", 283 | TV CAMARA || PARAGUAY 
+http://170.83.240.134:8000/play/a00m
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 761 | C9N || PARAGUAY
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 762 | SNT || PARAGUAY
