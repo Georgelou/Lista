@@ -716,7 +716,7 @@ https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="EC | ECUAVISA" tvg-name="EC | ECUAVISA" tvg-logo="" group-title="ECUADOR", 285 | ECUAVISA || ECUADOR
+#EXTINF:-1 tvg-id="EC | ECUAVISA" tvg-name="EC | ECUAVISA" tvg-logo="https://es.m.wikipedia.org/wiki/Ecuavisa#/media/File%3AEcuavisa_Logo_2019.png" group-title="ECUADOR", 285 | ECUAVISA || ECUADOR
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b241080876268770116de318
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="" group-title="ECUADOR", 286 | RTS || ECUADOR
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
