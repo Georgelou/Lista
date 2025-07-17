@@ -7,13 +7,12 @@
 #KODIPROP:inputstream.adaptive.license_key=158b196625b3fa3a6cbd45d081d28995:b955044f81ed40faec97bee0d7a20aea
 https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-1-HD/default.mpd
 
-#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="DEPORTES", 1034.1 | WARNER  || DEPORTES 
+#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="DEPORTES", 1034.1 | tyc || DEPORTES 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c5cc73c9e6b4b8faf8e560093b011d8:ced4c396cf75c55b1cf68fb831bd1351
-https://cdn.trimi.com.ar/live/sm-live/WARNER/sa_live_dash/WARNER.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
+https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
 
 
 
