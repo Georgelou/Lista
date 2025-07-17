@@ -1,6 +1,6 @@
 #EXTM3U 
 
-EXTINF:-1 ch-number="210" tvg-id="Nick Jr..uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="Infantil", Nick JR. 
+#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.1 | NICK JR HD
 https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d6
