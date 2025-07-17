@@ -1,11 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.1 | NICK JR HD
+#EXTINF:-1 tvg-id="MX | AZTECA 7" tvg-name="ES | AZTECA 7" tvg-logo="https://i.ibb.co/k9KHNgL/azteca7.png" group-title="MEXICO", 1034.1 | AZTECA 7 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0
 https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-7-HD/default.mpd
+
 
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 http://200.60.124.19:29000/play/a06s
@@ -222,11 +223,11 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 http://160.20.165.246:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 99 | Toon Goggles TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="" group-title="INFANTILES", 100 | NICK JR
+#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100 | NICK JR
 http://104.238.205.28:8989/278546_.m3u8
-#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="" group-title="INFANTILES", 100.1 | NICK JR HD
+#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.1 | NICK JR HD
 http://104.238.205.28:8989/278548_.m3u8
-#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="" group-title="INFANTILES", 100.2 | NICK JR
+#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.2 | NICK JR
 http://200.60.124.20:29000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="PE | NICKELODEON" tvg-name="PE | NICKELODEON" tvg-logo="" group-title="INFANTILES", 101 | NICK 
 http://200.60.124.20:29000/play/a01i/index.m3u8
@@ -1733,6 +1734,12 @@ http://181.78.78.105:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1034 | Azteca Uno || MÉXICO
 http://167.114.156.136:25461/INFINITV/ZX89NM22/82
+#EXTINF:-1 tvg-id="MX | AZTECA 7" tvg-name="ES | AZTECA 7" tvg-logo="https://i.ibb.co/k9KHNgL/azteca7.png" group-title="MEXICO", 1034.1 | AZTECA 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0
+https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-7-HD/default.mpd
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1036 | Las Estrellas || MÉXICO
