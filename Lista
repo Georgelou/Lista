@@ -101,28 +101,6 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://cloud5.streaminglivehd.com:3511/live/dilverlive.m3u8
 #EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", 37 | Radio TV Juanjui || Juanjui
 https://vivatv.juanjuiserver.com:3293/live/radiotvjuanjuilive.m3u8
-#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="REGIONALES", 38 | Uranio TV || Yurimaguas
-https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Cosmovision Television" tvg-name="PE | Cosmovision Television" tvg-logo="https://cosmovisiontvyurimaguas.com/wp-content/uploads/2024/06/loggocosmo.webp" group-title="REGIONALES", 39 | Cosmovision Television || Yurimaguas
-https://vivatv.juanjuiserver.com:3398/live/cosmovisionlive.m3u8
-#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="REGIONALES", 40 | Super Canal Televisión || Yurimaguas
-https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="REGIONALES", 41 | RTV Total || Yurimaguas
-https://live.obslivestream.com/rtvtotal/index.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Televisión Oriente" tvg-name="PE | Radio Televisión Oriente" tvg-logo="https://roriente.org/wp-content/uploads/2023/12/logo-oficia2l.png" group-title="REGIONALES", 42 | Radio Televisión Oriente || Yurimaguas
-https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1 tvg-id="PE | Telecolor" tvg-name="PE | Telecolor" tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png" group-title="REGIONALES", 43 | Telecolor || Yurimaguas
-https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="PE | RN Noticias" tvg-name="PE | RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="REGIONALES", 44 | RN Televisión || Yurimaguas
-https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-id="PE | Frecuencia Amazonica TV" tvg-name="PE | Frecuencia Amazonica TV" tvg-logo="https://frecuenciaamazonicatv.com/wp-content/uploads/2023/06/cropped-LOGO-PNG-FA.png" group-title="REGIONALES", 45 | Frecuencia Amazonica TV || Yurimaguas
-https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
-#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="REGIONALES", 46 | Viva TV || Yurimaguas
-https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Amazonia TV" tvg-name="PE | Amazonia TV" tvg-logo="https://pbs.twimg.com/media/GZV9300XcAA9HmG?format=png&name=900x900" group-title="REGIONALES", 47 | Amazonia TV || Yurimaguas
-https://servilive.com:3199/live/amazoniatvlive.m3u8
-#EXTINF:-1 tvg-id="PE | Yurivision" tvg-name="PE | Yurivision" tvg-logo="https://pbs.twimg.com/media/GgJht1cW4AAsh7n?format=png&name=360x360" group-title="REGIONALES", 48 | Yurivision || Yurimaguas
-https://live.obslivestream.com/yurivision/index.m3u8
 
 
 #EXTINF:-1 group-title="NOVELAS", 602 Novelas Colombianas 
@@ -157,6 +135,7 @@ http://179.61.31.142:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://yt3.googleusercontent.com/jv9iG5lX6If2oKYfmNmMrtDRGTxPwLULMNqLHe6WNcuzIzw1ta11kz-vG992OHsmyVO5bVH9R0A=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 64 | RCN Novelas
 http://179.61.31.142:8000/play/a04k/index.m3u8
 
+
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", 65 | Pasiones
 http://179.61.31.142:8000/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="NOVELAS", En prueba | TNT Novelas
@@ -167,6 +146,71 @@ http://179.61.31.142:8000/play/a0fl/index.m3u8
 http://179.61.31.142:8000/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 68 | Investigation Discovery
 http://160.20.165.246:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="PE | A&E" tvg-name="PE | A&E" tvg-logo="" group-title="PELICULAS Y SERIES", 38 | A&E 
+http://179.61.31.142:8000/play/a0em/index.m3u8
+#EXTINF:-1 tvg-id="PE | AMC" tvg-name="PE | AMC" tvg-logo="" group-title="PELICULAS Y SERIES", 39 | AMC 
+http://179.61.31.142:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="PE | AXN" tvg-name="PE | AXN" tvg-logo="" group-title="PELICULAS Y SERIES", 40 | AXN
+http://179.61.31.142:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41 | CINECANAL 
+http://38.41.8.1:8000/play/a0rl
+#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42 | CINEMAX
+http://179.61.31.142:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="PE | DHE" tvg-name="PE | DHE" tvg-logo="" group-title="PELICULAS Y SERIES", 43 | DHE
+http://38.41.8.1:8000/play/a0u7 
+#EXTINF:-1 tvg-id="PE | FX " tvg-name="PE | FX" tvg-logo="" group-title="PELICULAS Y SERIES", 44 | FX
+http://38.41.8.1:8000/play/a0ru
+#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 45 | GOLDEN
+http://179.61.31.142:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 46 | GOLDEN EDGE
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 47 | GOLDEN PLUS
+https://servilive.com:3199/live/amazoniatvlive.m3u8
+#EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="" group-title="PELICULAS Y SERIES", 48 | GOLDEN PREMIER
+http://179.61.31.142:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="" group-title="PELICULAS Y SERIES", 48.1 | GOLDEN PREMIER 2
+http://179.61.31.142:8000/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO " tvg-name="USA | HBO " tvg-logo="" group-title="PELICULAS Y SERIES", 82 | HBO 
+http://38.41.8.1:8000/play/a0ro
+#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PELICULAS Y SERIES", 82.1 | HBO 2
+http://38.41.8.1:8000/play/a0vq
+#EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" tvg-logo="" group-title="PELICULAS Y SERIES", 82.2 | HBO +
+http://38.41.8.1:8000/play/a0u0
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family
+http://38.41.8.1:8000/play/a0ty
+#EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI
+http://38.41.8.1:8000/play/a0wn
+#EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
+http://38.41.8.1:8000/play/a0rq
+#EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
+http://179.61.31.142:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA
+http://179.61.31.142:8000/play/a0d9/index.m3u8
+#EXTINF:-1 tvg-id="USA | MULTIPREMIER" tvg-name="USA | MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85 | MULTI PREMIER 
+http://179.61.31.142:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="USA | PARAMOUNT" tvg-name="USA | PARAMOUNT" tvg-logo="" group-title="PELICULAS Y SERIES", 86 | PARAMOUNT 
+http://179.61.31.142:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87 | SPACE
+http://38.41.8.1:8000/play/a0rk
+#EXTINF:-1 tvg-id="USA | SONY" tvg-name="USA | SONY" tvg-logo="" group-title="PELICULAS Y SERIES", 88 | SONY
+http://179.61.31.142:8000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89 | Star Channel
+http://179.61.31.142:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89.1 | Star Channel
+http://38.41.8.1:8000/play/a0ri
+#EXTINF:-1 tvg-id="USA | UNIVERSAL STUDIO" tvg-name="USA | UNIVERSAL STUDIO" tvg-logo="" group-title="PELICULAS Y SERIES", 90 | UNIVERSAL STUDIO
+http://179.61.31.142:8000/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 91 | TNT
+http://38.41.8.1:8000/play/a0su
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 91.1 | TNT SERIES
+http://179.61.31.142:8000/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92 | Universal TV
+http://179.61.31.142:8000/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92.1 | Universal TV
+http://38.41.8.1:8000/play/a0u2
+
+
 #EXTINF:-1 tvg-id="USA | CCS Movie" tvg-name="USA | CCS Movie" tvg-logo="https://play-lh.googleusercontent.com/50zJ15ssk4T5uGnJP4h0kUu6ryfMd3TYwsBse-gYivjN-_yZefmc5bqpzjYzmC2GeH8=w240-h480-rw" group-title="PELICULAS Y SERIES", 69 | CCS Movie
 http://38.41.8.1:8000/play/a0y4
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 70 | Sony Channel
@@ -179,6 +223,8 @@ http://179.61.31.142:8000/play/a06f/index.m3u8
 http://160.20.165.246:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 73 | Warner Channel
 http://179.61.31.142:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 73.1 | Warner Channel
+http://38.41.8.1:8000/play/a0rj
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 74 | Star Channel
 http://179.61.31.142:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 75 | TNT
@@ -195,10 +241,6 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 http://179.61.31.142:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 81 | Canal MC
 http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PELICULAS Y SERIES", 82 | HBO 2
-http://38.41.8.1:8000/play/a0vq
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family
-http://38.41.8.1:8000/play/a0ty
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 84 | Cine Premium
 http://160.20.165.246:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 85 | Cine Hispano
@@ -1025,7 +1067,7 @@ https://avancabrasilcod.akamaized.net/avancabrasil/avancabrasil/playlist.m3u8
 https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 664 | Unitel || BOLIVIA
-https://vod2.cf.dmcdn.net/sec2(rbzokpuRlAa00SQh-w5zhWbU1vMlMaokopUnStfSIcmS93e-EkXHFgPDno0Htm3x3A3-KbKXlAdCe98ASG0mHZyFJ7qWIX1mLxWEnOkfGDOEKRc7p0VNDZr1nFs4v2v4X_zvx1OUQuF_xpHw3VOFc_ciHAX_GZbGmOQato4_e-w)/cloud/497/857/582758794_mp4_h264_aac_hd.m3u8#cell=cf2
+http://38.41.8.1:8000/play/a0d7
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 665 | Unitel || BOLIVIA
 http://38.41.8.1:8000/play/a0d7
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", 666 | RTP || BOLIVIA
@@ -1090,15 +1132,15 @@ https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 703 | La Red || CHILE
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | TVN" tvg-name="CL | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/150px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png" group-title="CHILE", 704 | TVN || CHILE
-http://190.61.55.186:1010/play/a01s/index.m3u8
+http://38.41.8.1:8000/play/a0sq
 #EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/100px-Logotipo_de_TV_Chile.svg.png" group-title="CHILE", 705 | TV Chile || CHILE
 http://179.61.31.142:8000/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-id="CL | Mega" tvg-name="CL | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/145px-Mega_Chile_2020.png" group-title="CHILE", 706 | Mega || CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Chilevisión" tvg-name="CL | Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="CHILE", 707 | Chilevisión || CHILE
 http://38.41.8.1:8000/play/a0sr
-#EXTINF:-1 tvg-id="CL | UChile TV" tvg-name="CL | UChile TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UChile_TV_logo_2020.png/245px-UChile_TV_logo_2020.png" group-title="CHILE", 708 | UChile TV || CHILE
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | CANAL 13" tvg-name="CL | CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE", 708 | CANAL 13 || CHILE
+http://38.41.8.1:8000/play/a0re
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE", 709 | Canal 13 || CHILE
 http://190.61.55.186:1010/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="CL | UES TV" tvg-name="CL | UES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGebESilqIFPpblJE2rKuwpKhmbboSvocddiEmfqVjAwvT6UPJEzqQduS-JhQs2F5xio&usqp=CAU" group-title="CHILE", 710 | UES TV || CHILE
