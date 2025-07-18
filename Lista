@@ -1973,11 +1973,11 @@ http://179.51.136.19:8000/play/a0z1/index.m3u8
 #EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
 http://45.181.122.46:8090/play/a01c
 #EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
-https://sp.oyotunstream.com/8006/stream
+http://45.181.122.46:8090/play/a01c
 #EXTINF:-1 tvg-id="PE | EL GOURMET" tvg-name="PE | EL GOURMET" tvg-logo="" group-title="ESTILOS DE VIDA", 1110 | EL GOURMET 
 http://200.60.124.19:29000/play/a0f5/index.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Ilucan" tvg-name="PE | Radio Ilucan" tvg-logo="http://www.radioilucan.com/assets/images/logo.png" group-title="EMISORAS REGIONALES", En prueba | Radio Ilucan || Cutervo; Perú
-https://panel.innovatestream.pe:10932/stream
+#EXTINF:-1 tvg-id="PE | HOGAR" tvg-name="PE | HOGAR" tvg-logo="" group-title="ESTILOS DE VIDA", HOGAR
+http://179.63.6.12:9000/play/a059
 #EXTINF:-1 tvg-id="PE | Radio Sudamerica" tvg-name="PE | Radio Sudamerica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WfqhwJx2VcmoqCGZ7K_uFzg9VlUaqFMN-A&s" group-title="EMISORAS REGIONALES", En prueba | Radio Sudamerica || Cutervo; Perú
 https://sp.onliveperu.com:7078/;
 #EXTINF:-1 tvg-id="PE | Radio Fiesta FM" tvg-name="PE | Radio Fiesta FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jkHPIj99i_3fW2RLypV6iJ9PpT-NU1Y-RA&s" group-title="EMISORAS REGIONALES", 1112 | Radio Fiesta 91.5 FM || Piura; Perú
@@ -1986,6 +1986,8 @@ https://audio.miradioenvivo.com:10945/stream
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Altamar" tvg-name="PE | Radio Altamar" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/04/radio-altamar-150x150-1.jpg" group-title="EMISORAS REGIONALES", 1114 | Radio Altamar || Ilo; Perú
 https://cloudstream2030.conectarhosting.com:10968/stream?icy=http
+
+
 #EXTINF:-1 tvg-id="PE | Radio Mágica" tvg-name="PE | Radio Mágica" tvg-logo="https://play-lh.googleusercontent.com/OlxdjtbOyYdLtEfEMbby04Hq1kFADkozeXDxNPlgpATnMjAUIt9nF3crUUO6dCgkQ59x=w240-h480-rw" group-title="EMISORAS NACIONALES", 1115 | Radio Mágica 88.3 FM || Lima; Perú
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=W0XhpdhIaWyrEsAb2RUQKmJC9IVxWn3p&sid=uBsswn7tOkc2OF7IUCbOEFri1wWpEJKG&uid=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1751786723142&ot=jmhtc-g4jjtJJdFcLhTRKg&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e28eb3fdc597ac2e2e43&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I
 #EXTINF:-1 tvg-id="PE | Radio Felicidad" tvg-name="PE | Radio Felicidad" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_felicidad.png" group-title="EMISORAS NACIONALES", 1116 | Radio Felicidad 88.9 FM y 900 AM || Lima; Perú
