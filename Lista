@@ -712,7 +712,7 @@ https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="http://core1.hdlatam.tv/media/images/channel/TVMUNDOCUZCO.png" group-title="REGIONALES", 275 | TV Mundo || Cuzco
 https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", 276 | Solar TV || Cuzco
+#EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://es.m.wikipedia.org/wiki/TC_Televisi%C3%B3n#/media/File%3ATC_logo2020.webp" group-title="REGIONALES", 276 | TC TELEVISIÓN || ECUADOR
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 
 
