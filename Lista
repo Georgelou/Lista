@@ -1964,16 +1964,18 @@ http://eu1.serviaudio.com:8066/stream/;
 https://sp.onliveperu.com/8028/stream/;type=mp3
 #EXTINF:-1 tvg-id="PE | Radio Star" tvg-name="PE | Radio Star" tvg-logo="http://radiostarsaposoa.com/assets/img/logo.png" group-title="EMISORAS PROVINCIALES", 1106 | Radio Star 97.5 FM || Saposoa; Perú
 https://stream-150.zeno.fm/thftmx5nhnouv?zs=TIWsBN2wQOqjXcUSHPI4Fg
-#EXTINF:-1 tvg-id="PE | Radio Fantasía" tvg-name="PE | Radio Fantasía" tvg-logo="https://play-lh.googleusercontent.com/S8JRGHusHv3FbcInfuqPQqkF7AeCdjXMjZJBu5-AqeCX_LKJI-zTXC10WNVoNsdu9Q=w240-h480-rw" group-title="EMISORAS REGIONALES", 1107 | Radio Fantasía || Iquitos; Perú
-https://sp.oyotunstream.com:10943/;
-#EXTINF:-1 tvg-id="PE | Radio Tigre" tvg-name="PE | Radio Tigre" tvg-logo="https://estacionesfm.com/imgfm/imgfm/fm_am_online_313.webp" group-title="EMISORAS REGIONALES", 1108 | Radio Tigre || Iquitos; Perú
-https://sonicpanel.tmcreativos.com/8050/stream
-#EXTINF:-1 tvg-id="PE | Radio Amazonía" tvg-name="PE | Radio Amazonía" tvg-logo="https://play-lh.googleusercontent.com/I3BwqEHqUYFXxoUCNN8k6NcVtRI1gMprBDdclaxdtFZOGhy2nxjUYxeiOv3ATWIJtw=w240-h480-rw" group-title="EMISORAS REGIONALES", 1109 | Radio Amazonía || Iquitos; Perú
-https://conectperu.com/8482/stream
-#EXTINF:-1 tvg-id="PE | Radio Loreto" tvg-name="PE | Radio Loreto" tvg-logo="https://myradioenvivo.pe/public/uploads/radio_img/radio-loreto/play_250_250.webp" group-title="EMISORAS REGIONALES", 1110 | Radio Loreto || Iquitos; Perú
+
+
+#EXTINF:-1 tvg-id="PE | EL GOURMET" tvg-name="PE | EL GOURMET" tvg-logo="" group-title="ESTILOS DE VIDA", 1107 | EL GOURMET 
+http://179.51.136.19:8000/play/a1l7/index.m3u8;
+#EXTINF:-1 tvg-id="PE | GARDEN LATINO" tvg-name="PE | GARDEN LATINO" tvg-logo="" group-title="ESTILOS DE VIDA", 1108 | GARDEN LATINO
+http://179.51.136.19:8000/play/a0z1/index.m3u8
+#EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
+http://45.181.122.46:8090/play/a01c
+#EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
 https://sp.oyotunstream.com/8006/stream
-#EXTINF:-1 tvg-id="PE | Radio Rutas" tvg-name="PE | Radio Rutas" tvg-logo="https://play-lh.googleusercontent.com/7hUpRIhYXUf2VRDm9oBEZLvqzSc6eCtMYzRLelnfqYwRFXc75nhJlZZrvZ9ujzgmCw=w240-h480-rw" group-title="EMISORAS REGIONALES", 1111 | Radio Rutas || Quillabamba; Perú
-https://servistream.info:9254/stream?icy=http
+#EXTINF:-1 tvg-id="PE | EL GOURMET" tvg-name="PE | EL GOURMET" tvg-logo="" group-title="ESTILOS DE VIDA", 1110 | EL GOURMET 
+http://200.60.124.19:29000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Ilucan" tvg-name="PE | Radio Ilucan" tvg-logo="http://www.radioilucan.com/assets/images/logo.png" group-title="EMISORAS REGIONALES", En prueba | Radio Ilucan || Cutervo; Perú
 https://panel.innovatestream.pe:10932/stream
 #EXTINF:-1 tvg-id="PE | Radio Sudamerica" tvg-name="PE | Radio Sudamerica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WfqhwJx2VcmoqCGZ7K_uFzg9VlUaqFMN-A&s" group-title="EMISORAS REGIONALES", En prueba | Radio Sudamerica || Cutervo; Perú
