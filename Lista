@@ -1978,13 +1978,13 @@ http://45.181.122.46:8090/play/a01c
 http://200.60.124.19:29000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="PE | HOGAR" tvg-name="PE | HOGAR" tvg-logo="" group-title="ESTILOS DE VIDA", HOGAR
 http://179.63.6.12:9000/play/a059
-#EXTINF:-1 tvg-id="PE | Radio Sudamerica" tvg-name="PE | Radio Sudamerica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WfqhwJx2VcmoqCGZ7K_uFzg9VlUaqFMN-A&s" group-title="EMISORAS REGIONALES", En prueba | Radio Sudamerica || Cutervo; Perú
+#EXTINF:-1 tvg-id="PE | Radio Sudamerica" tvg-name="PE | Radio Sudamerica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WfqhwJx2VcmoqCGZ7K_uFzg9VlUaqFMN-A&s" group-title="ESTILOS DE VIDA", En prueba | Radio Sudamerica || Cutervo; Perú
 https://sp.onliveperu.com:7078/;
-#EXTINF:-1 tvg-id="PE | Radio Fiesta FM" tvg-name="PE | Radio Fiesta FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jkHPIj99i_3fW2RLypV6iJ9PpT-NU1Y-RA&s" group-title="EMISORAS REGIONALES", 1112 | Radio Fiesta 91.5 FM || Piura; Perú
+#EXTINF:-1 tvg-id="PE | Radio Fiesta FM" tvg-name="PE | Radio Fiesta FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jkHPIj99i_3fW2RLypV6iJ9PpT-NU1Y-RA&s" group-title="ESTILOS DE VIDA", 1112 | Radio Fiesta 91.5 FM || Piura; Perú
 https://audio.miradioenvivo.com:10945/stream
 #EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="EMISORAS DE RADIO CON VIDEO", 1113 | Expresión Radio TV || Ilo; Perú
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Altamar" tvg-name="PE | Radio Altamar" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/04/radio-altamar-150x150-1.jpg" group-title="EMISORAS REGIONALES", 1114 | Radio Altamar || Ilo; Perú
+#EXTINF:-1 tvg-id="PE | Radio Altamar" tvg-name="PE | Radio Altamar" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/04/radio-altamar-150x150-1.jpg" group-title="ESTILOS DE VIDA", 1114 | Radio Altamar || Ilo; Perú
 https://cloudstream2030.conectarhosting.com:10968/stream?icy=http
 
 
