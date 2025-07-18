@@ -722,7 +722,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="" group-title="ECUADOR", 287 | TVC || ECUADOR
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-name="EC | TELEAMAZONAS" tvg-logo="" group-title="ECUADOR", 288 | TELEAMAZONAS || ECUADOR 
+#EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-name="EC | TELEAMAZONAS" tvg-logo="https://es.m.wikipedia.org/wiki/Teleamazonas#/media/File%3ATeleamazonas_Logo.png" group-title="ECUADOR", 288 | TELEAMAZONAS || ECUADOR 
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 289 | Gamavisión || ECUADOR
 http://160.20.165.246:8000/play/a00r/index.m3u8
