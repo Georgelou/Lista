@@ -1810,7 +1810,7 @@ http://104.238.205.28:8989/278733_.m3u8
 http://181.78.78.105:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1034 | Azteca Uno || MÉXICO
-http://167.114.156.136:25461/INFINITV/ZX89NM22/82
+http://181.115.70.176:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="MX | AZTECA 7" tvg-name="ES | AZTECA 7" tvg-logo="https://i.ibb.co/k9KHNgL/azteca7.png" group-title="MEXICO", 1034.1 | AZTECA 7 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
