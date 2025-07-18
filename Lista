@@ -163,10 +163,12 @@ http://38.41.8.1:8000/play/a0u7
 http://38.41.8.1:8000/play/a0ru
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 45 | GOLDEN
 http://179.61.31.142:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 45.1 | GOLDEN
+http://45.181.122.46:8090/play/a019
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 46 | GOLDEN EDGE
 http://45.181.122.46:8090/play/a038
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 47 | GOLDEN PLUS
-http://45.181.122.46:8090/play/a019
+http://38.7.204.227:8010/play/a2co/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="" group-title="PELICULAS Y SERIES", 48 | GOLDEN PREMIER
 http://179.61.31.142:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="" group-title="PELICULAS Y SERIES", 48.1 | GOLDEN PREMIER 2
@@ -250,7 +252,10 @@ http://160.20.165.246:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 87 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="PELICULAS Y SERIES", 88 | FMH Movies
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/playlist.m3u8
+http://190.60.42.86:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="PELICULAS Y SERIES", 89 | FMH Altas
+http://190.60.42.86:8000/play/a03d/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PE | DINEY CHANNEL " tvg-name="PE | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES", 89 | DISNEY CHANNEL
 http://200.60.124.20:29000/play/a0h7/index.m3u8
@@ -772,6 +777,8 @@ http://38.41.8.1:8000/play/a0t4
 http://38.41.8.1:8000/play/a0t5
 #EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", 307 | El Tiempo Television
 http://38.41.8.1:8000/play/a0wc
+#EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", 307.1 | La KALLE
+http://190.60.42.86:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 308 | Canal Capital || COLOMBIA
 https://cdns.livewave.co:8081/canalcapital/index.m3u8
 #EXTINF:-1 tvg-id="CO | Eureka tu canal" tvg-name="CO | Eureka tu canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Eureka-tu-canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="COLOMBIA", 309 | Eureka tu canal || COLOMBIA
@@ -1143,7 +1150,7 @@ http://38.41.8.1:8000/play/a0sr
 #EXTINF:-1 tvg-id="CL | CANAL 13" tvg-name="CL | CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE", 708 | CANAL 13 || CHILE
 http://38.41.8.1:8000/play/a0re
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE", 709 | Canal 13 || CHILE
-http://190.61.55.186:1010/play/a04y/index.m3u8
+http://170.79.235.137:8010/play/a2nz/index.m3u8
 #EXTINF:-1 tvg-id="CL | UES TV" tvg-name="CL | UES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGebESilqIFPpblJE2rKuwpKhmbboSvocddiEmfqVjAwvT6UPJEzqQduS-JhQs2F5xio&usqp=CAU" group-title="CHILE", 710 | UES TV || CHILE
 https://marine2.miplay.cl/uestv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ntv-1920-1080-300x169.jpg" group-title="CHILE", 711 | NTV || CHILE
@@ -1818,6 +1825,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1037 | Canal 5 || MÉXICO
 http://45.228.234.173:9999/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="MX | LAS ESTRELLAS" tvg-name="MX | LAS ESTRELLAS" tvg-logo="https://pbs.twimg.com/media/GBgiu3IWwAA3itZ?format=png&name=small" group-title="MEXICO", 1033 | BITME
+http://190.60.42.86:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1038 | Multimedios Televisión Canal 6 || MÉXICO
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="MX | GALAVISION" tvg-name="MX | GALAVISION" tvg-logo="" group-title="MEXICO", 1039 | GALAVISION || MÉXICO
