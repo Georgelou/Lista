@@ -459,6 +459,8 @@ https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Tu Canal Musical" tvg-name="USA | Tu Canal Musical" tvg-logo="https://cigars.roku.com/v1/contain/156x88/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0eba2d1e6bc3678ced340a881fdadf5aa8b0ed7219b9183ffdc21bd60ebe5422.png" group-title="MUSICA Y REALITIES", 150 | Tu Canal Musical
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvsalud-1920-1080-300x169.jpg" group-title="CULTURA Y EDUCACION", 151 | TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 152 | National Geographic
@@ -469,6 +471,22 @@ http://179.61.31.142:8000/play/a00e/index.m3u8
 http://179.61.31.142:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 154 | Love Nature
 http://160.20.165.246:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="PA | DISCOVERY CHANNEL" tvg-name="PA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 188 | DISCOVERY CHANNEL
+http://200.60.124.19:29000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-id="PA | DISCOVERY CHANNEL" tvg-name="PA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 189 | DISCOVERY CHANNEL
+https://live.elolamtv.org:3927/live/elolamtvlivelive.m3u8
+#EXTINF:-1 tvg-id="VE | DISCOVERY TURBO" tvg-name="VE | DISCOVERY TURBO" tvg-logo="" group-title="CULTURA Y EDUCACION", 190 | DISCOVERY TURBO
+http://179.63.6.12:9000/play/a01x
+#EXTINF:-1 tvg-id="GT | DISCOVERY THEATER" tvg-name="GT | DISCOVERY THEATER" tvg-logo="" group-title="CULTURA Y EDUCACION", 191 | DISCOVERY THEATER
+http://179.63.6.12:9000/play/a065
+#EXTINF:-1 tvg-id="GT | DISCOVERY SCIENCIE" tvg-name="GT | DISCOVERY SCIENCIE" tvg-logo="" group-title="CULTURA Y EDUCACION", 192 | DISCOVERY SCIENCIE
+http://179.63.6.12:9000/play/a07f
+#EXTINF:-1 tvg-id="PE | DISCOVERY WORLD" tvg-name="PE | DISCOVERY WORLD" tvg-logo="" group-title="CULTURA Y EDUCACION", 193 | DISCOVERY WORLD
+http://179.51.136.19:8000/play/a1le/index.m3u8
+#EXTINF:-1 tvg-id="USA | DISCOVERY CHANEL" tvg-name="USA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 194 | DISCOVERY CHANNEL
+http://179.51.136.19:8000/play/a1ke/index.m3u8
+
+
 #EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 155 | EWTN
 https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | María Visión" tvg-name="MX | María Visión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" group-title="RELIGIOSOS", 156 | María Visión
@@ -534,21 +552,8 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Aleluya TV" tvg-name="USA | Aleluya TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9080db964ad0215d2ddeea5137b35e0f.webp" group-title="RELIGIOSOS", 186 | Aleluya TV
 https://tv.aleluya.cloud:5443/lidp/streams/live2.m3u8
 #EXTINF:-1 tvg-id="HN | TV Estrella" tvg-name="HN | TV Estrella" tvg-logo="https://www.tvestrella.com/assets/images/logo-6.png" group-title="RELIGIOSOS", 187 | TV Estrella
-https://s.emisoras.tv:8081/tve/index.m3u8
-#EXTINF:-1 tvg-id="PA | Hosanna Visión" tvg-name="PA | Hosanna Visión" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="RELIGIOSOS", 188 | Hosanna Visión
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
-#EXTINF:-1 tvg-id="GT | El Olam TV" tvg-name="GT | El Olam TV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/En-Vivo-El-Olam-TV-Guatemala-e1669830021817.webp" group-title="RELIGIOSOS", 189 | El Olam TV
-https://live.elolamtv.org:3927/live/elolamtvlivelive.m3u8
-#EXTINF:-1 tvg-id="VE | Reforma TV" tvg-name="VE | Reforma TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/05/reforma-tv-1.png?resize=696%2C435&ssl=1" group-title="RELIGIOSOS", 190 | Reforma TV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="GT | MCN Televisión" tvg-name="GT | MCN Televisión" tvg-logo="https://play-lh.googleusercontent.com/7c4PVC1SXYU_P2JwKE-UBQFq_Gg9XMbtjYWxM6XBftRPD4gi-XzuMUW2n9ADil-3Rw" group-title="RELIGIOSOS", 191 | MCN Televisión
-https://eu1.servers10.com:8081/8338/index.m3u8
-#EXTINF:-1 tvg-id="GT | Rhema TV" tvg-name="GT | Rhema TV" tvg-logo="https://yt3.googleusercontent.com/rRWjwjFa2gtr3bkpex-bOKV2zeXEvlEsNYTWhuiZdLtRXBlmbtmbSvx6ztrLz_ZsXHJtzjr2bw=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 192 | Rhema TV
-https://5e85d90130e77.streamlock.net/6006/ngrp:6006_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Bethel TV" tvg-name="PE | Bethel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="RELIGIOSOS", 193 | Bethel TV
-https://live-evg25.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="INTERNACIONALES", 194 | TV Peruanísima
-https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+
+
 #EXTINF:-1 tvg-id="USA | Peru Magico" tvg-name="USA | Peru Magico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es" group-title="INTERNACIONALES", 195 | Peru Magico
 http://38.41.8.1:8000/play/a0we
 
