@@ -78,12 +78,12 @@ https://infosmartpe.store:5443/LiveApp/streams/3zc2BXi5SEys2310139330128741.m3u8
 
 #EXTINF:-1 tvg-id="PE | DISTRITO COMEDIA" tvg-name="PE | DISTRITO COMEDIA" tvg-logo="" group-title="ENTRETENIMIENTO", 25 | DISTRITO COMEDIA
 http://45.228.234.173:9999/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PROVINCIALES", 26 | Nor Selva Television || Rioja
-https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="PE | DISTRITO COMEDIA" tvg-name="PE | DISTRITO COMEDIA" tvg-logo="" group-title="ENTRETENIMIENTO", 26 | DISTRITO COMEDIA
+http://38.180.133.31:8000/play/a141/index.m3u8
 #EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 27 | COMEDY CENTRAL 
 http://45.228.234.173:9999/play/a06f/index.m3u8
-#EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 28 | Television Tarapoto || Tarapoto
-https://ott1.hdlatam.tv/live_abr/TVTARAPOTO/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 28 | CIMEDY CEBTRAL
+http://38.180.133.31:8000/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://pbs.twimg.com/media/GlGQHpVWwAAZLss?format=png&name=small" group-title="PROVINCIALES", 29 | Master Television || Tarapoto
 https://live.obslivestream.com/mastertv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Via Television" tvg-name="PE | Via Television" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="PROVINCIALES", 30 | Via Television || Tarapoto
@@ -1493,7 +1493,7 @@ https://live.canal27.tv:3633/live/canal27live.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 876 | Nuevo Mundo Televisión || GUATEMALA
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 877 | TV Azteca Guate || GUATEMALA
-http://45.5.117.182:8000/play/a0st/index.m3u8
+http://45.228.234.173:9999/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
 http://45.5.117.182:8000/play/f0j9/index.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
