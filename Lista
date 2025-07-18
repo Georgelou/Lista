@@ -1819,6 +1819,8 @@ http://200.229.147.210:8000/play/a01o/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0
 https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-7-HD/default.mpd
+#EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1034.1 | Azteca Uno || MÉXICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1036 | Las Estrellas || MÉXICO
