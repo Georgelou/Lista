@@ -1976,7 +1976,7 @@ http://179.51.136.19:8000/play/a1l7/index.m3u8;
 #EXTINF:-1 tvg-id="PE | GARDEN LATINO" tvg-name="PE | GARDEN LATINO" tvg-logo="" group-title="ESTILOS DE VIDA", 1108 | GARDEN LATINO
 http://179.51.136.19:8000/play/a0z1/index.m3u8
 #EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
-http://45.181.122.46:8090/play/a01c
+http://38.44.109.41:8003/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
 http://45.181.122.46:8090/play/a01c
 #EXTINF:-1 tvg-id="PE | EL GOURMET" tvg-name="PE | EL GOURMET" tvg-logo="" group-title="ESTILOS DE VIDA", 1110 | EL GOURMET 
