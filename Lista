@@ -80,24 +80,24 @@ https://infosmartpe.store:5443/LiveApp/streams/3zc2BXi5SEys2310139330128741.m3u8
 http://45.228.234.173:9999/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="PE | DISTRITO COMEDIA" tvg-name="PE | DISTRITO COMEDIA" tvg-logo="" group-title="ENTRETENIMIENTO", 26 | DISTRITO COMEDIA
 http://38.180.133.31:8000/play/a141/index.m3u8
-#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 27 | COMEDY CENTRAL 
-http://45.228.234.173:9999/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="PE | DISTRITO COMEDIA" tvg-name="PE | DISTRITO COMEDIA" tvg-logo="" group-title="ENTRETENIMIENTO", 27 | DISTRITO COMEDIA
+http://45.181.122.46:8090/play/a03a
 #EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 28 | CIMEDY CEBTRAL
 http://38.180.133.31:8000/play/a0pb/index.m3u8
-#EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://pbs.twimg.com/media/GlGQHpVWwAAZLss?format=png&name=small" group-title="PROVINCIALES", 29 | Master Television || Tarapoto
-https://live.obslivestream.com/mastertv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Via Television" tvg-name="PE | Via Television" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="PROVINCIALES", 30 | Via Television || Tarapoto
-https://ott1.hdlatam.tv/live/via_Tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Tropical" tvg-name="PE | TV Tropical" tvg-logo="https://play-lh.googleusercontent.com/Xrhhg6xhxFv6YXeET7hhYTcVp289BCji5Egt8KLMYl2S6rISY4WESXwKy7CE3MiYoHxn=w240-h480-rw" group-title="PROVINCIALES", 31 | TV Tropical || Tarapoto
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="PE | Innova TV" tvg-name="PE | Innova TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/innova_logo_2.jpg" group-title="PROVINCIALES", 32 | Innova TV || Tarapoto
-https://ott1.hdlatam.tv/live/innovatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | GF TV" tvg-name="PE | GF TV" tvg-logo="https://playmax.tv/wp-content/uploads/2024/08/gfTV.png" group-title="PROVINCIALES", 33 | GF TV || Tarapoto
-https://live.obslivestream.com/regionaltv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Tarapoto Digital TV" tvg-name="PE | Tarapoto Digital TV" tvg-logo="https://pbs.twimg.com/media/GhN1oarXwAAthGg?format=png&name=small" group-title="PROVINCIALES", 34 | Tarapoto Digital TV || Tarapoto
-https://live.obslivestream.com/actpro/index.m3u8
-#EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PROVINCIALES", 35 | Millenium TV || Lamas
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 29 | CIMEDY CEBTRAL
+http://45.228.234.173:9999/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 30 | CIMEDY CEBTRAL
+http://45.181.122.46:8090/play/a01z
+#EXTINF:-1 tvg-id="PE | DICOVERY H&H" tvg-name="PE | DISCOVERY H&H" tvg-logo="" group-title="ENTRETENIMIENTO", 31 |DISCOVERY H&H
+http://45.181.122.46:8090/play/a01f
+#EXTINF:-1 tvg-id="PE | DICOVERY H&H" tvg-name="PE | DISCOVERY H&H" tvg-logo="" group-title="ENTRETENIMIENTO", 32 |DISCOVERY H&H
+http://179.51.136.19:8000/play/a18k/index.m3u8
+#EXTINF:-1 tvg-id="PE | DICOVERY H&H" tvg-name="PE | DISCOVERY H&H" tvg-logo="" group-title="ENTRETENIMIENTO", 33 |DISCOVERY H&H
+http://179.51.136.19:8000/play/a1fo/index.m3u8
+#EXTINF:-1 tvg-id="PE | E Entretenimiento" tvg-name="PE | E ENTRETENIMIENTO" tvg-logo="" group-title="ENTRETENIMIENTO", 34 | E ENTRETENIMIENTO 
+http://45.181.122.46:8090/play/a033
+#EXTINF:-1 tvg-id="PE | E Entretenimiento" tvg-name="PE | E ENTRETENIMIENTO" tvg-logo="" group-title="ENTRETENIMIENTO", 35 | E ENTRETENIMIENTO 
+http://179.51.136.19:8000/play/a1ic/index.m3u8
 #EXTINF:-1 tvg-id="PE | Delta TV" tvg-name="PE | Delta TV" tvg-logo="https://pbs.twimg.com/media/F2H4fiFWIAAbIIC?format=png&name=small" group-title="PROVINCIALES", 36 | Delta TV || Pacayzapa; Lamas
 https://cloud5.streaminglivehd.com:3511/live/dilverlive.m3u8
 #EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", 37 | Radio TV Juanjui || Juanjui
