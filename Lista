@@ -78,11 +78,11 @@ http://45.228.234.173:9999/play/a045/index.m3u8
 http://38.180.133.31:8000/play/a141/index.m3u8
 #EXTINF:-1 tvg-id="PE | DISTRITO COMEDIA" tvg-name="PE | DISTRITO COMEDIA" tvg-logo="" group-title="ENTRETENIMIENTO", 27 | DISTRITO COMEDIA
 http://45.181.122.46:8090/play/a03a
-#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 28 | CIMEDY CEBTRAL
+#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 28 | COMEDY CENTRAL
 http://38.180.133.31:8000/play/a0pb/index.m3u8
-#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 29 | CIMEDY CEBTRAL
+#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 29 | COMEDY CENTRAL
 http://45.228.234.173:9999/play/a06f/index.m3u8
-#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 30 | CIMEDY CEBTRAL
+#EXTINF:-1 tvg-id="PE | COMEDY CENTRAL" tvg-name="PE | COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO", 30 | COMEDY CENTRAL
 http://45.181.122.46:8090/play/a01z
 #EXTINF:-1 tvg-id="PE | DICOVERY H&H" tvg-name="PE | DISCOVERY H&H" tvg-logo="" group-title="ENTRETENIMIENTO", 31 |DISCOVERY H&H
 http://45.181.122.46:8090/play/a01f
@@ -254,7 +254,7 @@ http://190.60.42.86:8000/play/a03b/index.m3u8
 http://190.60.42.86:8000/play/a03d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="PE | DINEY CHANNEL " tvg-name="PE | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES", 89 | DISNEY CHANNEL
+#EXTINF:-1 tvg-id="PE | DISNEY CHANNEL " tvg-name="PE | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES", 89 | DISNEY CHANNEL
 http://200.60.124.20:29000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 90 | Cartoon Network
 http://38.41.8.1:8000/play/a0tb
@@ -483,6 +483,8 @@ http://179.63.6.12:9000/play/a07f
 http://179.51.136.19:8000/play/a1le/index.m3u8
 #EXTINF:-1 tvg-id="USA | DISCOVERY CHANEL" tvg-name="USA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 194 | DISCOVERY CHANNEL
 http://179.51.136.19:8000/play/a1ke/index.m3u8
+#EXTINF:-1 tvg-id="USA | DISCOVERY CHANEL" tvg-name="USA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 194.1 | DISCOVERY CHANNEL HD
+http://190.61.116.155:7000/play/a00s
 
 
 #EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 155 | EWTN
