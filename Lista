@@ -350,7 +350,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
-http://104.238.205.28:8989/278758_.m3u8
+http://38.211.242.128:8001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS2" tvg-name="USA | D SPORTS2" tvg-logo="" group-title="DEPORTES", 120.2 | D SPORTS 2 
 http://104.243.38.5:8989/278976_.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
