@@ -1871,6 +1871,8 @@ http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/162298
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/31146
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1049 | Telemundo || PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/pr_punto_2_pr.png" group-title="PUERTO RICO", 1050 | Telemundo || PUNTO 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 1050 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
