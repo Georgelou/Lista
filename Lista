@@ -154,6 +154,8 @@ http://179.61.31.142:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="PE | AXN" tvg-name="PE | AXN" tvg-logo="" group-title="PELICULAS Y SERIES", 40 | AXN
 http://179.61.31.142:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41 | CINECANAL 
+http://200.125.170.122:8000/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41.1 | CINECANAL 
 http://38.41.8.1:8000/play/a0rl
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42 | CINEMAX
 http://179.61.31.142:8000/play/a033/index.m3u8
