@@ -1165,11 +1165,11 @@ http://38.41.8.1:8000/play/a0re
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE", 709 | Canal 13 || CHILE
 http://170.79.235.137:8010/play/a2nz/index.m3u8
 #EXTINF:-1 tvg-id="CL | UES TV" tvg-name="CL | UES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGebESilqIFPpblJE2rKuwpKhmbboSvocddiEmfqVjAwvT6UPJEzqQduS-JhQs2F5xio&usqp=CAU" group-title="CHILE", 710 | UES TV || CHILE
-https://marine2.miplay.cl/uestv/playlist.m3u8
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ntv-1920-1080-300x169.jpg" group-title="CHILE", 711 | NTV || CHILE
-https://marine2.miplay.cl/ntv/playlist.m3u8
+https://panel.miplay.cl:8082/ntv/index.m3u8
 #EXTINF:-1 tvg-id="CL | Suyai tv" tvg-name="CL | Suyai tv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/suyaitv.jpg" group-title="CHILE", 712 | Suyai tv || CHILE
-https://ott1.hdlatam.tv/live/SuyaiTV/playlist.m3u8
+https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
 #EXTINF:-1 tvg-id="CL | Wapp TV" tvg-name="CL | Wapp TV" tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png" group-title="CHILE", 713 | Wapp TV || CHILE
 https://marine2.miplay.cl/wapp/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TVU" tvg-name="CL | TVU" tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png" group-title="CHILE", 714 | TVU || CHILE
@@ -1179,7 +1179,7 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", 716 | TV+ || CHILE
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Más 2" tvg-name="CL | TV Más 2" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvmas2-1920-1080-300x169.jpg" group-title="CHILE", 717 | TV Más 2 || CHILE
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+https://panel.miplay.cl:8082/tvmas2/index.m3u8
 #EXTINF:-1 tvg-id="CL | Spectrum Channel" tvg-name="CL | Spectrum Channel" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/spectrum-1920X1080-300x169.png" group-title="ESTILOS DE VIDA", 718 | Spectrum Channel
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="CL | + CINE" tvg-name="CL | + CINE" tvg-logo="" group-title="CHILE", 719 | + CINE || CHILE
