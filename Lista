@@ -412,7 +412,7 @@ http://104.238.205.28:8989/278766_.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-#EXTINF:-1 tvg-id="PE | FOX SPORTS 2" tvg-name="PE | FOX SPORTS 2" tvg-logo="" group-title="DEPORTES", 50 | FOX SPORTS 2 || DEPORTES 
+#EXTINF:-1 tvg-id="PE | FOX SPORTS 2" tvg-name="PE | FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSport2AR.webp" group-title="DEPORTES", 50 | FOX SPORTS 2 || DEPORTES 
 http://104.238.205.28:8989/278767_.m3u8
 #EXTINF:-1 tvg-id="MX | FOX SPORTS 2" tvg-name="MX | FOX SPORTS 2" tvg-logo="https://i.ibb.co/9nRjqkY/fs2-mx.png" group-title="DEPORTES", 50.1 | FOX SPORTS 2 || MEXICO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
