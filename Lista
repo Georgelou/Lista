@@ -193,13 +193,13 @@ http://179.51.136.19:8000/play/a17v/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PELICULAS Y SERIES", 82.1 | HBO 2
 http://179.1.87.75:8098/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus_oeste-mediano.png" group-title="PELICULAS Y SERIES", 82.2 | HBO +
-http://38.41.8.1:8000/play/a0u0
+http://190.52.105.146:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family
-http://38.41.8.1:8000/play/a0ty
+http://190.52.105.146:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI
 http://38.41.8.1:8000/play/a0wn
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
-http://38.41.8.1:8000/play/a0rq
+http://190.52.105.146:8000/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
 http://190.52.105.146:8000/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA
