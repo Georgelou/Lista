@@ -199,7 +199,7 @@ http://38.41.8.1:8000/play/a0wn
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
 http://38.41.8.1:8000/play/a0rq
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
-http://179.61.31.142:8000/play/a01v/index.m3u8
+http://190.52.105.146:8000/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA
 http://179.61.31.142:8000/play/a0d9/index.m3u8
 #EXTINF:-1 tvg-id="USA | MULTIPREMIER" tvg-name="USA | MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85 | MULTI PREMIER 
