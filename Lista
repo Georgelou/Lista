@@ -202,8 +202,10 @@ http://38.41.8.1:8000/play/a0wn
 http://38.41.8.1:8000/play/a0rq
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
 http://190.52.105.146:8000/play/a0fw/index.m3u8
-#EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA
+#EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA
 http://200.125.170.120:8000/play/a04c
+#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84.1 | Canal MC
+http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="USA | MULTIPREMIER" tvg-name="USA | MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85 | MULTI PREMIER 
 http://200.125.170.120:8000/play/a05j
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85.1 | Multipremier
@@ -266,8 +268,7 @@ http://190.52.105.146:8000/play/a0lh/index.m3u8
 #EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVgKgoMnvikMau7Cg9jsbFWr99Qe7Zl11Aw&s" group-title="PELICULAS Y SERIES", 79 | Cinema +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 81 | Canal MC
-http://160.20.165.246:8000/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 84 | Cine Premium
 http://160.20.165.246:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 85 | Cine Hispano
