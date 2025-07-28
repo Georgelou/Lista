@@ -202,6 +202,8 @@ http://38.41.8.1:8000/play/a0wn
 http://190.52.105.146:8000/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
 http://190.52.105.146:8000/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO SIGNATURE" tvg-name="USA | HBO SGNATURE" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO SIGNATURE 
+http://181.78.79.63:1010/play/a0jr/index.m3u8
 #EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA
 http://200.125.170.120:8000/play/a04c
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84.1 | Canal MC
