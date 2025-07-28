@@ -159,11 +159,11 @@ http://179.61.31.142:8000/play/a0eo/index.m3u8
 http://160.20.165.246:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | A&E" tvg-name="PE | A&E" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_a&e.png" group-title="PELICULAS Y SERIES", 38 | A&E 
-http://179.61.31.142:8000/play/a0em/index.m3u8
+http://179.1.87.75:8098/play/a0sj/index.m3u8
 #EXTINF:-1 tvg-id="PE | AMC" tvg-name="PE | AMC" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_amc_network.png" group-title="PELICULAS Y SERIES", 39 | AMC 
-http://179.61.31.142:8000/play/a0en/index.m3u8
+http://179.1.87.75:8098/play/a0so/index.m3u8
 #EXTINF:-1 tvg-id="PE | AXN" tvg-name="PE | AXN" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png" group-title="PELICULAS Y SERIES", 40 | AXN
-http://179.61.31.142:8000/play/a01h/index.m3u8
+http://190.60.37.154:45000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41 | CINECANAL 
 http://200.125.170.122:8000/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41.1 | CINECANAL 
@@ -211,15 +211,17 @@ http://38.41.8.1:8000/play/a0rk
 #EXTINF:-1 tvg-id="USA | SONY" tvg-name="USA | SONY" tvg-logo="" group-title="PELICULAS Y SERIES", 88 | SONY
 http://190.211.102.42:9999/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89 | Star Channel
-http://179.61.31.142:8000/play/a09f/index.m3u8
+http://190.60.37.154:45000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89.1 | Star Channel
 http://38.41.8.1:8000/play/a0ri
 #EXTINF:-1 tvg-id="USA | UNIVERSAL STUDIO" tvg-name="USA | UNIVERSAL STUDIO" tvg-logo="" group-title="PELICULAS Y SERIES", 90 | UNIVERSAL STUDIO
-http://179.61.31.142:8000/play/a0ei/index.m3u8
+http://190.60.37.154:45000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="USA | UNIVERSAL STUDIO" tvg-name="USA | UNIVERSAL STUDIO" tvg-logo="" group-title="PELICULAS Y SERIES", 90.1 | UNIVERSAL STUDIO
+http://179.1.87.75:8098/play/a0s5
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 91 | TNT
 http://38.41.8.1:8000/play/a0su
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 91.1 | TNT SERIES
-http://179.61.31.142:8000/play/a0fh/index.m3u8
+http://190.60.37.154:45000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92 | Universal TV
 http://179.61.31.142:8000/play/a0f8/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92.1 | Universal TV
