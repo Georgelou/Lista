@@ -201,7 +201,7 @@ http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI
 http://38.41.8.1:8000/play/a0wn
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
-http://190.52.105.146:8000/play/a0h2/index.m3u8
+http://38.41.8.1:8000/play/a0rq
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
 http://190.52.105.146:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO SIGNATURE" tvg-name="USA | HBO SGNATURE" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO SIGNATURE 
@@ -226,6 +226,9 @@ http://190.211.102.42:9999/play/a053/index.m3u8
 http://190.60.37.154:45000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89.1 | Star Channel
 http://38.41.8.1:8000/play/a0ri
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 74 | Star Channel
+http://179.61.31.142:8000/play/a09f/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | UNIVERSAL STUDIO" tvg-name="USA | UNIVERSAL STUDIO" tvg-logo="" group-title="PELICULAS Y SERIES", 90 | UNIVERSAL STUDIO
 http://190.60.37.154:45000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="USA | UNIVERSAL STUDIO" tvg-name="USA | UNIVERSAL STUDIO" tvg-logo="" group-title="PELICULAS Y SERIES", 90.1 | UNIVERSAL STUDIO
@@ -263,8 +266,6 @@ http://160.20.165.246:8000/play/a01e/index.m3u8
 http://179.61.31.142:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 73.1 | Warner Channel
 http://38.41.8.1:8000/play/a0rj
-#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 74 | Star Channel
-http://179.61.31.142:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="PELICULAS Y SERIES", 76 | Clover Channel
 http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 77 | Universal TV
