@@ -174,6 +174,8 @@ http://181.78.23.26:45000/play/a02y
 http://200.125.170.120:8000/play/a05l
 #EXTINF:-1 tvg-id="PE | DHE" tvg-name="PE | DHE" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png" group-title="PELICULAS Y SERIES", 43 | DHE
 http://38.41.8.1:8000/play/a0u7 
+#EXTINF:-1 tvg-id="PE | DE PELÍCULA" tvg-name="CR | DE PELICULA" tvg-logo="" group-title="PELICULAS Y SERIES", 93 | DE PELÍCULA 
+http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="PE | FX " tvg-name="PE | FX" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png" group-title="PELICULAS Y SERIES", 44 | FX
 http://38.41.8.1:8000/play/a0ru
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45 | GOLDEN
@@ -295,8 +297,6 @@ http://38.41.8.1:8000/play/a0tb
 http://38.41.8.1:8000/play/a0v9
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/250px-Logo_de_Tooncast.svg.png" group-title="INFANTILES", 92 | Tooncast
 http://179.61.31.142:8000/play/a07p/index.m3u8
-#EXTINF:-1 tvg-id="CR | Retro TV" tvg-name="CR | Retro TV" tvg-logo="https://pbs.twimg.com/media/GZXuXcQXEAAvnNL?format=png&name=360x360" group-title="PELICULAS Y SERIES", 93 | Retro TV
-https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
 #EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 94 | Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 95 | Magic Kids
