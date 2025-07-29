@@ -195,7 +195,7 @@ http://190.52.105.146:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus_oeste-mediano.png" group-title="PELICULAS Y SERIES", 82.2 | HBO +
 http://190.52.105.146:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family
-http://190.52.105.146:8000/play/a0fr/index.m3u8
+http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI
 http://38.41.8.1:8000/play/a0wn
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
@@ -254,7 +254,7 @@ https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 71 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tcm_m.png" group-title="PELICULAS Y SERIES", En prueba | TCM
-http://179.61.31.142:8000/play/a06f/index.m3u8
+http://190.52.105.146:8000/play/a0k4/index.m3u8
 #EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="PELICULAS Y SERIES", 72 | USA Network
 http://160.20.165.246:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 73 | Warner Channel
