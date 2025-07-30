@@ -199,7 +199,7 @@ http://190.52.105.146:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family
 http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI
-http://38.41.8.1:8000/play/a0wn
+http://38.7.101.90:8000/play/a191/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
 http://38.41.8.1:8000/play/a0rq
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
@@ -225,7 +225,7 @@ http://190.211.102.42:9999/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89 | Star Channel
 http://190.60.37.154:45000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89.1 | Star Channel
-http://38.41.8.1:8000/play/a0ri
+http://38.7.101.90:8000/play/a1d1/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 74 | Star Channel
 http://179.61.31.142:8000/play/a09f/index.m3u8
 
