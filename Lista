@@ -227,7 +227,7 @@ http://190.60.37.154:45000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89.1 | Star Channel
 http://38.7.101.90:8000/play/a1d1/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 74 | Star Channel
-http://38.7.101.90:8000/play/a1d1/index.m3u8
+http://181.78.12.119:16123/play/ch07/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | UNIVERSAL STUDIO" tvg-name="USA | UNIVERSAL STUDIO" tvg-logo="" group-title="PELICULAS Y SERIES", 90 | UNIVERSAL STUDIO
 http://190.60.37.154:45000/play/a038/index.m3u8
