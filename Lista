@@ -443,6 +443,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-id="MX | FOX DEPORTES" tvg-name="MX | FOX DEPORTES" tvg-logo="" group-title="DEPORTES", 51.3 | FOX DEPORTES  || DEPORTES 
+http://200.59.188.3:8000/play/a0yb
 #EXTINF:-1 tvg-id="PE | TyC SPORTS" tvg-name="PE | TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/tycSports.webp" group-title="DEPORTES", 52 | TyC SPORTS || DEPORTES 
 http://104.238.205.28:8989/278778_.m3u8
 #EXTINF:-1 tvg-id="PE | TNT SPORTS " tvg-name="PE | TNT SPORTS" tvg-logo="" group-title="DEPORTES", 53 | TNT SPORTS || DEPORTES 
