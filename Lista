@@ -149,12 +149,12 @@ http://179.61.31.142:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", 65 | Pasiones
 http://179.61.31.142:8000/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="NOVELAS", En prueba | TNT Novelas
+#EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="NOVELAS", 66 | TNT Novelas
 http://179.61.31.142:8000/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="INTERNACIONALES", 66 | Univision
-http://179.61.31.142:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo Internacional
-http://179.61.31.142:8000/play/a0eo/index.m3u8
+http://200.229.147.142:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo 
+http://200.229.147.142:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 68 | Investigation Discovery
 http://160.20.165.246:8000/play/a012/index.m3u8
 
