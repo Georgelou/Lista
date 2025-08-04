@@ -1303,13 +1303,13 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 663 | Telefuturo || PARAGUAY 
 https://app.mxiptv.org/tvabierta/paraguay/telefuturo.php
 #EXTINF:-1 tvg-id="PY | LA TELE" tvg-name="PY | LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/LaTele.png" group-title="PARAGUAY", 277 | LA TELE || PARAGUAY 
-http://170.83.240.134:8000/play/a00j
+http://138.59.227.28:8000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-id="PY | TELEFUTURO" tvg-name="PY | TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 278 | Telefuturo || PARAGUAY 
-http://170.83.240.134:8000/play/a03e
+http://138.59.227.28:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="PY | NPY" tvg-name="PY | NPY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 279 | NPY || PARAGUAY 
-http://170.83.240.134:8000/play/a024
+http://138.59.227.28:8000/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-id="PY | PARAVISION" tvg-name="PY | PARAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY", 280 | PARAVISION || PARAGUAY 
-http://170.83.240.134:8000/play/a021
+http://138.59.227.28:8000/play/a0by/index.m3u8
 #EXTINF:-1 tvg-id="PY | PARAGUAY TV" tvg-name="PY | PARAGUAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_Paraguay_TV%2C_desde_2020.png" group-title="PARAGUAY", 281 | PARAGUAY  TV || PARAGUAY 
 http://170.83.240.134:8000/play/a01o
 #EXTINF:-1 tvg-id="PY | SUR TV" tvg-name="PY | SUR TV" tvg-logo="https://es.m.wikipedia.org/wiki/Sur_Televisora_Itap%C3%BAa#/media/File%3ASur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", 282 | SUR TV || PARAGUAY 
