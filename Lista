@@ -1904,7 +1904,8 @@ https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 https://dbdfj5y8nz2u4.cloudfront.net/c13guadalajara/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PR | Televisión Querétaro" tvg-name="MX | Televisión Querétaro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg" group-title="PUERTO RICO", 1048 | WAPA America || PUERTO RICO
-http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/162298
+http://104.238.222.251:8989/285689_.m3u8
+#EXTINF:-1 tvg-id="285690" tvg-logo="https:
 #EXTINF:-1 tvg-id="PR | Televisión Querétaro" tvg-name="MX | Televisión Querétaro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg" group-title="PUERTO RICO", 1048 | WAPA || PUERTO RICO
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/31146
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1049 | Telemundo || PUERTO RICO
