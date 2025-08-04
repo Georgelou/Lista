@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" group-title="MEXICO", 1034.1 | AZTECA 1 HD || MEXICO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
