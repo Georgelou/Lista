@@ -1306,7 +1306,7 @@ http://190.128.129.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 663 | Telefuturo || PARAGUAY 
 https://app.mxiptv.org/tvabierta/paraguay/telefuturo.php
 #EXTINF:-1 tvg-id="PY | LA TELE" tvg-name="PY | LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/LaTele.png" group-title="PARAGUAY", 277 | LA TELE || PARAGUAY 
-https://latv.hopto.org:218/playlist/prueba1/1234/261.ts
+https://latv.hopto.org:218/prueba1/1234/261.ts
 #EXTINF:-1 tvg-id="PY | TELEFUTURO" tvg-name="PY | TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 278 | Telefuturo || PARAGUAY 
 http://138.59.227.28:8000/play/a0bq
 #EXTINF:-1 tvg-id="PY | NPY" tvg-name="PY | NPY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 279 | NPY || PARAGUAY 
