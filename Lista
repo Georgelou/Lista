@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_key=158b196625b3fa3a6cbd45d081d28995:b955044f81ed40faec97bee0d7a20aea
 https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-1-HD/default.mpd
 
-#EXTINF:-1 tvg-id="MX | AAA" tvg-name="MX | EVENTOS ECUADOR" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="MEXICO", 1034.1 | EVENTOS || ECUADOR
+#EXTINF:-1 tvg-id="MX | AAA" tvg-name="MX | EVENTOS ECUADOR" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.1 | EVENTOS || ECUADOR
 https://qzv4jmsc.fubohd.com/ecdf_ligapro/mono.m3u8?token=f3390183b63c30077ad2fc27078e41c08076f725-3a-1754629513-1754611513
 
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.1 | EVENTO 
