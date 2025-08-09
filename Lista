@@ -829,7 +829,7 @@ http://38.41.8.1:8000/play/a0t4
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", RCN
 http://179.1.87.75:8098/play/a0g6/index.m3u8
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", En prueba | Caracol Television
-http://38.41.8.1:8000/play/a0t5
+http://45.176.71.20:1689/play/a0hi
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", Caracol Television
 http://179.1.87.75:8098/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", 307 | El Tiempo Television
@@ -877,7 +877,7 @@ http://179.1.87.75:8098/play/a0g3/index.m3u8
 http://38.41.8.1:8000/play/a03i
 #EXTINF:-1 tvg-id="VE | Vepaco TV" tvg-name="VE | Vepaco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-Vepaco-TV.png/245px-Logo-Vepaco-TV.png" group-title="VENEZUELA", 326 | Vepaco TV || VENEZUELA
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-#EXTINF:-1 tvg-id="VE | BTA TV" tvg-name="VE | BTA TV" tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="VENEZUELA", 327 | BTA TV || VENEZUELA
+#EXTINF:-1 tvg-id="VE | BTA TV" tvg-name="VE | BTA TV" tvg-logo="https://btatv.tv/wp-content/uploads/2022/09http://45.176.71.20:1689/play/a0hi/logobta.png" group-title="VENEZUELA", 327 | BTA TV || VENEZUELA
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="VE | Catatumbo TV" tvg-name="VE | Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png" group-title="VENEZUELA", 328 | Catatumbo TV || VENEZUELA
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
