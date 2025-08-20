@@ -20,7 +20,8 @@ http://205.235.6.29:8000/play/a0ns/index.m3u8
 http://212.102.60.231/TNT/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO TBS 
 http://fl1.moveonjoy.com/TBS/index.m3u8
-
+#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO LIGA CUP 
+http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/770060
 
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 http://200.60.124.19:29000/play/a06s
