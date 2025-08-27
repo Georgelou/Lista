@@ -173,23 +173,23 @@ http://190.60.37.154:45000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41 | CINECANAL 
 http://179.1.87.75:8098/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41.1 | CINECANAL 
-http://38.41.8.1:8000/play/a0rl
+http://181.39.27.141:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42 | CINEMAX
 http://181.78.23.26:45000/play/a02y
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.1 | CINEMAX
 http://200.125.170.120:8000/play/a05l
 #EXTINF:-1 tvg-id="PE | DHE" tvg-name="PE | DHE" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png" group-title="PELICULAS Y SERIES", 43 | DHE
-http://38.41.8.1:8000/play/a0u7 
+http://181.39.27.141:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="PE | DE PELÍCULA" tvg-name="CR | DE PELICULA" tvg-logo="" group-title="PELICULAS Y SERIES", 93 | DE PELÍCULA 
 http://190.60.37.154:45000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="PE | FX " tvg-name="PE | FX" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png" group-title="PELICULAS Y SERIES", 44 | FX
-http://38.41.8.1:8000/play/a0ru
+http://181.39.27.141:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45 | GOLDEN
-http://38.44.109.41:8003/play/a043
+http://181.39.27.141:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.1 | GOLDEN
 http://45.181.122.46:8090/play/a019
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46 | GOLDEN EDGE
-http://45.4.169.50:8000/play/a085
+http://181.39.27.141:8000/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 47 | GOLDEN PLUS
 http://38.7.204.227:8010/play/a2co/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS Y SERIES", 48 | GOLDEN PREMIER
@@ -207,7 +207,7 @@ http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI
 http://38.7.101.90:8000/play/a191/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
-http://38.41.8.1:8000/play/a0rq
+http://181.39.27.141:8000/play/a04z/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
 http://190.52.105.146:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO SIGNATURE" tvg-name="USA | HBO SGNATURE" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO SIGNATURE 
@@ -1316,13 +1316,13 @@ https://latv.hopto.org:218/prueba1/1234/261.ts
 #EXTINF:-1 tvg-id="PY | TELEFUTURO" tvg-name="PY | TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 278 | Telefuturo || PARAGUAY 
 http://138.59.227.28:8000/play/a0bq
 #EXTINF:-1 tvg-id="PY | NPY" tvg-name="PY | NPY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 279 | NPY || PARAGUAY 
-http://138.59.227.28:8000/play/a0d8
-#EXTINF:-1 tvg-id="PY | PARAVISION" tvg-name="PY | PARAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY", 280 | PARAVISION || PARAGUAY 
-http://190.128.129.83:8000/play/a02p/index.m3u8
+http://181.39.27.141:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="PY | Paravision | PARAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY", 280 | PARAVISION || PARAGUAY 
+http://181.39.27.141:8000/play/a0da/index.m3u8
 #EXTINF:-1 tvg-id="PY | PARAGUAY TV" tvg-name="PY | PARAGUAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_Paraguay_TV%2C_desde_2020.png" group-title="PARAGUAY", 281 | PARAGUAY  TV || PARAGUAY 
-http://170.83.240.134:8000/play/a01o
+http://181.39.27.141:8000/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-id="PY | SUR TV" tvg-name="PY | SUR TV" tvg-logo="https://es.m.wikipedia.org/wiki/Sur_Televisora_Itap%C3%BAa#/media/File%3ASur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", 282 | SUR TV || PARAGUAY 
-http://190.128.129.83:8000/play/a02t/index.m3u8
+http://181.39.27.141:8000/play/a0de/index.m3u8
 #EXTINF:-1 tvg-id="PY | TV CAMARA" tvg-name="PY | TV CAMARA" tvg-logo="" group-title="PARAGUAY", 283 | TV CAMARA || PARAGUAY 
 http://170.83.240.134:8000/play/a00m
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 761 | C9N || PARAGUAY
