@@ -57,13 +57,15 @@ http://200.60.124.19:29000/play/a015
 #EXTINF:-1 tvg-id="PE |  ESPN 3" tvg-name="PE | ESPN3" tvg-logo="" group-title="DEPORTES", 9.2 | ESPN 3
 http://200.60.124.19:29000/play/a02e
 #EXTINF:-1 tvg-id="PE |  ESPN 4" tvg-name="PE | ESPN 4" tvg-logo="" group-title="DEPORTES", 9.3 | ESPN 4
-http://200.60.124.19:29000/play/a0h9/index.m3u8
+http://181.39.27.141:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 5" tvg-name="PE | ESPN 5" tvg-logo="" group-title="DEPORTES", 10 | ESPN 5
 http://200.60.124.19:29000/play/a04y
 #EXTINF:-1 tvg-id="PE | ESPN 6" tvg-name="PE | ESPN 6" tvg-logo="" group-title="DEPORTES", 11 | ESPN 6
 http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 7" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN 7
 http://200.60.124.19:29000/play/a01e
+#EXTINF:-1 tvg-id="PE | ESPN Premium" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN PREMIUM 
+http://181.39.27.141:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
 http://38.187.2.125:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="LOCALES", 14 | Vinilos TV || Moyobamba
