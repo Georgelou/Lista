@@ -457,6 +457,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 #EXTINF:-1 tvg-id="MX | FOX DEPORTES" tvg-name="MX | FOX DEPORTES" tvg-logo="" group-title="DEPORTES", 51.3 | FOX DEPORTES  || DEPORTES 
 http://45.171.64.30:8800/play/a08k
+#EXTINF:-1 tvg-id="MX | FOX DEPORTES" tvg-name="MX | FOX DEPORTES" tvg-logo="" group-title="DEPORTES", 51.4 | FOX DEPORTES  || DEPORTES 
+http://131.161.83.249:8031/play/a02d
 #EXTINF:-1 tvg-id="PE | TyC SPORTS" tvg-name="PE | TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/tycSports.webp" group-title="DEPORTES", 52 | TyC SPORTS || DEPORTES 
 http://104.238.205.28:8989/278778_.m3u8
 #EXTINF:-1 tvg-id="PE | TNT SPORTS " tvg-name="PE | TNT SPORTS" tvg-logo="" group-title="DEPORTES", 53 | TNT SPORTS || DEPORTES 
