@@ -19,12 +19,9 @@ http://205.235.6.29:8000/play/a0ns/index.m3u8
 http://212.102.60.231/TNT/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO TBS 
 http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" group-title="EVENTOS", 1034.1 | AZTECA 1 HD || MEXICO 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6b1f45a59d2dac1a730c7f56c74971a:38B63F9A-AA7B-7C7A-822C-8E14C8A7212E
-https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="DEPORTES", 1034.1 | BEIN SPORTS
+http://181.78.106.127:9000/play/ca039
+
 
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 http://200.60.124.19:29000/play/a06s
