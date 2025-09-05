@@ -1958,8 +1958,8 @@ https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056.1 | TELEMUNDO
 http://104.238.222.251:8989/165228_.m3u8
-#EXTINF:-1 tvg-id="USA | UNIVISION Florida" tvg-name="USA | UNIVISION Florida" tvg-logo="" group-title="ESTADOS UNIDOS DE AMÉRICA", 1057 | UNIVISION || ESTADOS UNIDOS DE AMÉRICA
-https://v14.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8?token=6dJIIiESto2r2_kJylcrzw&expires=1753856134&user_id=bEtON2N2UEFJMmhsOURSeDR1cjBGa0EwbHBxRHpIOEdzTXo2b1lsWA==
+#EXTINF:-1 tvg-id="USA | UNIVISION Florida" tvg-name="USA | UNIVISION Florida" tvg-logo="" group-title="ESTADOS UNIDOS DE AMÉRICA", 1057 | telemundo || ESTADOS UNIDOS DE AMÉRICA
+http://38.199.4.160:93/play/a08x
 
 
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1057 | Star TVE HD || ESPAÑA
