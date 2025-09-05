@@ -2230,6 +2230,9 @@ https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 https://cloud5.streaminglivehd.com:3780/live/vamisalive.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Conecta2" tvg-name="PE | Radio Conecta2" tvg-logo="https://emisoras.com.pe/uploads/img/radio-conecta2.jpg" group-title="EMISORAS NACIONALES", 1190 | Radio Conecta2 || Lima; Perú
 https://stream-176.zeno.fm/fu201txn2zhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdTIwMXR4bjJ6aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InozMy1kVWJaUnpLd2Rlc0RYYWlUT2ciLCJpYXQiOjE3MzAwMDI1MDcsImV4cCI6MTczMDAwMjU2N30.Fzr87eTsRJu6-K3E8ojcinM7uWRNHWKHW914-TCQIp0
+
+#EXTINF:-1 tvg-id="EC | Radio Romance" tvg-name="EC | Radio Romance"" group-title="EMISORAS INTERNACIONALES", 1191 | RADIO QUE BUENA 100.1 FM || ECUADOR
+https://streamingecuador.com/stream/laquemequitaelestres
 #EXTINF:-1 tvg-id="EC | Radio Romance" tvg-name="EC | Radio Romance" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/romance-guayaquil.png" group-title="EMISORAS INTERNACIONALES", 1191 | Radio Romance 90.1 FM || ECUADOR
 https://streamingecuador.com:9010/stream
 #EXTINF:-1 tvg-id="EC | Radio Fabu" tvg-name="EC | Radio Fabu" tvg-logo="https://cdn-profiles.tunein.com/s111123/images/logog.png" group-title="EMISORAS INTERNACIONALES", 1192 | Radio Fabu 105.7 FM || ECUADOR
