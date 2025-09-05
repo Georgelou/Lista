@@ -23,6 +23,9 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 http://181.78.106.127:9000/play/ca039
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="DEPORTES", 1034.2 | TIGO SPORTS
 http://45.195.15.50:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf
+http://38.44.109.41:8003/play/a01j
+
 
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 http://200.60.124.19:29000/play/a06s
