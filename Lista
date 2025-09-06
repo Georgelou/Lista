@@ -114,7 +114,7 @@ http://179.51.136.19:8000/play/a18k/index.m3u8
 #EXTINF:-1 tvg-id="PE | DICOVERY H&H" tvg-name="PE | DISCOVERY H&H" tvg-logo="" group-title="ENTRETENIMIENTO", 33 |DISCOVERY H&H
 http://179.51.136.19:8000/play/a1fo/index.m3u8
 #EXTINF:-1 tvg-id="PE | DICOVERY H&H" tvg-name="PE | DISCOVERY H&H" tvg-logo="" group-title="ENTRETENIMIENTO", 33.1 |DISCOVERY H&H HD
-http://45.186.106.220:5550/play/a03d/index.m3u8
+http://45.186.106.220:5550/play/a03d
 #EXTINF:-1 tvg-id="PE | E Entretenimiento" tvg-name="PE | E ENTRETENIMIENTO" tvg-logo="" group-title="ENTRETENIMIENTO", 34 | E ENTRETENIMIENTO 
 http://45.181.122.46:8090/play/a033
 #EXTINF:-1 tvg-id="PE | E Entretenimiento" tvg-name="PE | E ENTRETENIMIENTO" tvg-logo="" group-title="ENTRETENIMIENTO", 35 | E ENTRETENIMIENTO 
