@@ -121,8 +121,8 @@ http://45.181.122.46:8090/play/a033
 http://179.51.136.19:8000/play/a1ic/index.m3u8
 #EXTINF:-1 tvg-id="PE | Delta TV" tvg-name="PE | Delta TV" tvg-logo="" group-title="ENTRETENIMIENTO", 36 | UNIVERSO 
 http://vocotv.pro:80/gast/gast/268857
-#EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", 37 | Radio TV Juanjui || Juanjui
-https://vivatv.juanjuiserver.com:3293/live/radiotvjuanjuilive.m3u8
+#EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="" group-title="ENTRETENIMIENTO", 37 | ANIMAL PLANET
+http://190.104.67.142:234/play/a0ok/index.m3u8
 
 
 #EXTINF:-1 group-title="NOVELAS", 602 Novelas Colombianas 
