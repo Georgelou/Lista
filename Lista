@@ -404,7 +404,7 @@ http://172.93.102.112:8989/279390_.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS2" tvg-name="USA | D SPORTS2" tvg-logo="" group-title="DEPORTES", 120.2 | D SPORTS 2 
 http://104.243.38.5:8989/279317_.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
-http://38.211.242.128:8001/play/a05h/index.m3u8
+http://190.83.61.245:2233/play/a1ez/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.4 | ECDF
 http://181.188.234.21:8000/play/a04u
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.5 | ECDF HD
