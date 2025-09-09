@@ -408,7 +408,7 @@ http://190.83.61.245:2233/play/a1ez/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.4 | ECDF
 http://181.188.234.21:8000/play/a04u
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.5 | ECDF HD
-http://157.100.9.51:8000/play/a1ax
+http://38.44.109.41:8003/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
 http://siriustv.lat:8000/play/a0dg/index.m3u8
