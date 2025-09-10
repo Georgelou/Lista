@@ -1319,6 +1319,12 @@ http://104.238.205.28:8989/278750_.m3u8
 http://104.238.205.28:8989/278751_.m3u8
 #EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="" group-title="ARGENTINA", C5N | ARGENTINA 
 http://104.238.205.28:8989/278752_.m3u8
+#EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="" group-title="ARGENTINA", C5N | ARGENTINA 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+https://csc-axs-edge01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 #EXTINF:-1 tvg-id="AR | Television Publica" tvg-name="AR | Television Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/250px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", En prueba | Television Publica || ARGENTINA
 http://38.41.8.1:8000/play/a040
 #EXTINF:-1 tvg-id="AR | Ciudad Mágica TV" tvg-name="AR | Ciudad Mágica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="ARGENTINA", 747 | Ciudad Mágica TV || ARGENTINA
