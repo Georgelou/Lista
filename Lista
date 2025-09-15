@@ -1409,6 +1409,8 @@ http://190.33.94.29:8000/play/a00m/index.m3u8
 http://190.33.94.29:8000/play/a0bs/index.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772 | Telemetro || PANAMÁ
 http://190.34.58.174:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772.1 | Telemetro || PANAMÁ
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(aydXNIYxQmrRDT-na8MYPzPB66U55Qifbkq8W9BpLvuj7mQ14ALuY-KdualSLBGc-ahmUUjiJIL2gPl1NL2qHZK-1C0M32gvZ7KzDd1x3w0Y1qUDMVRsfOCgHmMeMDBI)/cloud/3/x8nlwwo/s/live-720.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/132px-Mas23tv.jpg" group-title="PANAMÁ", 773 | Mas 23 || PANAMÁ
 http://190.33.227.91:8000/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="PA | Nex" tvg-name="PA | Nex" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZpwn42ACqeWUHxjnK3PDsbLzhqG0NYmQdz1Yradw=s900-c-k-c0x00ffffff-no-rj" group-title="PANAMÁ", 774 | Nex || PANAMÁ
