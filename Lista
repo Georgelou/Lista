@@ -1368,12 +1368,20 @@ http://190.97.234.174:8000/play/a0ik
 #EXTINF:-1 tvg-id="PY | TELEFUTURO" tvg-name="PY | TELEFUTURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 278 | Telefuturo || PARAGUAY 
 http://181.209.95.30:8000/play/a0am/index.m3u8
 #EXTINF:-1 tvg-id="PY | NPY" tvg-name="PY | NPY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 279 | NPY || PARAGUAY 
+http://45.224.96.65:8011/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="PY | NPY" tvg-name="PY | NPY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 279.1 | NPY || PARAGUAY 
 http://190.97.234.174:8000/play/a0c4
 #EXTINF:-1 tvg-id="PY | Paravision | PARAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY", 280 | PARAVISION || PARAGUAY 
+http://45.224.96.65:8011/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="PY | Paravision | PARAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY", 280.1 | PARAVISION || PARAGUAY 
 http://190.97.234.174:8000/play/a0hr
 #EXTINF:-1 tvg-id="PY | PARAGUAY TV" tvg-name="PY | PARAGUAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_Paraguay_TV%2C_desde_2020.png" group-title="PARAGUAY", 281 | PARAGUAY  TV || PARAGUAY 
+http://45.224.96.65:8011/play/a0gd/index.m3u8
+#EXTINF:-1 tvg-id="PY | PARAGUAY TV" tvg-name="PY | PARAGUAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_Paraguay_TV%2C_desde_2020.png" group-title="PARAGUAY", 281.1 | PARAGUAY  TV || PARAGUAY 
 http://190.97.234.174:8000/play/a0hg
 #EXTINF:-1 tvg-id="PY | SUR TV" tvg-name="PY | SUR TV" tvg-logo="https://es.m.wikipedia.org/wiki/Sur_Televisora_Itap%C3%BAa#/media/File%3ASur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", 282 | SUR TV || PARAGUAY 
+http://45.224.96.65:8011/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="PY | SUR TV" tvg-name="PY | SUR TV" tvg-logo="https://es.m.wikipedia.org/wiki/Sur_Televisora_Itap%C3%BAa#/media/File%3ASur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", 282.1 | SUR TV || PARAGUAY 
 http://190.97.234.174:8000/play/a0c5
 #EXTINF:-1 tvg-id="PY | TV CAMARA" tvg-name="PY | TV CAMARA" tvg-logo="" group-title="PARAGUAY", 283 | TV CAMARA || PARAGUAY 
 http://170.83.240.134:8000/play/a00m
