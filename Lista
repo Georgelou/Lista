@@ -38,12 +38,12 @@ https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd 
 
 
-#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO ECUADOR 
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c09a6c420603dac29f430d3419bc51:a8a53a9a0db797a9b832302d874d5df3
-https://bsoa.envivotv.live/hotflix/event2/index.m3u8?token=695648f6c01553399634b175703678cf7115af0f-f52a353cb03a7e4728e74b2a94ba57ef-1759624984-1759614184&remote=193.30.14.122 
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/4
 
 #EXTINF:-1 tvg-id="MX | AAA" tvg-name="MX | EVENTOS ECUADOR" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.1 | EVENTOS || ECUADOR
 http://181.78.192.231:4000/play/a05x
