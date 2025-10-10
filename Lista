@@ -40,6 +40,13 @@ https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 #EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.1 | EVENTOS COPA ECUADOR 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
 
+#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.2 | EVENTOS  ECUADOR vs EU
+http://200.39.57.254:8008/play/a004
+
+#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.3 | EVENTOS  ECUADOR vs EU
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/1
+
+
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
