@@ -387,7 +387,7 @@ http://104.238.205.28:8989/278546_.m3u8
 #EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.1 | NICK JR HD
 http://104.238.205.28:8989/278548_.m3u8
 #EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.2 | NICK JR
-http://200.60.124.20:29000/play/a02c/index.m3u8
+http://45.189.62.33:8002/play/a0ck
 #EXTINF:-1 tvg-id="PE | NICKELODEON" tvg-name="PE | NICKELODEON" tvg-logo="" group-title="INFANTILES", 101 | NICK 
 http://200.60.124.20:29000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="INFANTILES", 102 | DM Kids TV
