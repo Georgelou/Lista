@@ -1987,6 +1987,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1037 | Canal 5 || MÉXICO
 http://190.83.9.222:8000/play/ca069/index.m3u8
+#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1037.1 | Canal 5 || MÉXICO
+http://45.189.62.33:8002/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="MX | LAS ESTRELLAS" tvg-name="MX | LAS ESTRELLAS" tvg-logo="https://pbs.twimg.com/media/GBgiu3IWwAA3itZ?format=png&name=small" group-title="MEXICO", 1033 | BITME
 http://190.60.42.86:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1038 | Multimedios Televisión Canal 6 || MÉXICO
