@@ -481,7 +481,7 @@ http://siriustv.lat:8000/play/a0de/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 126 | ESPN 6
 http://siriustv.lat:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN DEPORTES" tvg-name="USA | ESPN DEPORTES" tvg-logo="" group-title="DEPORTES", 126.1 | ESPN DEPORTES 
-http://131.161.83.249:8031/play/a017
+http://131.161.83.249:8031/play/a07f
 #EXTINF:-1 tvg-id="USA | ESPN DEPORTES" tvg-name="USA | ESPN DEPORTES" tvg-logo="" group-title="DEPORTES", 126.2 | ESPN DEPORTES 
 http://190.97.183.98:8028/play/a0rx/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 127 | El Garage TV
