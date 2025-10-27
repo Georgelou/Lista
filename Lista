@@ -1389,9 +1389,9 @@ https://clientestv.bachistreaming.com:3721/multi_web/play_src.m3u8
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 663.1 | Telefuturo || PARAGUAY 
-http://138.59.227.28:4000/play/a0bq
+http://158.172.217.237:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png" group-title="PARAGUAY", 663 | Telefuturo || PARAGUAY 
-https://app.mxiptv.org/tvabierta/paraguay/telefuturo.php
+http://138.59.227.28:4000/play/a0bq
 #EXTINF:-1 tvg-id="PY | LA TELE" tvg-name="PY | LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/LaTele.png" group-title="PARAGUAY", 277 | LA TELE || PARAGUAY 
 http://190.128.255.234:8002/play/a03g
 #EXTINF:-1 tvg-id="PY | LA TELE" tvg-name="PY | LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/LaTele.png" group-title="PARAGUAY", 277.1 | LA TELE || PARAGUAY 
