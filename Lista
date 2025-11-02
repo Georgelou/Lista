@@ -1,12 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1,WWE group-title="EVENTOS", 1034.1 | cinecanal || MEXICO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
-https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
+#EXTINF:-1,WWE group-title="EVENTOS", 1034.1 | Telemundo Deportes 
+http://199.127.63.143:8989/165237_.m3u8
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" group-title="MEXICO", 1034.1 | AZTECA 1 HD || MEXICO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
