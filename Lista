@@ -26,12 +26,12 @@ https://csc-axs-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.m
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 https://csc-axs-edge01.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
 
-#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN ARG
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN premium ARG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e1779a585414fe9b785aa335fcaf245:48ee6954e3197985ce5fb843a48e8243
-https://cwtvbk.cdnwatchlabs.io/dash/channels/espn/index.mpd
+http://38.191.202.162:45000/play/a06n
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
 http://200.60.124.20:29000/play/a015
@@ -547,7 +547,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 137 | Top Latino TV
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Karibeña TV" tvg-name="PE | Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png" group-title="MUSICA Y REALITIES", 138 | Karibeña TV
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/botella/karibe%C3%B1atv/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Nickmusic" tvg-name="USA | Nickmusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NickMusic_Purple.svg/250px-NickMusic_Purple.svg.png" group-title="MUSICA Y REALITIES", En prueba | Nickmusic
 http://38.41.8.1:8000/play/a0v6
 #EXTINF:-1 tvg-id="NI | 88 Stereo" tvg-name="NI | 88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA Y REALITIES", 139 | 88 Stereo
