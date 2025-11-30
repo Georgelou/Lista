@@ -575,11 +575,11 @@ https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvsalud-1920-1080-300x169.jpg" group-title="CULTURA Y EDUCACION", 151 | TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 152 | National Geographic
-http://38.41.8.1:8000/play/a0td
+http://45.237.184.115:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="CULTURA Y EDUCACION", 153 | Discovery Science
 http://179.61.31.142:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://cdn.mitvstatic.com/channels/pe_history_m.png" group-title="CULTURA Y EDUCACION", En prueba | History
-http://179.61.31.142:8000/play/a024/index.m3u8
+http://45.237.184.115:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 154 | Love Nature
 http://160.20.165.246:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="PA | DISCOVERY CHANNEL" tvg-name="PA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 188 | DISCOVERY CHANNEL HD CA
