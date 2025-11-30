@@ -582,8 +582,8 @@ http://179.61.31.142:8000/play/a00e/index.m3u8
 http://179.61.31.142:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 154 | Love Nature
 http://160.20.165.246:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="PA | DISCOVERY CHANNEL" tvg-name="PA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 188 | DISCOVERY CHANNEL
-http://200.60.124.19:29000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-id="PA | DISCOVERY CHANNEL" tvg-name="PA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 188 | DISCOVERY CHANNEL HD CA
+http://45.186.106.194:9999/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="PA | DISCOVERY CHANNEL" tvg-name="PA | DISCOVERY CHANNEL" tvg-logo="" group-title="CULTURA Y EDUCACION", 189 | DISCOVERY CHANNEL
 http://179.51.136.19:8000/play/a0wo/index.m3u8
 #EXTINF:-1 tvg-id="VE | DISCOVERY TURBO" tvg-name="VE | DISCOVERY TURBO" tvg-logo="" group-title="CULTURA Y EDUCACION", 190 | DISCOVERY TURBO
