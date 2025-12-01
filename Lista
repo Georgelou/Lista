@@ -234,7 +234,7 @@ http://190.95.60.228:8400/play/a19g
 #EXTINF:-1 tvg-id="PE | DE PELÍCULA" tvg-name="CR | DE PELICULA" tvg-logo="" group-title="PELICULAS Y SERIES", 93 | DE PELÍCULA 
 http://190.60.37.154:45000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="PE | FX " tvg-name="PE | FX" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png" group-title="PELICULAS Y SERIES", 44 | FX
-http://181.39.27.141:8000/play/a051/index.m3u8
+http://190.95.60.228:8400/play/a0z1
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45 | GOLDEN
 http://181.39.27.141:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.1 | GOLDEN
