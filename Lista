@@ -1436,8 +1436,8 @@ https://www.dailymotion.com/cdn/live/video/x8lwrcd.m3u8?sec=a6MCg9oBwYJmWyYnZnWY
 http://190.33.94.29:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://play-lh.googleusercontent.com/d3bnw0h-STU3ZsBImqYPkL11BgfXu35QaK7WNlsrvTpPIvh7esBp6NNlIxU_jV4Zrw=w240-h480-rw" group-title="PANAMÁ", 771 | SERTV || PANAMÁ
 http://190.33.94.29:8000/play/a0bs/index.m3u8
-#EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772 | Telemetro || PANAMÁ
-http://190.34.58.174:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772 | Telemetro. || PANAMÁ
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(5e4I_3BuhS46lghzm2WoGCKp7t34Ecc08UVfEweFo8gVdK6aVr3zx0AiYmk-QH0_TvqcAzqeuL-hUp5tBt6fBo1HhuHK2L7gaJ4JO7JaoF3-TYuvEHRUOs8tV_BMqeGB)/cloud/3/x8nlwwo/s/live-720.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772.1 | Telemetro || PANAMÁ
 https://www.dailymotion.com/cdn/live/video/x8nlwwo.m3u8?sec=hU-VbcoltwwvY73LW9zX7q74ji6DCrhmEiZjcfFJ85yActD3g3_t84lM0o2Tl-svA7yvi9I1A5alusf75hn0GUiGESBWmxtOWGwcZLhosKP04sozu-aF6KH4jWGLYYwx&dmTs=815085&dmV1st=d2762252-991d-70c6-7ab2-60e2c8580fec
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/132px-Mas23tv.jpg" group-title="PANAMÁ", 773 | Mas 23 || PANAMÁ
