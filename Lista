@@ -9,7 +9,7 @@ http://181.78.192.231:4000/play/a05p
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
-https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" group-title="MEXICO", 1034.1 | AZTECA 1 HD || MEXICO 
