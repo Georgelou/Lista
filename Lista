@@ -933,8 +933,8 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-id="CO | Canal 8 TV+" tvg-name="CO | Canal 8 TV+" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="COLOMBIA", 313 | Canal 8 TV+ || COLOMBIA
 https://video.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="CO | CTV" tvg-name="CO | CTV" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2021/02/LOGO-NUEVO-CTV-3.png" group-title="COLOMBIA", 314 | CTV || COLOMBIA
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="" group-title="COLOMBIA", 314 | City TV || COLOMBIA
+http://179.1.87.75:8098/play/a0gk
 #EXTINF:-1 tvg-id="CO | Teleislas" tvg-name="CO | Teleislas" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="COLOMBIA", 315 | Teleislas || COLOMBIA
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Visión Dorada" tvg-name="CO | Canal Visión Dorada" tvg-logo="https://play-lh.googleusercontent.com/YQi6JN3KWozh0yLl5S83_pMdeoD0nsvBMT-MPpbvGf0Aq_wJgiS0DA7UgEnMtfQjSRID" group-title="COLOMBIA", 316 | Canal Visión Dorada || COLOMBIA
