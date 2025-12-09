@@ -922,6 +922,8 @@ http://190.60.42.86:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 308 | Canal Capital || COLOMBIA
 https://cdns.livewave.co:8081/canalcapital/index.m3u8
 #EXTINF:-1 tvg-id="CO | canal 1" tvg-name="CO | Eureka tu canal" tvg-logo="" group-title="COLOMBIA", 309 | canal 1 || COLOMBIA
+http://190.95.60.228:8400/play/a12n
+#EXTINF:-1 tvg-id="CO | canal 1" tvg-name="CO | Eureka tu canal" tvg-logo="" group-title="COLOMBIA", 309.1 | canal 1 || COLOMBIA HD
 http://179.1.87.75:8098/play/a0g3/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 310 | RCN+ || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -947,8 +949,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/multicanal/playlist.m3u8
 http://38.41.8.1:8000/play/a0vz
 #EXTINF:-1 tvg-id="CO | Huila TV" tvg-name="CO | Huila TV" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="COLOMBIA", 321 | Huila TV || COLOMBIA
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
-#EXTINF:-1 tvg-id="CO | Avanca Brasil TV" tvg-name="CO | Avanca Brasil TV" tvg-logo="" group-title="COLOMBIA", 662 | City TV || COLOMBIA 
-http://172.93.102.112:8989/279390_.m3u8
+#EXTINF:-1 tvg-id="CO | city TV" tvg-name="CO | City TV" tvg-logo="" group-title="COLOMBIA", 662 | City TV || COLOMBIA 
+http://190.95.60.228:8400/play/a105
 
 #EXTINF:-1 tvg-id="VE | TVES" tvg-name="VE | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png/290px-Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png" group-title="VENEZUELA", 322 | TVES || VENEZUELA
 http://38.41.8.1:8000/play/a03k
