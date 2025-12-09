@@ -37,8 +37,7 @@ https://csc-axs-edge01.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremi
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN premium ARG
 http://38.191.202.162:45000/play/a06n
 
-#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
-http://200.60.124.20:29000/play/a015
+
 #EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.1 | EVENTOS COPA ECUADOR 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
 
@@ -109,7 +108,9 @@ http://181.119.97.124:8080/play/a001
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.1 | ESPN CO
 http://179.51.136.19:8000/play/a1kq/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2
-http://181.119.97.124:8080/play/a002/index.m3u8
+http://181.119.97.124:8080/play/a002
+#EXTINF:-1 tvg-id="PE | ESPN 2" tvg-name="MX | ESPN2" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
+http://190.95.60.228:8400/play/a195
 #EXTINF:-1 tvg-id="PE |  ESPN 3" tvg-name="PE | ESPN3" tvg-logo="" group-title="DEPORTES", 9.2 | ESPN 3
 http://181.119.97.124:8080/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="PE |  ESPN 4" tvg-name="PE | ESPN 4" tvg-logo="" group-title="DEPORTES", 9.3 | ESPN 4
