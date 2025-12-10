@@ -80,7 +80,7 @@ http://38.44.109.41:8003/play/a01j
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 http://200.60.124.19:29000/play/a06s
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Television
-http://38.252.213.17:8000/play/a08p
+http://8.243.126.131:8000/play/a001/index.m3u8?hls
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2.1 | Latina Television
 http://200.60.124.19:29000/play/a04q
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
@@ -459,7 +459,7 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | F1" tvg-name="PE | Sanjuanera TV" tvg-logo="" group-title="DEPORTES", 24 | F1
 http://199.127.63.143:8989/278826_.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
-http://172.93.102.112:8989/279390_.m3u8
+http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
 http://205.235.6.29:8000/play/a0vh
 #EXTINF:-1 tvg-id="USA | D SPORTS2" tvg-name="USA | D SPORTS2" tvg-logo="" group-title="DEPORTES", 120.2 | D SPORTS 2 
