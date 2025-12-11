@@ -2052,8 +2052,8 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056 | Telemundo Florida || ESTADOS UNIDOS DE AMÉRICA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056.1 | TELEMUNDO
-http://104.238.222.251:8989/165228_.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056.1 | TELEMUNDO MIAMI
+http://45.5.119.43:4000/play/a05m
 #EXTINF:-1 tvg-id="USA | UNIVISION Florida" tvg-name="USA | UNIVISION Florida" tvg-logo="" group-title="ESTADOS UNIDOS DE AMÉRICA", 1057 | telemundo || ESTADOS UNIDOS DE AMÉRICA
 http://38.199.4.160:93/play/a08x
 
