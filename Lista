@@ -370,8 +370,8 @@ http://179.61.31.142:8000/play/a07p/index.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 95 | Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
-#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 96 | NICK JR USA
-http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 96 | NICK teen
+http://38.7.101.90:8000/play/a1oz/index.m3u8
 #EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 96.1 | NICK JR USA
 https://e2.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8?token=ilAlqxIq_LfjwVsQDI8xeA&expires=1757999323&user_id=YmZHREZmMFpodkZXVU5tVFg1R0hwZHZacklEemtYdENjeG4xdUZDZw==
 #EXTINF:-1 tvg-id="BR | Retro Cartoon" tvg-name="BR | Retro Cartoon" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mhEKZuIwkJwM05ooaQ8CnnT_Kk1cWMpfMkpZWHZa8Esg=s160-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 97 | Retro Cartoon
