@@ -1454,7 +1454,7 @@ http://190.33.94.29:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://play-lh.googleusercontent.com/d3bnw0h-STU3ZsBImqYPkL11BgfXu35QaK7WNlsrvTpPIvh7esBp6NNlIxU_jV4Zrw=w240-h480-rw" group-title="PANAMÁ", 771 | SERTV || PANAMÁ
 http://190.33.94.29:8000/play/a0bs/index.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772 | Telemetro. || PANAMÁ
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(6DpyCeNnwCH877CnmKcVeqfE5DZO1HHWgRPrLCGWOrzVNQptkCEbclj_CGPRvGi2V2aF_POBrkmFMaqjjF5OlEhK_IQYDjna2fKjoruTkV6S8DL4fjOXOwV7k9-i2NAk)/cloud/3/x8nlwwo/s/live-720.m3u8#cell=lcf2-eu-north-1a
+https://cdndirector.dailymotion.com/cdn/live/video/x8nlwwo.m3u8?sec=rAY_IEhfWlfKhijFUCPLSoTct-lhViogYSlRqsDD39wuuMEA_5gZtM6ELSSMRJO7-TTACxkUEMfxpykbm4DHss9Nue-CHQalSW0Y530otk4R6JYhvBRy5mz1Ew-FI-Vw&dmTs=815085&dmV1st=d2762252-991d-70c6-7ab2-60e2c8580fec
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772.1 | Telemetro || PANAMÁ
 http://190.32.203.247:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/132px-Mas23tv.jpg" group-title="PANAMÁ", 773 | Mas 23 || PANAMÁ
