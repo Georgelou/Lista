@@ -2162,16 +2162,16 @@ https://stream-150.zeno.fm/thftmx5nhnouv?zs=TIWsBN2wQOqjXcUSHPI4Fg
 http://179.51.136.19:8000/play/a1l7/index.m3u8;
 #EXTINF:-1 tvg-id="PE | GARDEN LATINO" tvg-name="PE | GARDEN LATINO" tvg-logo="" group-title="ESTILOS DE VIDA", 1108 | GARDEN LATINO
 http://179.51.136.19:8000/play/a0z1/index.m3u8
+#EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK hd
+http://179.1.199.50:9000/play/a069
 #EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
-http://38.44.109.41:8003/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="PE | FOOD NETWORK" tvg-name="PE | FOOD NETWORK" tvg-logo="" group-title="ESTILOS DE VIDA", 1109 | FOOD NETWORK 
-http://45.181.122.46:8090/play/a01c
+http://38.44.109.41:8003/play/a03f
 #EXTINF:-1 tvg-id="PE | EL GOURMET" tvg-name="PE | EL GOURMET" tvg-logo="" group-title="ESTILOS DE VIDA", 1110 | EL GOURMET 
 http://200.60.124.19:29000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="PE | HOGAR" tvg-name="PE | HOGAR" tvg-logo="" group-title="ESTILOS DE VIDA", HOGAR
 http://179.63.6.12:9000/play/a059
-#EXTINF:-1 tvg-id="PE | Radio Sudamerica" tvg-name="PE | Radio Sudamerica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WfqhwJx2VcmoqCGZ7K_uFzg9VlUaqFMN-A&s" group-title="ESTILOS DE VIDA", En prueba | Radio Sudamerica || Cutervo; Perú
-https://sp.onliveperu.com:7078/;
+#EXTINF:-1 tvg-id="PE | Radio Sudamerica" tvg-name="PE | Radio Sudamerica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WfqhwJx2VcmoqCGZ7K_uFzg9VlUaqFMN-A&s" group-title="ESTILOS DE VIDA", Food network
+http://45.181.122.46:8090/play/a01c
 #EXTINF:-1 tvg-id="PE | Radio Fiesta FM" tvg-name="PE | Radio Fiesta FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jkHPIj99i_3fW2RLypV6iJ9PpT-NU1Y-RA&s" group-title="ESTILOS DE VIDA", 1112 | Radio Fiesta 91.5 FM || Piura; Perú
 https://audio.miradioenvivo.com:10945/stream
 #EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="EMISORAS DE RADIO CON VIDEO", 1113 | Expresión Radio TV || Ilo; Perú
