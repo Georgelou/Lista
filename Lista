@@ -1456,7 +1456,7 @@ http://190.33.94.29:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://play-lh.googleusercontent.com/d3bnw0h-STU3ZsBImqYPkL11BgfXu35QaK7WNlsrvTpPIvh7esBp6NNlIxU_jV4Zrw=w240-h480-rw" group-title="PANAMÁ", 771 | SERTV || PANAMÁ
 http://190.33.94.29:8000/play/a0bs/index.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772 | Telemetro. || PANAMÁ
-https://maxtv.heliohost.us/test/stream_telemetro.php
+https://maxtv.heliohost.us/test/telemetro.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772.1 | Telemetro || PANAMÁ
 http://190.32.203.247:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/132px-Mas23tv.jpg" group-title="PANAMÁ", 773 | Mas 23 || PANAMÁ
