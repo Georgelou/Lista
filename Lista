@@ -240,6 +240,8 @@ http://181.39.27.141:8000/play/a04u/index.m3u8
 http://181.78.23.26:45000/play/a02y
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.1 | CINEMAX
 http://200.125.170.120:8000/play/a05l
+#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.2 | CINEMAX Centro
+http://200.188.121.42:8083/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="PE | DHE" tvg-name="PE | DHE" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png" group-title="PELICULAS Y SERIES", 43 | DHE
 http://190.95.60.228:8400/play/a19g
 #EXTINF:-1 tvg-id="PE | DE PELÍCULA" tvg-name="CR | DE PELICULA" tvg-logo="" group-title="PELICULAS Y SERIES", 93 | DE PELÍCULA 
