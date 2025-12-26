@@ -1365,7 +1365,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="AR | TN" tvg-name="AR | TN" tvg-logo="" group-title="ARGENTINA", 740 | TN || ARGENTINA 
 http://104.238.205.28:8989/278775_.m3u8
 #EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741 | TELEFE || ARGENTINA 
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
+http://181.191.140.2:8000/play/a1t1/index.m3u8
 #EXTINF:-1 tvg-id="AR | ENCUENTRO" tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA", 742 | ENCUENTRO || ARGENTINA 
 http://104.238.205.28:8989/278761_.m3u8
 #EXTINF:-1 tvg-id="AR | A 24" tvg-name="AR | A 24" tvg-logo="" group-title="ARGENTINA", 743 | A 24 || ARGENTINA 
