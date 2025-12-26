@@ -291,9 +291,9 @@ http://45.160.12.200:8008/play/099/index.m3u8
 #EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87 | SPACE
 http://38.41.8.1:8000/play/a0rk
 #EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87.1 | SPACE
-http://190.52.105.146:8000/play/a0lj/index.m3u8
+http://179.51.136.19:8000/play/a191/index.m3u8
 #EXTINF:-1 tvg-id="USA | SONY" tvg-name="USA | SONY" tvg-logo="" group-title="PELICULAS Y SERIES", 88 | SONY
-http://190.211.102.42:9999/play/a053/index.m3u8
+http://179.51.136.19:8000/play/a1kk/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89 | Star Channel
 http://45.160.12.200:8008/play/083/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89.1 | Star Channel
