@@ -4,13 +4,8 @@
 #EXTINF:-1,WWE group-title="EVENTOS", 1034.1 | futbol ecuatoriano 
 http://205.235.6.29:8000/play/a0wc
 
-#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" group-title="EVENTOS", 1034.1 | AZTECA 1 HD || MEXICO 
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_tvpay_hd/default/index.mpd/corporationhc/corporationhc/playlist.mpd|User-Agent="Mozilla/5.0 (Linux; Android 11; SM-A032M Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36"
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | eventos" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS 
+http://179.51.136.23:8000/play/a085/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" group-title="MEXICO", 1034.1 | AZTECA 1 HD || MEXICO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -108,6 +103,8 @@ http://200.60.124.19:29000/play/a04tm_x7&_cdn_session=2923724123&_cdn_token=3610
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8 | ESPN CH
 http://181.119.97.124:8080/play/a001
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.1 | ESPN CO
+http://181.78.199.134:8000/play/a00s/index.m3u8?hls
+#EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.2 | ESPN EC
 http://179.51.136.19:8000/play/a1kq/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2
 http://181.119.97.124:8080/play/a002
@@ -118,11 +115,11 @@ http://181.119.97.124:8080/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="PE |  ESPN 4" tvg-name="PE | ESPN 4" tvg-logo="" group-title="DEPORTES", 9.3 | ESPN 4
 http://181.119.97.124:8080/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 5" tvg-name="PE | ESPN 5" tvg-logo="" group-title="DEPORTES", 10 | ESPN 5
-http://200.60.124.19:29000/play/a04y
+http://181.78.199.134:8000/play/a01l/index.m3u8?hls
 #EXTINF:-1 tvg-id="PE | ESPN 6" tvg-name="PE | ESPN 6" tvg-logo="" group-title="DEPORTES", 11 | ESPN 6
-http://200.60.124.19:29000/play/a01f/index.m3u8
+http://181.78.199.134:8000/play/a011/index.m3u8?hls
 #EXTINF:-1 tvg-id="PE | ESPN 7" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN 7
-http://200.60.124.19:29000/play/a01e
+http://181.78.199.134:8000/play/a00y/index.m3u8?hls
 #EXTINF:-1 tvg-id="PE | ESPN Premium" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN PREMIUM 
 http://181.39.27.141:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
@@ -472,9 +469,9 @@ http://104.243.38.5:8989/279317_.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
 http://190.83.61.245:2233/play/a1ez/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.4 | ECDF
-http://181.188.234.21:8000/play/a04u
+http://170.82.113.50:8899/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.5 | ECDF HD
-http://38.44.109.41:8003/play/a038/index.m3u8
+http://190.83.15.112:8000/play/a00p/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
 http://siriustv.lat:8000/play/a0dg/index.m3u8
@@ -501,7 +498,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 129.1 | beIN Sports 
 http://104.238.222.251:8989/158817_.m3u8
 #EXTINF:-1 tvg-id="PE | FOX SPORTS" tvg-name="PE | FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSportsARYel.webp" group-title="DEPORTES", 49 | FOX SPORTS || DEPORTES 
-http://104.238.205.28:8989/278766_.m3u8
+http://179.51.136.23:8000/play/a08a/index.m3u8?hls
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS" tvg-logo="https://i.ibb.co/m9Hm3BJ/fs-mx.png" group-title="DEPORTES", 49.1 | FOX SPORTS  || DEPORTES 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -509,7 +506,7 @@ http://104.238.205.28:8989/278766_.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 tvg-id="PE | FOX SPORTS 2" tvg-name="PE | FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSport2AR.webp" group-title="DEPORTES", 50 | FOX SPORTS 2 || DEPORTES 
-http://104.238.205.28:8989/278767_.m3u8
+http://179.51.136.23:8000/play/a04h/index.m3u8?hls
 #EXTINF:-1 tvg-id="MX | FOX SPORTS 2" tvg-name="MX | FOX SPORTS 2" tvg-logo="https://i.ibb.co/9nRjqkY/fs2-mx.png" group-title="DEPORTES", 50.1 | FOX SPORTS 2 || MEXICO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -517,7 +514,7 @@ http://104.238.205.28:8989/278767_.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 #EXTINF:-1 tvg-id="PE | FOX SPORTS 3" tvg-name="PE | FOX SPORTS 3" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSports3AR.webp" group-title="DEPORTES", 51 | FOX SPORTS 3|| DEPORTES 
-http://104.238.205.28:8989/278768_.m3u8
+http://179.51.136.23:8000/play/a070/index.m3u8?hls
 #EXTINF:-1,"FOX SPORTS 3 MX" tvg-name="PE | FOX SPORTS 3" tvg-logo="https://i.ibb.co/PrM96SV/fs3-mx.png" group-title="DEPORTES", 51.1 | FOX SPORTS 3 MX|| DEPORTES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1361,11 +1358,15 @@ https://marine2.miplay.cl/molinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | ITV Patagonia" tvg-name="CL | ITV Patagonia" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXXsRZ9MYPEdvDW2saIt--C3kF8CWtzKluQWltR2g=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE", 738 | ITV Patagonia || CHILE
 https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | EL TRECE" tvg-name="AR | EL TRECE" tvg-logo="" group-title="ARGENTINA", 739 | EL TRECE || ARGENTINA 
+http://179.51.136.23:8000/play/a08d/index.m3u8?hls
+#EXTINF:-1 tvg-id="AR | EL TRECE" tvg-name="AR | EL TRECE" tvg-logo="" group-title="ARGENTINA", 739.1 | EL TRECE || ARGENTINA 
 http://181.191.140.2:8000/play/a1t2/index.m3u8
 #EXTINF:-1 tvg-id="AR | TN" tvg-name="AR | TN" tvg-logo="" group-title="ARGENTINA", 740 | TN || ARGENTINA 
 http://104.238.205.28:8989/278775_.m3u8
 #EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741 | TELEFE || ARGENTINA 
 http://181.191.140.2:8000/play/a1t1/index.m3u8
+#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741 | TELEFE || ARGENTINA 
+http://179.51.136.23:8000/play/a08f/index.m3u8?hls
 #EXTINF:-1 tvg-id="AR | ENCUENTRO" tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA", 742 | ENCUENTRO || ARGENTINA 
 http://104.238.205.28:8989/278761_.m3u8
 #EXTINF:-1 tvg-id="AR | A 24" tvg-name="AR | A 24" tvg-logo="" group-title="ARGENTINA", 743 | A 24 || ARGENTINA 
@@ -1373,7 +1374,7 @@ http://104.238.205.28:8989/278750_.m3u8
 #EXTINF:-1 tvg-id="AR | AMÉRICA" tvg-name="AR | AMERICA" tvg-logo="" group-title="ARGENTINA", 744 | AMÉRICA || ARGENTINA 
 http://104.238.205.28:8989/278751_.m3u8
 #EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="" group-title="ARGENTINA", C5N | ARGENTINA 
-http://104.238.205.28:8989/278752_.m3u8
+http://179.51.136.23:8000/play/a05w/index.m3u8?hls
 #EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="" group-title="ARGENTINA", C5N | ARGENTINA 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1381,7 +1382,7 @@ http://104.238.205.28:8989/278752_.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
 https://csc-axs-edge01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 #EXTINF:-1 tvg-id="AR | Television Publica" tvg-name="AR | Television Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/250px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", En prueba | Television Publica || ARGENTINA
-http://38.41.8.1:8000/play/a040
+http://179.51.136.23:8000/play/a04b/index.m3u8?hls
 #EXTINF:-1 tvg-id="AR | Ciudad Mágica TV" tvg-name="AR | Ciudad Mágica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="ARGENTINA", 747 | Ciudad Mágica TV || ARGENTINA
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="ARGENTINA", 748 | Argentinísima Satelital || ARGENTINA
