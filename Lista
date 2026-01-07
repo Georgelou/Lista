@@ -1449,9 +1449,9 @@ http://190.97.234.168:8000/play/a0cn
 
 
 #EXTINF:-1 tvg-id="PA | Televisora Nacional de Panamá" tvg-name="PA | Televisora Nacional de Panamá" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", 768 | Televisora Nacional || PANAMÁ
-http://190.32.203.247:8000/play/a0c2/index.m3u8
+http://190.32.79.27:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="PA | Televisora Nacional de Panamá" tvg-name="PA | Televisora Nacional de Panamá" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", 768.1 | Televisora Nacional || PANAMÁ
-http://181.178.251.182:8000/play/a0c2/index.m3u8
+http://190.32.79.27:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="PA | Radio Programas Continentales TV" tvg-name="PA | Radio Programas Continentales TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="PANAMÁ", 769 | RPC TV || PANAMÁ
 https://www.dailymotion.com/cdn/live/video/x8lwrcd.m3u8?sec=a6MCg9oBwYJmWyYnZnWYx0Ffzo5c5fm2QUfKZ8--pwb9qr-1sJbCUgwj43BhXzaM-vK2fkXCzBstFMmj5k1FJvzr4wVn5eCz8_aqQhe5RfWZdw99Qx2QC2LamNglWYzw&dmTs=11067&dmV1st=aed10ea5-ec60-4733-ae95-8d7ddd417576
 #EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", 770 | TVMax || PANAMÁ
