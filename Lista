@@ -98,8 +98,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="PE | TV Peru Noticias" tvg-name="PE | TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/120px-Congreso_TV.png" group-title="PERU", 7.4 | ATV
-http://200.60.124.19:29000/play/a04tm_x7&_cdn_session=2923724123&_cdn_token=3610a3f7d7c0d4f78a75207bf46f94184c75f601
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | AMERICA TV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 7.4 | AMÉRICA TV
+http://185.181.35.50:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8 | ESPN CH
 http://181.119.97.124:8080/play/a001
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.1 | ESPN CO
