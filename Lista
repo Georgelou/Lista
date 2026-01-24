@@ -68,8 +68,8 @@ http://212.102.60.231/TNT/index.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="DEPORTES", 1034.1 | BEIN SPORTS
 http://181.78.106.127:9000/play/ca039
-#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="DEPORTES", 1034.2 | TIGO SPORTS
-http://45.195.15.50:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="DEPORTES", 1034.2 | Liga Peru SPORTS
+http://51.222.111.105:25461/PPV_Gratis/0124@2026/19
 #EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf
 http://38.44.109.41:8003/play/a01j
 
