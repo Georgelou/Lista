@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="EVENTOS", Canal 5
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 
 #EXTINF:-1,WWE group-title="EVENTOS", 1034.1 | futbol ecuatoriano 
 http://205.235.6.29:8000/play/a0wc
