@@ -227,7 +227,7 @@ http://179.61.31.142:8000/play/a064/index.m3u8
 http://38.44.109.41:8003/play/a040
 
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://yt3.googleusercontent.com/jv9iG5lX6If2oKYfmNmMrtDRGTxPwLULMNqLHe6WNcuzIzw1ta11kz-vG992OHsmyVO5bVH9R0A=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 64 | RCN Novelas
-http://179.1.87.75:8098/play/a0fj/index.m3u8
+http://cdn-content-cf2-us.latamlive.net/RCN_NOVELAS_SAT_ENC_LIVE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", 65 | Pasiones
@@ -933,9 +933,9 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", En prueba | RCN
 http://181.78.86.226:8086/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", RCN
-http://190.60.37.154:45000/play/a04b/index.m3u8
+http://cdn-content-cf2-us.latamlive.net/RCN_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", En prueba | Caracol Television HD
-http://190.60.37.154:45000/play/a04a/index.m3u8
+http://cdn-content-cf2-us.latamlive.net/CARACOL_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", Caracol Television
 http://181.78.82.6:46090/play/a05x
 #EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", 307 | El Tiempo Television
@@ -1396,15 +1396,17 @@ http://181.191.140.2:8000/play/a1t2/index.m3u8
 #EXTINF:-1 tvg-id="AR | TN" tvg-name="AR | TN" tvg-logo="" group-title="ARGENTINA", 740 | TN || ARGENTINA 
 http://104.238.205.28:8989/278775_.m3u8
 #EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741 | TELEFE || ARGENTINA 
-http://186.125.218.198:13000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741 | TELEFE || ARGENTINA 
+http://cdn-content-cf2-us.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.1 | TELEFE || ARGENTINA 
 http://179.51.136.23:8000/play/a08f/index.m3u8?hls
+#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.2 | TELEFE || ARGENTINA 
+http://186.125.218.198:13000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="AR | ENCUENTRO" tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA", 742 | ENCUENTRO || ARGENTINA 
 http://104.238.205.28:8989/278761_.m3u8
 #EXTINF:-1 tvg-id="AR | A 24" tvg-name="AR | A 24" tvg-logo="" group-title="ARGENTINA", 743 | A 24 || ARGENTINA 
 http://104.238.205.28:8989/278750_.m3u8
 #EXTINF:-1 tvg-id="AR | AMÉRICA" tvg-name="AR | AMERICA" tvg-logo="" group-title="ARGENTINA", 744 | AMÉRICA || ARGENTINA 
-http://104.238.205.28:8989/278751_.m3u8
+http://cdn-content-cf2-us.latamlive.net/AMERICA_AR_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="" group-title="ARGENTINA", C5N | ARGENTINA 
 http://186.125.218.198:13000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="" group-title="ARGENTINA", C5N | ARGENTINA 
