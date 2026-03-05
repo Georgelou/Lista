@@ -1405,6 +1405,8 @@ http://cdn-content-cf2-us.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.m3u8
 http://179.51.136.23:8000/play/a08f/index.m3u8?hls
 #EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.2 | TELEFE || ARGENTINA 
 http://186.125.218.198:13000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.2 | TELEFE || ARGENTINA 
+http://104.238.205.28:9090/278773_.m3u8
 #EXTINF:-1 tvg-id="AR | ENCUENTRO" tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA", 742 | ENCUENTRO || ARGENTINA 
 http://104.238.205.28:8989/278761_.m3u8
 #EXTINF:-1 tvg-id="AR | A 24" tvg-name="AR | A 24" tvg-logo="" group-title="ARGENTINA", 743 | A 24 || ARGENTINA 
@@ -1437,6 +1439,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-id="AR | CINE AR" tvg-name="AR | CINE AR" tvg-logo="" group-title="ARGENTINA", 755 | CINE AR || ARGENTINA
 http://104.238.205.28:8989/278753_.m3u8
+#EXTINF:-1 tvg-id="AR | CINE AR" tvg-name="AR | CANAL 9" tvg-logo="" group-title="ARGENTINA", 756 | ACANAL 9 || ARGENTINA
+http://104.238.205.28:9090/278759_.m3u8
 
 #EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 756 | Un Canal Latinoamericano TV || URUGUAY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
