@@ -21,7 +21,7 @@ https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENSD/default.mpd
 
 #EXTINF:-1,WWE group-title="EVENTOS", 1034.1 | futbol ecuatoriano 
-http://205.235.6.29:8000/play/a0wc
+http://204.199.242.203:58000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | eventos" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS Ec
 http://205.235.6.29:8000/play/a0wc/index.m3u8?hls
