@@ -934,7 +934,10 @@ https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 tvg-id="EC | MANAVISION" tvg-name="EC | MANAVISION" tvg-logo="" group-title="ECUADOR", 284.1 | MANAVISION || ECUADOR 
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-
+#EXTINF:-1 tvg-id="EC | MANAVISION" tvg-name="EC | MANAVISION" tvg-logo="" group-title="ECUADOR", 284.2 | VITO TVO || ECUADOR 
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | MANAVISION" tvg-name="EC | MANAVISION" tvg-logo="" group-title="ECUADOR", 284.2 | TELEPREMIER || ECUADOR 
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", En prueba | RCN
 http://190.61.43.116:45000/play/a01m/index.m3u8
