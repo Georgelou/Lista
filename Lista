@@ -1398,8 +1398,8 @@ https://marine2.miplay.cl/pucontv/playlist.m3u8
 https://marine2.miplay.cl/molinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | ITV Patagonia" tvg-name="CL | ITV Patagonia" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXXsRZ9MYPEdvDW2saIt--C3kF8CWtzKluQWltR2g=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE", 738 | ITV Patagonia || CHILE
 https://redirector.dps.live/hls/itv/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | EL TRECE" tvg-name="AR | EL TRECE" tvg-logo="" group-title="ARGENTINA", 739 | EL TRECE || ARGENTINA 
-http://186.125.218.198:13000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="AR | EL TRECE" tvg-name="AR | EL TRECE" tvg-logo="" group-title="ARGENTINA", 739 | EL TRECE. || ARGENTINA 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/eltrece.playlist.m3u8
 #EXTINF:-1 tvg-id="AR | EL TRECE" tvg-name="AR | EL TRECE" tvg-logo="" group-title="ARGENTINA", 739.1 | EL TRECE || ARGENTINA 
 http://181.191.140.2:8000/play/a1t2/index.m3u8
 #EXTINF:-1 tvg-id="AR | TN" tvg-name="AR | TN" tvg-logo="" group-title="ARGENTINA", 740 | TN || ARGENTINA 
@@ -1408,8 +1408,8 @@ http://104.238.205.28:8989/278775_.m3u8
 http://cdn-content-cf2-us.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.1 | TELEFE || ARGENTINA 
 http://179.51.136.23:8000/play/a08f/index.m3u8?hls
-#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.2 | TELEFE || ARGENTINA 
-http://186.125.218.198:13000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.2 | TELEFE. || ARGENTINA 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="AR | TELEFE" tvg-name="AR | TELEFE" tvg-logo="" group-title="ARGENTINA", 741.2 | TELEFE || ARGENTINA 
 http://104.238.205.28:9090/278773_.m3u8
 #EXTINF:-1 tvg-id="AR | ENCUENTRO" tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA", 742 | ENCUENTRO || ARGENTINA 
