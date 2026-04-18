@@ -80,7 +80,7 @@ http://181.119.97.124:8000/play/a00v/index.m3u8?hls
 https://streamx339.cloud/global1.php?channel=disney3
 
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.2 | EVENTO DIARIOS
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/4
+https://streamtpnew.com/global1.php?stream=mls3en
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO AEW
 http://212.102.60.231/TNT/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTO TBS 
