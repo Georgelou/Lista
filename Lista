@@ -496,9 +496,9 @@ http://190.238.43.117:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
 http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.4 | ECDF
-http://170.82.113.50:8899/play/a0j1/index.m3u8
+http://181.63.102.150:8000/play/a1ki/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.5 | ECDF HD
-http://190.83.15.112:8000/play/a00p/index.m3u8?hls
+http://190.83.15.112:8000/play/a00p
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
 http://siriustv.lat:8000/play/a0dg/index.m3u8
