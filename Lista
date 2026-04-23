@@ -77,7 +77,7 @@ http://201.219.11.182:7777/play/a1qs/index.m3u8
 #EXTINF:-1 tvg-id="MX | AAA" tvg-name="MX | EVENTOS ECUADOR" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.2 | EVENTOS || ECUADOR Zapping
 http://181.119.97.124:8000/play/a00v/index.m3u8?hls
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.1 | EVENTO ..
-https://streamx339.cloud/global1.php?channel=disney3
+http://tvtvhd.com/vivo/canales.php?stream=espn
 
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.2 | EVENTO DIARIOS
 https://streamtpnew.com/global1.php?stream=mls3en
