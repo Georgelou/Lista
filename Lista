@@ -122,7 +122,7 @@ http://185.181.35.50:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8 | ESPN CH
 http://181.119.97.124:8080/play/a001
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.1 | ESPN CO
-http://181.78.199.134:8000/play/a00s/index.m3u8?hls
+http://190.61.42.218:9000/play/a04l
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.2 | ESPN EC
 http://179.51.136.19:8000/play/a1kq/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2
