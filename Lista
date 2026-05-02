@@ -120,25 +120,25 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | AMERICA TV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 7.4 | AMÉRICA TV
 http://185.181.35.50:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8 | ESPN CH
-http://181.119.97.124:8080/play/a001
+http://179.1.199.50:9000/play/a04w
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.1 | ESPN CO
 http://190.61.42.218:9000/play/a04l
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.2 | ESPN EC
 http://179.51.136.19:8000/play/a1kq/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2
-http://181.119.97.124:8080/play/a002
+http://179.1.199.50:9000/play/a08f
 #EXTINF:-1 tvg-id="PE | ESPN 2" tvg-name="MX | ESPN2" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
 http://190.95.60.228:8400/play/a195
 #EXTINF:-1 tvg-id="PE |  ESPN 3" tvg-name="PE | ESPN3" tvg-logo="" group-title="DEPORTES", 9.2 | ESPN 3
-http://181.119.97.124:8080/play/a003/index.m3u8
+http://179.1.199.50:9000/play/a02r
 #EXTINF:-1 tvg-id="PE |  ESPN 4" tvg-name="PE | ESPN 4" tvg-logo="" group-title="DEPORTES", 9.3 | ESPN 4
-http://181.119.97.124:8080/play/a004/index.m3u8
+http://179.1.199.50:9000/play/a02q
 #EXTINF:-1 tvg-id="PE | ESPN 5" tvg-name="PE | ESPN 5" tvg-logo="" group-title="DEPORTES", 10 | ESPN 5
-http://181.78.199.134:8000/play/a01l/index.m3u8?hls
+http://179.1.199.50:9000/play/a06r
 #EXTINF:-1 tvg-id="PE | ESPN 6" tvg-name="PE | ESPN 6" tvg-logo="" group-title="DEPORTES", 11 | ESPN 6
-http://181.78.199.134:8000/play/a011/index.m3u8?hls
+http://179.1.199.50:9000/play/a06q
 #EXTINF:-1 tvg-id="PE | ESPN 7" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN 7
-http://181.78.199.134:8000/play/a00y/index.m3u8?hls
+http://179.1.199.50:9000/play/a09g
 #EXTINF:-1 tvg-id="PE | ESPN Premium" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN PREMIUM 
 http://181.39.27.141:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
