@@ -545,7 +545,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 #EXTINF:-1 tvg-id="MX | FOX SPORTS PREMIUM" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="DEPORTES", 51.2 | FOX SPORTS PREMIUM  || DEPORTES 
 http://nor1live.win/livehttpplay?channel_id=23054
 #EXTINF:-1 tvg-id="MX | FOX DEPORTES" tvg-name="MX | FOX DEPORTES" tvg-logo="" group-title="DEPORTES", 51.3 | FOX DEPORTES  || DEPORTES 
-http://45.171.64.30:8800/play/a08k
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX DEPORTES" tvg-name="MX | FOX DEPORTES" tvg-logo="" group-title="DEPORTES", 51.4 | FOX DEPORTES  || DEPORTES 
 http://131.161.83.249:8031/play/a02d
 #EXTINF:-1 tvg-id="PE | TyC SPORTS" tvg-name="PE | TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/tycSports.webp" group-title="DEPORTES", 52 | TyC SPORTS || DEPORTES 
