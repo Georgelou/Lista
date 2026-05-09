@@ -124,7 +124,7 @@ http://179.1.199.50:9000/play/a07j
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.1 | ESPN CO
 http://190.61.42.218:9000/play/a04l
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.2 | ESPN EC
-http://179.51.136.19:8000/play/a1kq/index.m3u8
+http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2
 http://179.1.199.50:9000/play/a08f
 #EXTINF:-1 tvg-id="PE | ESPN 2" tvg-name="MX | ESPN2" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
