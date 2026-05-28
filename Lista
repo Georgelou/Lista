@@ -24,7 +24,7 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENSD/default.mpd
 http://204.199.242.203:58000/play/a079
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | eventos" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS Ec
-http://205.235.6.29:8000/play/a0wc/index.m3u8?hls
+http://204.199.242.203:58000/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" group-title="MEXICO", 1034.1 | AZTECA 1 HD || MEXICO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
