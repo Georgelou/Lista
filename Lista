@@ -1494,6 +1494,8 @@ http://45.225.74.253:8000/play/a00g
 http://38.134.250.110:8000/play/a01m/index.m3u8?hls
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772.1 | TELEMETRO || PANAMÁ
 http://181.78.8.199:8000/play/a0ii
+#EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772.2 | TELEMETRO || PANAMÁ
+http://181.178.217.220:8000/play/a00o
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/132px-Mas23tv.jpg" group-title="PANAMÁ", 773 | Mas 23 || PANAMÁ
 http://45.225.74.253:8000/play/a00d
 #EXTINF:-1 tvg-id="PA | Nex" tvg-name="PA | Nex" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZpwn42ACqeWUHxjnK3PDsbLzhqG0NYmQdz1Yradw=s900-c-k-c0x00ffffff-no-rj" group-title="PANAMÁ", 774 | Nex || PANAMÁ
