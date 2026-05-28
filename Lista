@@ -35,11 +35,7 @@ https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-1-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECPRO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-http://181.78.192.238:8000/play/a2fz/index.m3u8?hls
+http://204.199.246.85:58000/play/a001
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN..
 http://179.1.199.50:9000/play/a05t
@@ -54,16 +50,12 @@ https://streamx339.cloud/global1.php?channel=disney3
 #EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.2 | EVENTOS  ECUADOR vs EU
 http://200.39.57.254:8008/play/a004
 
-#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.3 | EVENTOS  zapping
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/9
+#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.3 | EVENTOS za
+http://181.78.192.238:8000/play/a2hp/index.m3u8
 
+#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR Zapping ds
+http://181.78.192.238:8000/play/a2hq/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR Zapping 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c09a6c420603dac29f430d3419bc51:a8a53a9a0db797a9b832302d874d5df3
-http://177.234.234.3:8000/play/zapping10/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR ECDF
 http://177.234.230.206:8011/play/a09z
