@@ -486,7 +486,7 @@ http://38.210.3.64:8090/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
-http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
+http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS2" tvg-name="USA | D SPORTS2" tvg-logo="" group-title="DEPORTES", 120.2 | D SPORTS 2 
 http://190.238.43.117:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
@@ -525,13 +525,13 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playl
 #EXTINF:-1 tvg-id="PE | FOX SPORTS" tvg-name="PE | FOX SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSportsARYel.webp" group-title="DEPORTES", 49 | FOX SPORTS MX || DEPORTES 
 http://45.189.151.7:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS" tvg-logo="https://i.ibb.co/m9Hm3BJ/fs-mx.png" group-title="DEPORTES", 49.1 | FOX SPORTS  || DEPORTES 
-http://45.189.151.7:8000/play/a06m/index.m3u8
+http://200.60.124.20:29000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="PE | FOX SPORTS 2" tvg-name="PE | FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSport2AR.webp" group-title="DEPORTES", 50 | FOX SPORTS 2 || DEPORTES 
-http://179.51.136.23:8000/play/a04h/index.m3u8?hls
+http://200.60.124.20:29000/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX SPORTS 2" tvg-name="MX | FOX SPORTS 2" tvg-logo="https://i.ibb.co/9nRjqkY/fs2-mx.png" group-title="DEPORTES", 50.1 | FOX SPORTS 2 || MEXICO 
 http://45.189.151.7:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="PE | FOX SPORTS 3" tvg-name="PE | FOX SPORTS 3" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSports3AR.webp" group-title="DEPORTES", 51 | FOX SPORTS 3|| DEPORTES 
-http://179.51.136.23:8000/play/a070/index.m3u8?hls
+http://200.60.124.20:29000/play/a0ku/index.m3u8
 #EXTINF:-1,"FOX SPORTS 3 MX" tvg-name="PE | FOX SPORTS 3" tvg-logo="https://i.ibb.co/PrM96SV/fs3-mx.png" group-title="DEPORTES", 51.1 | FOX SPORTS 3 MX|| DEPORTES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1385,7 +1385,7 @@ https://marine2.miplay.cl/molinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | ITV Patagonia" tvg-name="CL | ITV Patagonia" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXXsRZ9MYPEdvDW2saIt--C3kF8CWtzKluQWltR2g=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE", 738 | ITV Patagonia || CHILE
 https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | EL TRECE" tvg-name="AR | EL TRECE" tvg-logo="" group-title="ARGENTINA", 739 | EL TRECE. || ARGENTINA 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/eltrece.playlist.m3u8
+http://200.60.124.20:29000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AR | EL TRECE" tvg-name="AR | EL TRECE" tvg-logo="" group-title="ARGENTINA", 739.1 | EL TRECE || ARGENTINA 
 http://181.191.140.2:8000/play/a1t2/index.m3u8
 #EXTINF:-1 tvg-id="AR | TN" tvg-name="AR | TN" tvg-logo="" group-title="ARGENTINA", 740 | TN || ARGENTINA 
