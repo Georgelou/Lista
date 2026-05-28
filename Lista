@@ -122,19 +122,19 @@ http://190.61.42.218:9000/play/a04l
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.2 | ESPN EC
 http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2
-http://179.1.199.50:9000/play/a08f
-#EXTINF:-1 tvg-id="PE | ESPN 2" tvg-name="MX | ESPN2" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
+http://200.60.124.20:29000/play/a0sn/index.m3u8
+EXTINF:-1 tvg-id="PE | ESPN 2" tvg-name="MX | ESPN2" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
 http://190.95.60.228:8400/play/a195
 #EXTINF:-1 tvg-id="PE |  ESPN 3" tvg-name="PE | ESPN3" tvg-logo="" group-title="DEPORTES", 9.2 | ESPN 3
-http://179.1.199.50:9000/play/a02r
+http://200.60.124.20:29000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="PE |  ESPN 4" tvg-name="PE | ESPN 4" tvg-logo="" group-title="DEPORTES", 9.3 | ESPN 4
-http://179.1.199.50:9000/play/a02q
+http://200.60.124.20:29000/play/a0rw/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 5" tvg-name="PE | ESPN 5" tvg-logo="" group-title="DEPORTES", 10 | ESPN 5
-http://179.1.199.50:9000/play/a06r
+http://200.60.124.20:29000/play/a0so/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 6" tvg-name="PE | ESPN 6" tvg-logo="" group-title="DEPORTES", 11 | ESPN 6
-http://179.1.199.50:9000/play/a06q
+http://200.60.124.20:29000/play/a0sh/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN 7" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN 7
-http://179.1.199.50:9000/play/a09g
+http://200.60.124.20:29000/play/a0rp/index.m3u8
 #EXTINF:-1 tvg-id="PE | ESPN Premium" tvg-name="PE | ESPN 7" tvg-logo="x=es" group-title="DEPORTES", 12 | ESPN PREMIUM 
 http://181.39.27.141:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
