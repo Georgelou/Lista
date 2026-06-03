@@ -454,8 +454,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 #EXTINF:-1 tvg-id="PE | MAGIVER" tvg-name="PE | MAGIVER" tvg-logo="" group-title="CANALES 24/7", 58 | MAGIVER
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-#EXTINF:-1 tvg-id="PE | DRAGÓN BALL " tvg-name="PE | DRAGON BALL" tvg-logo="" group-title="CANALES 24/7", 59 | ROSA DE GUADALUPE 
-http://205.235.6.29:8000/play/a0vj
+#EXTINF:-1 tvg-id="PE | DRAGÓN BALL " tvg-name="PE | DRAGON BALL" tvg-logo="" group-title="CANALES 24/7", 59 | Dragon ball Z
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/250px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS E INFORMACION", 111 | CNN en Español
