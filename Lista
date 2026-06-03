@@ -58,7 +58,7 @@ http://181.78.192.238:8000/play/a2hq/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR ECDF
-http://177.234.230.206:8011/play/a09z
+http://205.235.6.9:8000/play/a006/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="MX | AAA" tvg-name="MX | EVENTOS ECUADOR" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.1 | EVENTOS || ECUADOR Z
 http://201.219.11.182:7777/play/a1qs/index.m3u8
@@ -380,7 +380,7 @@ http://190.60.42.86:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="PE | DISNEY CHANNEL " tvg-name="PE | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES", 89 | DISNEY CHANNEL
 http://38.7.101.90:8000/play/a1np/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 90 | Cartoon Network
-http://38.41.8.1:8000/play/a0tb
+http://205.235.6.9:8000/play/a002/index.m3u8?hls
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 91 | Cartoonito
 http://38.41.8.1:8000/play/a0v9
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 91.1 | Cartoonito
