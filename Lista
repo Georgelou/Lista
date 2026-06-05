@@ -228,8 +228,10 @@ http://179.1.87.75:8098/play/a0st/index.m3u8
 http://200.229.147.142:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo 
 http://200.229.147.142:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67.1 | Telemundo 
-http://104.238.205.28:9090/278665_.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo MIAMI
+http://45.166.93.74:4444/play/a11d/index.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67.1 | Telemundo 51
+http://45.166.93.74:4444/play/a11e/index.m3u8
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 68 | Investigation Discovery
 http://160.20.165.246:8000/play/a012/index.m3u8
 
@@ -250,7 +252,7 @@ http://181.39.27.141:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42 | CINEMAX
 http://181.78.23.26:45000/play/a02y
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.1 | CINEMAX
-http://200.125.170.120:8000/play/a05l
+http://138.204.12.14:40000/play/a0oo/index.m3u8
 #EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.2 | CINEMAX Centro
 http://200.188.121.42:8083/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="PE | DHE" tvg-name="PE | DHE" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png" group-title="PELICULAS Y SERIES", 43 | DHE
@@ -304,7 +306,7 @@ http://190.211.250.102:8000/play/a02a
 #EXTINF:-1 tvg-id="USA | PARAMOUNT" tvg-name="USA | PARAMOUNT" tvg-logo="" group-title="PELICULAS Y SERIES", 86 | PARAMOUNT 
 http://45.160.12.200:8008/play/099/index.m3u8
 #EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87 | SPACE
-http://38.41.8.1:8000/play/a0rk
+http://205.235.6.9:8000/play/a004/index.m3u8?hls
 #EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87.1 | SPACE
 http://179.51.136.19:8000/play/a191/index.m3u8
 #EXTINF:-1 tvg-id="USA | SONY" tvg-name="USA | SONY" tvg-logo="" group-title="PELICULAS Y SERIES", 88 | SONY
@@ -321,9 +323,9 @@ http://45.160.12.200:8008/play/098/index.m3u8
 #EXTINF:-1 tvg-id="USA | UNIVERSAL STUDIO" tvg-name="USA | UNIVERSAL STUDIO" tvg-logo="" group-title="PELICULAS Y SERIES", 90.1 | UNIVERSAL STUDIO
 http://190.60.37.154:45000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 91 | TNT
-http://38.41.8.1:8000/play/a0su
+http://205.235.6.9:8000/play/a001/index.m3u8?hls
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 91.1 | TNT 
-http://190.60.37.154:45000/play/a031/index.m3u8
+http://45.166.93.74:4444/play/a1e6/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 91.2 | TNT E
 http://190.60.37.154:45000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92 | Universal TV
@@ -352,7 +354,7 @@ http://160.20.165.246:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 73 | Warner Channel
 http://179.61.31.142:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 73.1 | Warner Channel
-http://38.41.8.1:8000/play/a0rj
+http://205.235.6.9:8000/play/a003/index.m3u8?hls
 #EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="PELICULAS Y SERIES", 76 | Clover Channel
 http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 77 | Universal TV
@@ -380,11 +382,11 @@ http://190.60.42.86:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="PE | DISNEY CHANNEL " tvg-name="PE | DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES", 89 | DISNEY CHANNEL
 http://38.7.101.90:8000/play/a1np/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 90 | Cartoon Network
-http://205.235.6.9:8000/play/a002/index.m3u8?hls
+http://45.166.93.74:4444/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 91 | Cartoonito
-http://38.41.8.1:8000/play/a0v9
+http://205.235.6.9:8000/play/a002/index.m3u8?hls
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 91.1 | Cartoonito
-http://38.7.101.90:8000/play/a1k8/index.m3u8
+http://45.166.93.74:4444/play/a1br/index.m3u8
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/250px-Logo_de_Tooncast.svg.png" group-title="INFANTILES", 92 | Tooncast
 http://38.7.101.90:8000/play/a1ke/index.m3u8
 #EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 94 | Dios TV Kids
@@ -404,13 +406,13 @@ http://160.20.165.246:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 99 | Toon Goggles TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100 | NICK JR
-http://38.7.101.90:8000/play/a1k9/index.m3u8
+http://45.166.93.74:4444/play/a0ck/index.m3u8
 #EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.1 | NICK JR HD
-http://45.177.179.227:8000/play/a01u/index.m3u8?hls
-#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.2 | NICK JR
 http://45.189.62.33:8002/play/a0ck
+#EXTINF:-1 tvg-id="ES | NICK JR" tvg-name="ES | NICK JR" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="INFANTILES", 100.2 | NICK JR
+http://138.204.12.14:40000/play/a0os/index.m3u8
 #EXTINF:-1 tvg-id="PE | NICKELODEON" tvg-name="PE | NICKELODEON" tvg-logo="" group-title="INFANTILES", 101 | NICK 
-http://38.7.101.90:8000/play/a1me/index.m3u8
+http://45.166.93.74:4444/play/a0qj/index.m3u8
 #EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="INFANTILES", 102 | DM Kids TV
 https://ott1.hdlatam.tv/live/k1ds_TVNXDRMBXMLSK/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="INFANTILES", 103 | Canal Infantil
@@ -418,13 +420,15 @@ http://160.20.165.246:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTILES", 104 | FMH Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | DISNEY JR" tvg-name="CL | DISNEY JR" tvg-logo="" group-title="INFANTILES", 105 | DISNEY JR
-http://38.7.101.90:8000/play/a1k5/index.m3u8
+http://45.166.93.74:4444/play/a1bs/index.m3u8
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/330px-123TV_logo_2022.jpg" group-title="INFANTILES", 106 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/200px-Discovery_Kids_Logo_%282021%29.webp.png" group-title="INFANTILES", 107 | Discovery Kids
-http://38.7.101.90:8000/play/a1g6/index.m3u8
-#EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/330px-Semillitas2011.png" group-title="INFANTILES", 108 | Semillitas
-http://179.61.31.142:8000/play/a063/index.m3u8
+http://45.166.93.74:4444/play/a1be/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/200px-Discovery_Kids_Logo_%282021%29.webp.png" group-title="INFANTILES", 107.1 | Discovery Kids
+http://138.204.12.14:40000/play/a0o3/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="" group-title="INFANTILES", 108 | Cartoon Network 
+http://205.235.6.9:8000/play/a002/index.m3u8?hls
 #EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 109 | El Conflicto Tribunal del Pueblo TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 #EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="CANALES 24/7", 110 | Los Tres Chiflados TV
@@ -482,13 +486,13 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | F1" tvg-name="PE | Sanjuanera TV" tvg-logo="" group-title="DEPORTES", 24 | ESPN PREMIUN
 http://38.210.3.64:8090/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
-http://201.230.121.85:8000/play/a0yv/index.m3u8
-#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
 http://200.60.124.20:29000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
+http://138.204.12.14:40000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS2" tvg-name="USA | D SPORTS2" tvg-logo="" group-title="DEPORTES", 120.2 | D SPORTS 2 
-http://190.238.43.117:8000/play/a09g/index.m3u8
+http://138.204.12.14:40000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
-http://190.238.43.117:8000/play/a09f/index.m3u8
+http://138.204.12.14:40000/play/a0l7/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.4 | ECDF
 http://181.63.102.150:8000/play/a1ki/index.m3u8
 #EXTINF:-1 tvg-id="USA | ECDF" tvg-name="USA | ECDF" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 120.5 | ECDF HD
@@ -509,7 +513,7 @@ http://siriustv.lat:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN DEPORTES" tvg-name="USA | ESPN DEPORTES" tvg-logo="" group-title="DEPORTES", 126.1 | ESPN PE 
 http://38.210.3.64:8090/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN DEPORTES" tvg-name="USA | ESPN DEPORTES" tvg-logo="" group-title="DEPORTES", 126.2 | ESPN DEPORTES 
-http://nor1live.win/livehttpplay?channel_id=23135
+http://205.235.6.9:8000/play/a006/index.m3u8?hls
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 127 | El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="MX | Sky Sports La Liga" tvg-name="MX | Sky Sports La Liga" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6US?format=png&name=240x240" group-title="DEPORTES", 128 | Sky Sports La Liga
@@ -544,8 +548,8 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 http://131.161.83.249:8031/play/a02d
 #EXTINF:-1 tvg-id="PE | TyC SPORTS" tvg-name="PE | TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/tycSports.webp" group-title="DEPORTES", 52 | TyC SPORTS || DEPORTES 
 http://104.238.205.28:8989/278778_.m3u8
-#EXTINF:-1 tvg-id="PE | TNT SPORTS " tvg-name="PE | TNT SPORTS" tvg-logo="" group-title="DEPORTES", 53 | TNT SPORTS || DEPORTES 
-http://104.238.205.28:8989/278777_.m3u8
+#EXTINF:-1 tvg-id="PE | TNT SPORTS " tvg-name="PE | TNT SPORTS" tvg-logo="" group-title="DEPORTES", 53 | TNT SPORTS CH || DEPORTES 
+http://205.235.6.9:8000/play/a005/index.m3u8?hls
 #EXTINF:-1 tvg-id="PE | TUDN" tvg-name="PE | TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="DEPORTES", 130 | TUDN
 http://104.238.205.28:8989/278570_.m3u8
 
