@@ -247,40 +247,45 @@ http://190.61.114.186:8000/play/a020/index.m3u8
 http://190.61.114.186:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="PE | AXN" tvg-name="PE | AXN" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/mx_axn.png" group-title="PELICULAS Y SERIES", 40.1 | AXN 190.60
 http://190.60.37.154:45000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41 | CINECANAL 
+#EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41 | CINECANAL 179
 http://179.1.87.75:8098/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41.1 | CINECANAL 
-http://181.39.27.141:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42 | CINEMAX
+#EXTINF:-1 tvg-id="PE | CINECANAL" tvg-name="PE | CINECANAL" tvg-logo="" group-title="PELICULAS Y SERIES", 41.1 | CINECANAL 190.60
+http://190.60.37.154:45000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42 | CINEMAX 181
 http://181.78.23.26:45000/play/a02y
-#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.1 | CINEMAX
+#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.1 | CINEMAX 138
 http://138.204.12.14:40000/play/a0oo/index.m3u8
-#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.2 | CINEMAX Centro
-http://200.188.121.42:8083/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="PE | DHE" tvg-name="PE | DHE" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png" group-title="PELICULAS Y SERIES", 43 | DHE
-http://190.95.60.228:8400/play/a19g
-#EXTINF:-1 tvg-id="PE | DE PELÍCULA" tvg-name="CR | DE PELICULA" tvg-logo="" group-title="PELICULAS Y SERIES", 93 | DE PELÍCULA 
+#EXTINF:-1 tvg-id="PE | CINEMAX" tvg-name="PE | CINEMAX" tvg-logo="" group-title="PELICULAS Y SERIES", 42.2 | CINEMAX Centro 190.60
+http://190.60.37.154:45000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="PE | DHE" tvg-name="PE | DHE" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/no_logo.png" group-title="PELICULAS Y SERIES", 43 | DHE 179
+http://179.1.87.75:8098/play/a0tr/index.m3u8
+#EXTINF:-1 tvg-id="PE | DE PELÍCULA" tvg-name="CR | DE PELICULA" tvg-logo="" group-title="PELICULAS Y SERIES", 93 | DE PELÍCULA 190.60
 http://190.60.37.154:45000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="PE | FX " tvg-name="PE | FX" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png" group-title="PELICULAS Y SERIES", 44 | FX
-http://190.95.60.228:8400/play/a0z1
-#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45 | GOLDEN
-http://38.191.202.162:45000/play/a03x
-#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.1 | GOLDEN
+#EXTINF:-1 tvg-id="PE | FX " tvg-name="PE | FX" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png" group-title="PELICULAS Y SERIES", 44 | FX 179
+http://179.1.87.75:8098/play/a0hc/index.m3u8
+#EXTINF:-1 tvg-id="PE | FX " tvg-name="PE | FX" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_fx.png" group-title="PELICULAS Y SERIES", 44 | FX 190.60
+http://190.60.37.154:45000/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45 | GOLDEN 190.61
+http://190.61.114.186:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.1 | GOLDEN 181
 http://181.78.23.26:45000/play/a04c
-#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.2 | GOLDEN
+#EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.2 | GOLDEN 45
 http://45.181.122.46:8090/play/a019
-#EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46 | GOLDEN EDGE
+#EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46 | GOLDEN EDGE 190.61
 http://190.61.43.116:45000/play/a0c2/index.m3u8
-#EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46.1 | GOLDEN EDGE
-http://38.191.202.162:45000/play/a04g
-#EXTINF:-1 tvg-id="PE | GOLDEN PLUS" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 47 | GOLDEN PLUS
-http://190.61.43.116:45000/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS Y SERIES", 48 | GOLDEN PREMIER
-http://200.125.170.120:8000/play/a00l
-#EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE 2" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS Y SERIES", 48.1 | GOLDEN PREMIER 2
-http://200.125.170.120:8000/play/a00m
-#EXTINF:-1 tvg-id="USA | HBO " tvg-name="USA | HBO " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_hd_latinoamerica-mediano.png" group-title="PELICULAS Y SERIES", 82 | HBO 
+#EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46.1 | GOLDEN EDGE 45
+http://45.181.122.46:8090/play/a038
+#EXTINF:-1 tvg-id="PE | GOLDEN PLUS" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 47 | GOLDEN PLUS 190.61
+http://190.61.43.116:45000/play/a0c1
+#EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS Y SERIES", 48 | GOLDEN PREMIER 45.186
+http://45.186.106.207:8000/play/a06v
+#EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE 2" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS Y SERIES", 48.1 | GOLDEN PREMIER 2 45.186
+http://45.186.106.207:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO " tvg-name="USA | HBO " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_hd_latinoamerica-mediano.png" group-title="PELICULAS Y SERIES", 82 | HBO 38
 http://38.210.3.64:8090/play/a0h9/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO " tvg-name="USA | HBO " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_hd_latinoamerica-mediano.png" group-title="PELICULAS Y SERIES", 82 | HBO 45.186
+http://45.186.106.207:8000/play/a07m
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PELICULAS Y SERIES", 82.1 | HBO 2
 http://45.160.12.200:8008/play/021/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus_oeste-mediano.png" group-title="PELICULAS Y SERIES", 82.2 | HBO +
