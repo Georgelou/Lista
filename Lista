@@ -288,36 +288,44 @@ http://38.210.3.64:8090/play/a0h9/index.m3u8
 http://45.186.106.207:8000/play/a07m
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PELICULAS Y SERIES", 82.1 | HBO 2
 http://45.160.12.200:8008/play/021/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus_oeste-mediano.png" group-title="PELICULAS Y SERIES", 82.2 | HBO +
+#EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus_oeste-mediano.png" group-title="PELICULAS Y SERIES", 82.2 | HBO + 179
 http://179.1.87.75:8098/play/a0ef/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family
+#EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus_oeste-mediano.png" group-title="PELICULAS Y SERIES", 82.2 | HBO + 45.160
+http://45.160.12.200:8008/play/019/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family 45.160
 http://45.160.12.200:8008/play/018/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png" group-title="PELICULAS Y SERIES", 83 | HBO Family 190.60
 http://190.60.37.154:45000/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI
-http://38.7.101.90:8000/play/a191/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP
+#EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="" group-title="PELICULAS Y SERIES", 83.1 | HBO MUNDI 45.160
+http://45.160.12.200:8008/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP 45.160
 http://45.160.12.200:8008/play/128/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME
+#EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="" group-title="PELICULAS Y SERIES", 83.2 | HBO POP 45.181
+http://45.181.122.46:8090/play/a00j
+#EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO XTREME 45.160
 http://45.160.12.200:8008/play/020/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO SIGNATURE" tvg-name="USA | HBO SGNATURE" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO SIGNATURE 
-http://181.78.79.63:1010/play/a0jr/index.m3u8
-#EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA
-http://200.125.170.120:8000/play/a04c
-#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84.1 | Canal MC
-http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="USA | MULTIPREMIER" tvg-name="USA | MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85 | MULTI PREMIER 
-http://200.125.170.120:8000/play/a05j
-#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85.1 | Multipremier
-http://190.211.250.102:8000/play/a02a
+#EXTINF:-1 tvg-id="USA | HBO SIGNATURE" tvg-name="USA | HBO SGNATURE" tvg-logo="" group-title="PELICULAS Y SERIES", 83.3 | HBO SIGNATURE 45.160
+http://45.160.12.200:8008/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="USA | MULTICINEMA" tvg-name="USA | MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84 | MULTICINEMA 181.78
+http://181.78.192.238:8000/play/a2cs
+#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 84.1 | Canal MC 190.105
+http://190.105.128.198:5800/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="USA | MULTIPREMIER" tvg-name="USA | MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85 | MULTI PREMIER 177
+http://177.234.218.66:8084/play/a08w/index.m3u8
+#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 85.1 | Multipremier 181.78
+http://181.78.192.238:8000/play/a2b4
 #EXTINF:-1 tvg-id="USA | PARAMOUNT" tvg-name="USA | PARAMOUNT" tvg-logo="" group-title="PELICULAS Y SERIES", 86 | PARAMOUNT 
-http://45.160.12.200:8008/play/099/index.m3u8
-#EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87 | SPACE
+http://38.134.250.110:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87 | SPACE 205
 http://205.235.6.9:8000/play/a004/index.m3u8?hls
-#EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87.1 | SPACE
-http://179.51.136.19:8000/play/a191/index.m3u8
-#EXTINF:-1 tvg-id="USA | SONY" tvg-name="USA | SONY" tvg-logo="" group-title="PELICULAS Y SERIES", 88 | SONY
-http://179.51.136.19:8000/play/a1kk/index.m3u8
+#EXTINF:-1 tvg-id="USA | SPACE" tvg-name="USA | SPACE" tvg-logo="" group-title="PELICULAS Y SERIES", 87.1 | SPACE 46.160
+http://45.160.12.200:8008/play/119
+#EXTINF:-1 tvg-id="USA | SONY" tvg-name="USA | SONY" tvg-logo="" group-title="PELICULAS Y SERIES", 88 | SONY 45.160
+http://45.160.12.200:8008/play/085
+#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 70 | Sony Channel 45.160
+http://45.160.12.200:8008/play/154
+#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 70.1 | Sony Channel 190.105
+http://190.105.128.198:5800/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89 | Star Channel
 http://45.160.12.200:8008/play/083/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 89.1 | Star Channel
@@ -348,10 +356,7 @@ https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 
 #EXTINF:-1 tvg-id="USA | CCS Movie" tvg-name="USA | CCS Movie" tvg-logo="https://play-lh.googleusercontent.com/50zJ15ssk4T5uGnJP4h0kUu6ryfMd3TYwsBse-gYivjN-_yZefmc5bqpzjYzmC2GeH8=w240-h480-rw" group-title="PELICULAS Y SERIES", 69 | CCS Movie
 http://38.41.8.1:8000/play/a0y4
-#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 70 | Sony Channel
-http://45.160.12.200:8008/play/085/index.m3u8
-#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 70.1 | Sony Channel
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 71 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tcm_m.png" group-title="PELICULAS Y SERIES", En prueba | TCM
