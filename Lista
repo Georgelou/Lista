@@ -497,7 +497,9 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | F1" tvg-name="PE | Sanjuanera TV" tvg-logo="" group-title="DEPORTES", 24 | ESPN PREMIUN
 http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
+#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 177
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 200
 http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
 http://138.204.12.14:40000/play/a0at/index.m3u8
