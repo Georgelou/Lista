@@ -208,22 +208,23 @@ http://104.238.205.28:8989/278690_.m3u8
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w240-h480-rw" group-title="NOVELAS", 60 | Novelísima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 61 | Kanal D Drama
-http://38.41.8.1:8000/play/a0w5
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
 #EXTINF:-1 tvg-id="MX | Corazon" tvg-name="MX | Corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png/250px-Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="NOVELAS", 62 | Corazon
 http://179.61.31.142:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlnovelas_logo_2021.png/120px-Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
-http://38.44.109.41:8003/play/a040
-
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELENOVELAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOVELAS_stream_ak&_cdn_session=3534424829&_cdn_token=d2312567892127b9738f9a1ede52ec4c64713ab8
+#EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlnovelas_logo_2021.png/120px-Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
+http://38.44.109.41:8003/play/a0gu
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://yt3.googleusercontent.com/jv9iG5lX6If2oKYfmNmMrtDRGTxPwLULMNqLHe6WNcuzIzw1ta11kz-vG992OHsmyVO5bVH9R0A=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 64 | RCN Novelas
-http://cdn-content-cf2-us.latamlive.net/RCN_NOVELAS_SAT_ENC_LIVE/index.m3u8
 
-
-#EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", 65 | Pasiones
+#EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", 65 | Pasiones 200
 http://200.229.147.142:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", 65 | Pasiones
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=3534424581&_cdn_token=c07bcf36958cd7a82e8d982411beeacb20b0e363
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="NOVELAS", 66 | TNT Novelas
 http://200.229.147.142:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="NOVELAS", 66.1 | TNT Novelas 89
-http://179.1.87.75:8089/play/a0us/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNTNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNTNOVELAS_stream_rn&_cdn_session=3534425173&_cdn_token=46880975a3954dbff50e91a7e68f60eadcdae495
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="INTERNACIONALES", 66 | Univision
 http://200.229.147.142:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo 
