@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", TELEMUNDO EAST
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", TELEMUNDO EAST 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
