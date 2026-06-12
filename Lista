@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", eventos
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=784d6b54efe3a13dc1fbcda17e5804db:b4f4814e01943f910b62e6bfd0c23728
+https://live1-ott.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS", dspors 
