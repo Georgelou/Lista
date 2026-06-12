@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", eventos1
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", DSPORTS
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
