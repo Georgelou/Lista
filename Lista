@@ -96,8 +96,8 @@ http://179.1.199.50:9000/play/a05t
 http://38.191.202.162:45000/play/a06n
 
 
-#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.1 | EVENTOS Disney 
-https://streamx339.cloud/global1.php?channel=disney3
+#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.1 | EVENTOS BRASIL 
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/26
 
 #EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.2 | EVENTOS  ECUADOR vs EU
 http://200.39.57.254:8008/play/a004
