@@ -113,8 +113,8 @@ http://205.235.6.9:8000/play/a006/index.m3u8?hls
 http://201.219.11.182:7777/play/a1qs/index.m3u8
 #EXTINF:-1 tvg-id="MX | AAA" tvg-name="MX | EVENTOS ECUADOR" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.2 | EVENTOS || ECUADOR Zapping
 http://181.119.97.124:8000/play/a00v/index.m3u8?hls
-#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.1 | EVENTO ..
-http://tvtvhd.com/vivo/canales.php?stream=espn
+#EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.1 | EVENTO F1 ..
+http://157.100.9.51:8000/play/a25o
 
 #EXTINF:-1 tvg-id="MX | FOX SPORTS" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/%2BFutebol.png" group-title="EVENTOS", 1034.2 | EVENTO DIARIOS
 https://streamtpnew.com/global1.php?stream=mls3en
@@ -125,7 +125,7 @@ http://104.129.12.146:18080/stream/tbs.ts
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="DEPORTES", 1034.1 | BEIN SPORTS
 http://181.78.106.127:9000/play/ca039
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="EVENTOS", 1034.2 | PPV + SPORTS
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/31
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/8
 #EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf
 http://38.44.109.41:8003/play/a01j
 
