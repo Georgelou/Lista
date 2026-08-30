@@ -508,12 +508,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb96754e83e70008ab8941/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/61f07513227feb00073ee6bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
 #EXTINF:-1 tvg-id="6322099c822bbc00074857db" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="CANALES 24/7" tvg-chno="1465", Los Padrinos Mágicos
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
-#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="CANALES 24/7" tvg-chno="1470", Las Tortugas Ninja
-https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
+#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="CANALES 24/7" tvg-chno="1470", chespirito
+https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | SIMPSON" tvg-name="PE | SIMPSON" tvg-logo="" group-title="CANALES 24/7", 54 | SIMPSON || 
-https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | DIGIMON" tvg-name="PE | DIGIMON" tvg-logo="" group-title="CANALES 24/7", 55 | DIGIMON || 
-https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | DIGIMON" tvg-name="PE | DIGIMON" tvg-logo="" group-title="CANALES 24/7", 55 | Chavo || 
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | DRAGON BALL SUPER" tvg-name="PE | DRAGON BALL SUPER" tvg-logo="" group-title="CANALES 24/7", 56 | DRAGÓN BALL SUPER|| 
 https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | DRAGÓN BALL " tvg-name="PE | DRAGON BALL" tvg-logo="" group-title="CANALES 24/7", 57 | DRAGON BALL || 
