@@ -15,10 +15,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", DSPORTS
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", DSPORTS.
 http://45.239.49.157:8000/play/a0jb
 
 
