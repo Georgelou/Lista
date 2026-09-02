@@ -96,8 +96,8 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/26
 #EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.2 | EVENTOS  ECUADOR vs EU
 http://200.39.57.254:8008/play/a004
 
-#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.3 | EVENTOS za
-http://181.78.192.238:8000/play/a2hp/index.m3u8
+#EXTINF:-1 tvg-id="MX | COPA ECUADOR" tvg-name="MX | EVENTO" tvg-logo="" group-title="EVENTOS", 1033.3 | EVENTOS zapping
+http://204.199.246.85:58000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR Zapping ds
 http://157.100.9.51:8000/play/a26g
