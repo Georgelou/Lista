@@ -590,9 +590,9 @@ http://200.60.124.20:29000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="PE | FOX SPORTS 2" tvg-name="PE | FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSport2AR.webp" group-title="DEPORTES", 50 | FOX SPORTS 2 || DEPORTES 
 http://200.60.124.20:29000/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX SPORTS 2" tvg-name="MX | FOX SPORTS 2" tvg-logo="https://i.ibb.co/9nRjqkY/fs2-mx.png" group-title="DEPORTES", 50.1 | FOX SPORTS 2 || MEXICO 
-http://45.189.151.7:8000/play/a06n/index.m3u8
+http://200.115.120.1:8000/play/ca126
 #EXTINF:-1 tvg-id="PE | FOX SPORTS 3" tvg-name="PE | FOX SPORTS 3" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/FoxSports3AR.webp" group-title="DEPORTES", 51 | FOX SPORTS 3|| DEPORTES 
-http://200.60.124.20:29000/play/a0ku/index.m3u8
+http://195.178.110.110/foxsports3/index.m3u8
 #EXTINF:-1,"FOX SPORTS 3 MX" tvg-name="PE | FOX SPORTS 3" tvg-logo="https://i.ibb.co/PrM96SV/fs3-mx.png" group-title="DEPORTES", 51.1 | FOX SPORTS 3 MX|| DEPORTES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -600,13 +600,13 @@ http://200.60.124.20:29000/play/a0ku/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 #EXTINF:-1 tvg-id="MX | FOX SPORTS PREMIUM" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="DEPORTES", 51.2 | FOX SPORTS PREMIUM  || DEPORTES 
-http://38.210.3.64:8090/play/a083/index.m3u8
+http://195.178.110.110/foxsportspremium/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX DEPORTES" tvg-name="MX | FOX DEPORTES" tvg-logo="" group-title="DEPORTES", 51.3 | FOX DEPORTES  || DEPORTES 
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+http://195.178.110.110/foxdeportes/index.m3u8
 #EXTINF:-1 tvg-id="MX | FOX DEPORTES" tvg-name="MX | FOX DEPORTES" tvg-logo="" group-title="DEPORTES", 51.4 | FOX DEPORTES  || DEPORTES 
-http://131.161.83.249:8031/play/a02d
+http://195.178.110.110/foxdeportes/index.m3u8
 #EXTINF:-1 tvg-id="PE | TyC SPORTS" tvg-name="PE | TyC SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/tycSports.webp" group-title="DEPORTES", 52 | TyC SPORTS || DEPORTES 
-http://104.238.205.28:8989/278778_.m3u8
+http://195.178.110.110/tycsports/index.m3u8
 #EXTINF:-1 tvg-id="PE | TNT SPORTS " tvg-name="PE | TNT SPORTS" tvg-logo="" group-title="DEPORTES", 53 | TNT SPORTS CH || DEPORTES 
 http://205.235.6.9:8000/play/a005/index.m3u8?hls
 #EXTINF:-1 tvg-id="PE | TUDN" tvg-name="PE | TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="DEPORTES", 130 | TUDN
