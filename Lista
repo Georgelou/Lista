@@ -51,11 +51,8 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="EVENTOS", Canal 5.1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
-https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="EVENTOS", ESPN PREMIUM 
+http://195.178.110.110/espnpremium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" group-title="EVENTOS", Golden
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
