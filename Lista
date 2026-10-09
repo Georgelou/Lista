@@ -44,14 +44,10 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="EVENTOS", Canal 5
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
-https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
-
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", ESPN PERU.
+http://179.1.199.50:9000/play/a05t
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="EVENTOS", ESPN PREMIUM 
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", ESPN PREMIUM 
 http://195.178.110.110/espnpremium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" group-title="EVENTOS", Golden
@@ -78,7 +74,7 @@ https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-1-HD/default.mpd
 http://204.199.246.85:58000/play/a001
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN..
-http://179.1.199.50:9000/play/a05t
+http://38.44.109.41:8003/play/a0c7/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN premium ARG
 http://38.191.202.162:45000/play/a06n
