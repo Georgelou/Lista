@@ -121,7 +121,7 @@ http://181.78.106.127:9000/play/ca039
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | bein sports" tvg-logo="" group-title="EVENTOS", 1034.2 | PPV + SPORTS
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/8
 #EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf
-http://38.44.109.41:8003/play/a0j3
+http://38.44.109.41:8003/play/a0j5
 #EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf1
 http://38.44.109.41:8003/play/a0i7
 
