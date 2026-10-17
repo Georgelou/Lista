@@ -147,8 +147,8 @@ http://205.235.6.29:8000/play/a0zf/index.m3u8
 http://190.61.42.218:9000/play/a04l
 #EXTINF:-1 tvg-id="PE | ESPN" tvg-name="PE | Canal J" tvg-logo="" group-title="DEPORTES", 8.2 | ESPN EC
 http://157.100.9.51:8000/play/a1t7
-#EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2
-http://200.60.124.20:29000/play/a0sn/index.m3u8
+#EXTINF:-1 tvg-id="PE | ESPN 2 LATIN" tvg-name="PE | Andina Television" tvg-logo="" group-title="DEPORTES", 9 | ESPN 2 LT
+http://181.78.12.119:16123/play/ch17/index.m3u8
 EXTINF:-1 tvg-id="PE | ESPN 2" tvg-name="MX | ESPN2" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN 2sd
 http://190.95.60.228:8400/play/a195
 #EXTINF:-1 tvg-id="PE |  ESPN 3" tvg-name="PE | ESPN3" tvg-logo="" group-title="DEPORTES", 9.2 | ESPN 3
