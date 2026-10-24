@@ -13,7 +13,7 @@ https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.mpd
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS", DSPORTS.
-http://45.239.49.157:8000/play/a0jb
+http://200.24.131.229:18080/play/a0bh/index.m3u8
 
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
@@ -22,7 +22,7 @@ http://157.100.9.51:8000/play/a25e
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS", dspors 
-http://38.252.215.33:8000/play/a00q/index.m3u8
+http://45.239.49.157:8000/play/a0jb
 
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS", dspors 2
@@ -87,7 +87,7 @@ http://200.39.57.254:8008/play/a004
 http://204.199.246.85:58000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR Zapping ds
-http://157.100.9.51:8000/play/a26g
+http://38.252.215.33:8000/play/a00q/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECUADOR ECDF
@@ -113,7 +113,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/8
 #EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf
 http://38.44.109.41:8003/play/a0j5
 #EXTINF:-1 tvg-id="MX | ecdf" tvg-name="MX | bein sports" tvg-logo="https://static.elcanaldelfutbol.com/static/images/logo_mobile_ORIGINAL.png" group-title="DEPORTES", 1034.3 | ecdf1
-http://38.44.109.41:8003/play/a0i7
+http://157.100.9.51:8000/play/a26g
 
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 http://200.60.124.19:29000/play/a06s
