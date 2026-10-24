@@ -68,7 +68,7 @@ https://live-atv-cdn.izzigo.tv:443/4/out/u/dash/AZTECA-1-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="EVENTOS", 1034.1 | EVENTOS ECPRO
-http://204.199.246.85:58000/play/a001
+http://179.60.191.102:8000/play/a0in
 
 #EXTINF:-1 tvg-id="MX | AZTECA 1" tvg-name="MX | AZTECA 1" tvg-logo="" group-title="DEPORTES", 1034.1 | ESPN..
 http://38.44.109.41:8003/play/a0c7/index.m3u8
