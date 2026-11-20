@@ -45,7 +45,7 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 http://179.1.199.50:9000/play/a05t
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS", ESPN PREMIUM 
-http://195.178.110.110/espnpremium/index.m3u8
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" group-title="EVENTOS", Golden
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
