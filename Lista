@@ -308,9 +308,9 @@ http://190.93.224.42/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.2 | GOLDEN 45
 http://181.78.23.26:45000/play/a04c
 #EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46 | GOLDEN EDGE 190.61
-http://190.61.43.116:45000/play/a0c2/index.m3u8
+http://181.78.8.199:8000/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46.1 | GOLDEN EDGE 45
-http://45.181.122.46:8090/play/a038
+http://190.61.43.116:45000/play/a0c2
 #EXTINF:-1 tvg-id="PE | GOLDEN PLUS" tvg-name="PE | GOLDEN" tvg-logo="" group-title="PELICULAS Y SERIES", 47 | GOLDEN PLUS 190.61
 http://190.61.43.116:45000/play/a0c1
 #EXTINF:-1 tvg-id="PE | GOLDEN PREMIERE" tvg-name="PE | GOLDEN PREMIERE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS Y SERIES", 48 | GOLDEN PREMIER 45.186
@@ -977,12 +977,16 @@ http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", En prueba | RCN
+http://181.78.8.199:8000/play/a0jy/index.m3u8
+#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", RCN
 http://190.61.43.116:45000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", RCN
 http://179.1.199.50:9000/play/a08n
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", RCN
 http://179.1.87.75:8098/play/a0g6/index.m3u8
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", En prueba | Caracol Television HD
+http://181.78.8.199:8000/play/a0jz/index.m3u8
+#EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", Caracol Television
 http://179.1.199.50:9000/play/a0a1
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", Caracol Television
 http://179.1.87.75:8098/play/a0g5/index.m3u8
