@@ -304,9 +304,9 @@ http://190.60.37.154:45000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45 | GOLDEN 190.61
 http://190.61.114.186:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.1 | GOLDEN 181
-http://181.78.23.26:45000/play/a04c
+http://190.93.224.42/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden-mediano.png" group-title="PELICULAS Y SERIES", 45.2 | GOLDEN 45
-http://45.181.122.46:8090/play/a019
+http://181.78.23.26:45000/play/a04c
 #EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46 | GOLDEN EDGE 190.61
 http://190.61.43.116:45000/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="PE | GOLDEN EDGE" tvg-name="PE | GOLDEN" tvg-logo="https://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="PELICULAS Y SERIES", 46.1 | GOLDEN EDGE 45
