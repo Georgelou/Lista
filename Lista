@@ -925,10 +925,14 @@ http://45.225.90.239:8011/play/a00h/index.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b241080876268770116de318
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", 286 | RTS || ECUADOR
 http://45.188.229.33:8000/play/a1iu/index.m3u8
+#EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", 286 | RTS || ECUADOR
+http://157.100.248.242:8080/RTSHD/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR", 287 | TVC || ECUADOR
-https://d20vw2nliscnu1.cloudfront.net/0_3/index.m3u8
+http://157.100.248.242:8080/TVCHD/index.m3u8
 #EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-name="EC | TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", 288 | TELEAMAZONAS || ECUADOR 
 http://45.188.229.33:8000/play/a1gk/index.m3u8
+#EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-name="EC | TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", 288 | TELEAMAZONAS || ECUADOR 
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 289 | Gamavisión || ECUADOR
 http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 290 | Ecuador TV || ECUADOR
